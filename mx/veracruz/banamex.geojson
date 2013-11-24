@@ -1,0 +1,1832 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.91341",
+          "17.947706"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Acayucan,Ver",
+        "address": "Guadalupe Victoria 19-A",
+        "openingHours": null,
+        "municipality": "Acayucan",
+        "zipCode": "96000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.91561",
+          "17.948181"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "La Palma",
+        "name": "Chedraui Acayucan, Ver",
+        "address": "Juan De La Luz Enriquez 711",
+        "openingHours": null,
+        "municipality": "Acayucan",
+        "zipCode": "96056",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.14692",
+          "18.143002"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Cuatro Caminos",
+        "name": "Agua Dulce Ver",
+        "address": "Francisco I Madero Esquina La Venta L-6 Al 10",
+        "openingHours": null,
+        "municipality": "Agua Dulce",
+        "zipCode": "96660",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.24516",
+          "19.76542"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Altotonga,Ver",
+        "address": "Miguel Hidalgo 38",
+        "openingHours": null,
+        "municipality": "Altotonga",
+        "zipCode": "93700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.94463",
+          "19.59023"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Banderilla,Ver",
+        "address": "Benito Juarez 92-A",
+        "openingHours": null,
+        "municipality": "Banderilla",
+        "zipCode": "91300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.10648",
+          "19.10559"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Plaza Del Rio, Ver",
+        "address": "Boulevard Presidentes (Miguel Aleman) 3750",
+        "openingHours": null,
+        "municipality": "Boca Del Rio",
+        "zipCode": "94290",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.10681",
+          "19.14057"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Jardines De Mocambo",
+        "name": "Continental,Boca Del Rio, Ver",
+        "address": "Rancho Viejo 3495",
+        "openingHours": null,
+        "municipality": "Boca Del Rio",
+        "zipCode": "94299",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.10715",
+          "19.140804"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Jardines De Mocambo",
+        "name": "Las Americas, Boca Del Rio, Ver",
+        "address": "Cto.Comer.Pza.Las Americas L.14 Y 15 0",
+        "openingHours": null,
+        "municipality": "Boca Del Rio",
+        "zipCode": "91940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.11129",
+          "19.158266"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Fraccionamiento Jardines De Virginia",
+        "name": "Plaza Mocambo, Boca Del Rio, Ver",
+        "address": "Juan Pablo Ii 48",
+        "openingHours": null,
+        "municipality": "Boca Del Rio",
+        "zipCode": "94294",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.11839",
+          "19.159286"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Fraccionamiento Costa Verde",
+        "name": "Boca Del Rio, Ver.",
+        "address": "S.S. Juan Pablo Ii 1555",
+        "openingHours": null,
+        "municipality": "Boca Del Rio",
+        "zipCode": "94294",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.13356",
+          "19.14479"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Las Antillas",
+        "name": "Ejercito Mexicano, Boca Del Rio, Ver",
+        "address": "Paseo Ejercito Mexicano Poniente 3750",
+        "openingHours": null,
+        "municipality": "Boca Del Rio",
+        "zipCode": "91936",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.18943",
+          "18.795818"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Ciudad Mendoza Ver",
+        "address": "Hidalgo 326",
+        "openingHours": null,
+        "municipality": "Camerino Z. Mendoza",
+        "zipCode": "94740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.960434",
+          "19.452902"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Coatepec Ver",
+        "address": "Aldama 10",
+        "openingHours": null,
+        "municipality": "Coatepec",
+        "zipCode": "91500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.414215",
+          "18.146036"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Coatzacoalcos,Ver",
+        "address": "Benito Juarez Sn",
+        "openingHours": null,
+        "municipality": "Coatzacoalcos",
+        "zipCode": "96400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.42175",
+          "18.14563"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Zaragoza Coatzacoalcos, Ver",
+        "address": "Avenida Vicente Guerrero Sn",
+        "openingHours": null,
+        "municipality": "Coatzacoalcos",
+        "zipCode": "96400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.43268",
+          "18.142328"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "C.F. Puerto Mexico, Coatzacoal, Ver",
+        "address": "Miguel Hidalgo Sn",
+        "openingHours": null,
+        "municipality": "Coatzacoalcos",
+        "zipCode": "96400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.43631",
+          "18.13034"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Cangrejera, Coatzacoal, Ver",
+        "address": "Carretera A Villahermosa Km 03",
+        "openingHours": null,
+        "municipality": "Coatzacoalcos",
+        "zipCode": "96400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.46561",
+          "18.148333"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Fraccionamiento Paraiso",
+        "name": "Plaza Del Mar, Coatzacoalcos, Ver",
+        "address": "Avenida Malecon Costero John Sparks 1701",
+        "openingHours": null,
+        "municipality": "Coatzacoalcos",
+        "zipCode": "96536",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.46676",
+          "18.14072"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Aduana Coatzacoalcos,Ver",
+        "address": "Resinto Aduanal Interior S/N",
+        "openingHours": null,
+        "municipality": "Coatzacoalcos",
+        "zipCode": "96400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.4758",
+          "18.142948"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Pensiones",
+        "name": "Plaza Manati, Coatzacoal, Ver",
+        "address": "Avenida Universidad Veracruzana (Antiguo Camino A Minatitlan) Km 5 #1",
+        "openingHours": null,
+        "municipality": "Coatzacoalcos",
+        "zipCode": "96536",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.93182",
+          "18.893064"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Huilango, Cordoba, Ver",
+        "address": "Calle 9 220",
+        "openingHours": null,
+        "municipality": "Cordoba",
+        "zipCode": "94500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.93388",
+          "18.892817"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Cordoba Ver",
+        "address": "Avenida 3 508",
+        "openingHours": null,
+        "municipality": "Cordoba",
+        "zipCode": "94500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.93485",
+          "18.893696"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "C.F. Cordoba, Ver",
+        "address": "Avenida 3 112",
+        "openingHours": null,
+        "municipality": "Cordoba",
+        "zipCode": "94500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-95.971306",
+          "18.260658"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Cosamaloapan Ver",
+        "address": "Venustiano Carranza Esquina Ruiz Cortine S/N",
+        "openingHours": null,
+        "municipality": "Cosamaloapan",
+        "zipCode": "95400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.72081",
+          "18.811811"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "San Juan De La Punta,Ver",
+        "address": "Avenida 1 425 Entre",
+        "openingHours": null,
+        "municipality": "Cuitlahuac",
+        "zipCode": "93420",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.99776",
+          "18.899855"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Fortin, Ver.",
+        "address": "Avenida 1 Oriente 204",
+        "openingHours": null,
+        "municipality": "Fortin De Las Flores",
+        "zipCode": "94700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.08345",
+          "20.450504"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Gutierrez Zamora Ver",
+        "address": "Manuel Avila Camacho 20",
+        "openingHours": null,
+        "municipality": "Gutierrez Zamora",
+        "zipCode": "93550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.96399",
+          "19.150364"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Huatusco",
+        "name": "Huatusco,Ver.",
+        "address": "Avenida 2 Poniente 316",
+        "openingHours": null,
+        "municipality": "Huatusco",
+        "zipCode": "94100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-95.52927",
+          "18.030739"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Isla Ver",
+        "address": "Ing.Raul Sandoval 52",
+        "openingHours": null,
+        "municipality": "Isla",
+        "zipCode": "95640",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.063446",
+          "18.860088"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Ixtaczoquitlan  Ver",
+        "address": "Carretera Nacional Mexico Ver Km 320",
+        "openingHours": null,
+        "municipality": "Ixtaczoquitlan",
+        "zipCode": "94450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.86558",
+          "19.507866"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Pastoresa",
+        "name": "Americas Xalapa, Jalapa, Ver",
+        "address": "Avenida Lazaro Cardenas Carretera Jalapa Paso De Ovejas Km 2",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91113",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.89361",
+          "19.522453"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Jardines De Las Animas",
+        "name": "Hacienda Animas, Jalapa, Ver",
+        "address": "Lazaro Cardenas S/N L 66",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91190",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.908104",
+          "19.536154"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Encinal",
+        "name": "Plaza Cristal, Jalapa, Ver",
+        "address": "Avenida Lazaro Cardenas Loc 12",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.917404",
+          "19.519152"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Zona Universitaria",
+        "name": "Sec Univ Veracruzana, Jalapa, Ver",
+        "address": "Circuito Gonzalo Aguirre Beltran S/N",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.92063",
+          "19.527544"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Ensue\u00a5O",
+        "name": "C.F. Jalapa, Ver",
+        "address": "Jalape~Os Ilustres S/N",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.922424",
+          "19.532803"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Xallitic, Jalapa, Ver",
+        "address": "Poeta Jesus Diaz 107 Y 109",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.928314",
+          "19.559887"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Unidad Del Bosque, Pensiones",
+        "name": "Cm Jalapa,Ver.",
+        "address": "Avenida Xalapa 279",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.9286",
+          "19.539078"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Unidad Veracruzana",
+        "name": "Avila Camacho, Jalapa, Ver",
+        "address": "Avenida Manuel Avila Camacho 243",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.93349",
+          "19.548817"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Obrero Campesina",
+        "name": "Plaza Museo, Jalapa, Ver",
+        "address": "Lucio Blanco 458",
+        "openingHours": null,
+        "municipality": "Jalapa",
+        "zipCode": "91020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.71732",
+          "17.964067"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Jaltipan,Ver",
+        "address": "Morelos Esquina Leandro Valle S/N",
+        "openingHours": null,
+        "municipality": "Jaltipan",
+        "zipCode": "96200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-95.40299",
+          "17.9885"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Rodriguez Clara,Ver",
+        "address": "Miguel Hidalgo 703",
+        "openingHours": null,
+        "municipality": "Juan Rodriguez Clara",
+        "zipCode": "95670",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.37011",
+          "19.379202"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Cardel, Cd. Cardel, Ver",
+        "address": "Flores Magon 11",
+        "openingHours": null,
+        "municipality": "La Antigua",
+        "zipCode": "91680",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.09082",
+          "17.916075"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Las Choapas Ver",
+        "address": "Revolucion 202",
+        "openingHours": null,
+        "municipality": "Las Choapas",
+        "zipCode": "96980",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.05139",
+          "20.057503"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Independencia",
+        "name": "Villa Independencia, Martinez De La, Ver",
+        "address": "Boulevard Manuel Avila Camacho S/N",
+        "openingHours": null,
+        "municipality": "Martinez De La Torre",
+        "zipCode": "93600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.05376",
+          "20.062187"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Martinez De La Torre,Ver",
+        "address": "Avila Camacho Esquina Guerrero S/N",
+        "openingHours": null,
+        "municipality": "Martinez De La Torre",
+        "zipCode": "93600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.23443",
+          "19.171162"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Valente Diaz Y La Loma",
+        "name": "Cd Industrial Framboyan,Cd Indust, Ver",
+        "address": "Ffcc A Santa Rita Lote 2A",
+        "openingHours": null,
+        "municipality": "Medellin",
+        "zipCode": "91698",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.55863",
+          "17.99928"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Minatitlan Ver",
+        "address": "Miguel Hidalgo 86",
+        "openingHours": null,
+        "municipality": "Minatitlan",
+        "zipCode": "96700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.56574",
+          "18.030182"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Azteca",
+        "name": "Justo Sierra,Minatitlan,Ver",
+        "address": "Justo Sierra Sn",
+        "openingHours": null,
+        "municipality": "Minatitlan",
+        "zipCode": "96918",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.577614",
+          "17.9934"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Insurgentes Norte",
+        "name": "Insurgentes Mina, Minatitlan, Ver",
+        "address": "Boulevard Instituto Tecnologico 167",
+        "openingHours": null,
+        "municipality": "Minatitlan",
+        "zipCode": "96710",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.85289",
+          "19.927483"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Misantla Ver",
+        "address": "Zaragoza 109-B Esq",
+        "openingHours": null,
+        "municipality": "Misantla",
+        "zipCode": "93820",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-94.412636",
+          "18.071245"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Primero De Mayo",
+        "name": "Nanchital Ver",
+        "address": "5 De Mayo Esquina Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Nanchital",
+        "zipCode": "96360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.687355",
+          "21.349302"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Naranjos,Ver",
+        "address": "Avenida 16 De Septiembre S/N",
+        "openingHours": null,
+        "municipality": "Naranjal",
+        "zipCode": "92300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.09295",
+          "18.848083"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Pluviosilla, Orizaba, Ver",
+        "address": "Avenida Oriente 6",
+        "openingHours": null,
+        "municipality": "Orizaba",
+        "zipCode": "94300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.1043",
+          "18.846052"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Orizaba, Ver",
+        "address": "Francisco I Madero Sur 84",
+        "openingHours": null,
+        "municipality": "Orizaba",
+        "zipCode": "94300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.11268",
+          "18.869637"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Abelardo L Rodriguez",
+        "name": "Pico De Orizaba, Ver",
+        "address": "Avenida Oriente 31",
+        "openingHours": null,
+        "municipality": "Orizaba",
+        "zipCode": "94310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.32255",
+          "20.444859"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Papantla De Olarte",
+        "name": "Papantla Ver",
+        "address": "Juan Enriquez 102",
+        "openingHours": null,
+        "municipality": "Papantla",
+        "zipCode": "93400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.24354",
+          "19.561647"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Perote,Ver",
+        "address": "Madero Entre Humbolt E Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Perote",
+        "zipCode": "97751",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.43885",
+          "20.563343"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "La Rueda",
+        "name": "Patio Poza Rica, Ver",
+        "address": "Carretera Poza Rica-Cazones Km 50",
+        "openingHours": null,
+        "municipality": "Poza Rica",
+        "zipCode": "93306",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.451035",
+          "20.546904"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Fraccionamiento Las Palmas",
+        "name": "18 De Marzo, Poza Rica, Ver",
+        "address": "Boulevard Adolfo Ruiz Cortines 1610",
+        "openingHours": null,
+        "municipality": "Poza Rica",
+        "zipCode": "93230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.46067",
+          "20.525635"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Obrera",
+        "name": "Mercado Poza Rica, Ver",
+        "address": "Calle 6 Norte 15",
+        "openingHours": null,
+        "municipality": "Poza Rica",
+        "zipCode": "93260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.461464",
+          "20.528465"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Obrera",
+        "name": "Poza Rica Ver",
+        "address": "Avenida Heriberto Kehoe Vincent Sn",
+        "openingHours": null,
+        "municipality": "Poza Rica",
+        "zipCode": "93260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.47123",
+          "20.535353"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Morelos",
+        "name": "Plaza Tajin, Poza Rica, Ver",
+        "address": "Boulevard Lazaro Cardenas 807",
+        "openingHours": null,
+        "municipality": "Poza Rica",
+        "zipCode": "93340",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.13661",
+          "18.83852"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Congreso V Guerrero",
+        "name": "Rio Blanco,Ver",
+        "address": "Camino Nacional 250",
+        "openingHours": null,
+        "municipality": "Rio Blanco",
+        "zipCode": "94730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-95.213005",
+          "18.446388"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "San Andres Tuxtla Ver",
+        "address": "Francisco I Madero 4",
+        "openingHours": null,
+        "municipality": "San Andres Tuxtla",
+        "zipCode": "95700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.86506",
+          "20.18748"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "San Rafael",
+        "name": "San Rafael,Ver",
+        "address": "Ribera Del Rio 53",
+        "openingHours": null,
+        "municipality": "San Rafael",
+        "zipCode": "93620",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-95.37343",
+          "18.469818"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Santiago Tuxtla, Ver",
+        "address": "Carretera Federal S/N",
+        "openingHours": null,
+        "municipality": "Santiago Tuxtla",
+        "zipCode": "95830",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.226234",
+          "21.351845"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Tantoyuca,Ver",
+        "address": "Jose Maria Morelos 35",
+        "openingHours": null,
+        "municipality": "Tantoyuca",
+        "zipCode": "92100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.6774",
+          "20.918324"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Alamo,Ver",
+        "address": "Independencia 174-A",
+        "openingHours": null,
+        "municipality": "Temapache",
+        "zipCode": "94910",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.39527",
+          "21.520638"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Tempoal Ver",
+        "address": "Avenida Hidalgo Y Eduardo B Martinez S/N",
+        "openingHours": null,
+        "municipality": "Tempoal",
+        "zipCode": "92060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.36007",
+          "18.446724"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Tierra Blanca Ver",
+        "address": "Independencia 602",
+        "openingHours": null,
+        "municipality": "Tierra Blanca",
+        "zipCode": "95100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.53706",
+          "20.720545"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Tihuatlan,Ver",
+        "address": "Avenida Cuauhtemoc 27",
+        "openingHours": null,
+        "municipality": "Tihuatlan",
+        "zipCode": "92900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.216484",
+          "19.961435"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Tlapacoyan,Ver",
+        "address": "Cuauhtemoc 300",
+        "openingHours": null,
+        "municipality": "Tlapacoyan",
+        "zipCode": "93650",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.4042",
+          "20.951923"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Palma Sola,Ver",
+        "address": "Avenida Benito Juarez 21",
+        "openingHours": null,
+        "municipality": "Tuxpam",
+        "zipCode": "92800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.40716",
+          "20.953808"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Tuxpan, Ver.",
+        "address": "Avenida Benito Juarez Sn",
+        "openingHours": null,
+        "municipality": "Tuxpam",
+        "zipCode": "92800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.45614",
+          "20.954792"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Domicilio Conocido",
+        "name": "Aduana Tuxpan,Ver",
+        "address": "Carretera Cobos Barra Sur S/N",
+        "openingHours": null,
+        "municipality": "Tuxpam",
+        "zipCode": "10000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.12346",
+          "19.187187"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Faros",
+        "name": "Plaza Acuario,Ver",
+        "address": "Boulevard Manuel Avila Camacho S/N",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91709",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.124756",
+          "19.169785"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Fraccionamiento Reforma",
+        "name": "Espa~A, Veracruz, Ver",
+        "address": "Jose Marti 462",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91919",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.12928",
+          "19.174685"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Ignacio Zaragoza",
+        "name": "Reforma, Veracruz, Ver",
+        "address": "Calzada Simon Bolivar 900",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91910",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.132454",
+          "19.162704"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "El Maestro",
+        "name": "Floresta,Ver",
+        "address": "Salvador Diaz Miron S/N",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91920",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.134865",
+          "19.195475"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Parque Zamora, Veracruz, Ver",
+        "address": "General Prim 84",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.13788",
+          "19.196678"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Faros",
+        "name": "0.F. Villa Rica,Ver",
+        "address": "Avenida 5 De Mayo 315",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91709",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.13931",
+          "19.19312"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Mercado Veracruz, Ver.",
+        "address": "Hernan Cortes 376",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.13955",
+          "19.201097"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Faros",
+        "name": "Veracruz Ver",
+        "address": "Independencia 1027",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91709",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.141335",
+          "19.201042"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Centro",
+        "name": "Emparan, Veracruz, Ver",
+        "address": "Avenida 5 De Mayo 262",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.15613",
+          "19.170849"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Unid Habit El Coyol",
+        "name": "Chedraui Coyol, Ver",
+        "address": "Eje 1 Poniente Lt 1 Cuartel Xv 0",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91760",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.16245",
+          "19.205006"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Fraccionamiento Los Pinos",
+        "name": "Los Pinos,Ver.",
+        "address": "Avenida Matamoros 1056",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91870",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-96.19003",
+          "19.213829"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Veracruz",
+        "neighborhood": "Las Brisas",
+        "name": "Las Brisas, Veracruz, Ver",
+        "address": "Avenida Doctor Joaquin Perea Blanco 1150",
+        "openingHours": null,
+        "municipality": "Veracruz",
+        "zipCode": "91800",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

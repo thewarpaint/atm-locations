@@ -1,0 +1,635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.57502",
+          "20.997597"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Poligono Itzimina",
+        "name": "Macroplaza, Merida, Yuc",
+        "address": "Calle 44 601",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97143",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.58536",
+          "21.01412"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Fraccionamiento Altabrisa",
+        "name": "Altabrisa, Merida, Yuc",
+        "address": "Calle 7 451 L63B M",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.59141",
+          "20.959904"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Oriente",
+        "name": "Chichen, Merida, Yuc",
+        "address": "Calle 65 924",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97167",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.596535",
+          "21.000433"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Carrillo Puerto",
+        "name": "Plaza Fiesta, Merida, Yuc",
+        "address": "Calle 6 400  Loc:1",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97136",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.59773",
+          "20.992197"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Miguel Aleman",
+        "name": "Aleman, Merida, Yuc",
+        "address": "Calle 27 180",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97148",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.60728",
+          "21.02205"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "San Antonio Cucul",
+        "name": "El Pocito, Merida, Yuc",
+        "address": "Calle 49 250",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97116",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.61646",
+          "20.995506"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Itzimina",
+        "name": "Prolongacion Montejo, Merida, Yuc",
+        "address": "Prolongacion Paseo Montejo 113",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.61714",
+          "20.989218"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Itzimna",
+        "name": "C.F. Paseo, Merida, Yuc.",
+        "address": "Calle 56A 437",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.617676",
+          "20.934488"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Santa Rosa",
+        "name": "Santa Rosa, Merida, Yuc",
+        "address": "Calle 115 404-A",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97279",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.61814",
+          "21.018194"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Villas La Hacienda",
+        "name": "Campestre Merida,Yuc.",
+        "address": "Calle 42 308",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97119",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.619644",
+          "20.961544"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Mercado Merida, Merida, Yuc",
+        "address": "Calle 69 468",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.619896",
+          "20.990828"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Fraccionamiento Se~Orial",
+        "name": "Galerias Merida, Yuc.",
+        "address": "Calle 60 299",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97059",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.62043",
+          "20.968452"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Merida,Yuc",
+        "address": "Calle 56 485",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.621704",
+          "20.997213"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Pedregales Tanlum",
+        "name": "Chuburna, Merida, Yuc",
+        "address": "Calle 60 277",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97210",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.62402",
+          "20.966543"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Casa De Montejo Merida  Yuc",
+        "address": "Calle 63 506",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.62467",
+          "21.026722"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Gonzalo Guerrro",
+        "name": "La Torre, Merida, Yuc",
+        "address": "Calle 33 501-A",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97118",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.62596",
+          "21.029158"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Gonzalo Guerrero",
+        "name": "Gran Plaza, Merida, Yuc",
+        "address": "Calle 46 Local 57",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.629684",
+          "21.031063"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Cordemex",
+        "name": "Carr. Merida,Yuc",
+        "address": "Avenida Salvador Alvarado 301A Loc 8",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.638535",
+          "20.990387"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Garcia Gineres",
+        "name": "Donde, Merida, Yuc",
+        "address": "Calle 32 200-A",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.65008",
+          "21.022076"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Chuburna",
+        "name": "Francisco De Montejo, Yuc",
+        "address": "Calle 50 301",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.65057",
+          "20.993736"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Residencial Pensiones",
+        "name": "Dorada Merida,Yuc",
+        "address": "Calle 50 143",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97217",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.65506",
+          "20.945591"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Sambula",
+        "name": "Itzaes, Merida, Yuc",
+        "address": "Calle 86B 619",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.65712",
+          "20.985476"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Yucalpeten Indeco",
+        "name": "Soriana Canek",
+        "address": "Avenida Jacinto Canek S/N Loc 50",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97248",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.695946",
+          "20.921375"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "El Roble (Antes Cve Mun Inegi 050)",
+        "name": "Ciudad Industrial Uman, Merida, Yuc",
+        "address": "Carretera Merida-Uman Km. 7 .5",
+        "openingHours": null,
+        "municipality": "Merida",
+        "zipCode": "97288",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.28406",
+          "21.09629"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Motul,Yuc",
+        "address": "Calle 26-A 302",
+        "openingHours": null,
+        "municipality": "Motul",
+        "zipCode": "97430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.41899",
+          "20.301569"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Oxkutzcab Yuc",
+        "address": "Calle 50 105",
+        "openingHours": null,
+        "municipality": "Oxkutzcab",
+        "zipCode": "97880",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.66311",
+          "21.279644"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Progreso,Yuc",
+        "address": "Calle 80 125",
+        "openingHours": null,
+        "municipality": "Progreso",
+        "zipCode": "97320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-89.53471",
+          "20.397352"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Ticul,Yuc",
+        "address": "Calle 26 199-D",
+        "openingHours": null,
+        "municipality": "Ticul",
+        "zipCode": "97860",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-88.150154",
+          "21.141647"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Tizimin,Yuc",
+        "address": "Calle 51 Num 395-A",
+        "openingHours": null,
+        "municipality": "Tizimin",
+        "zipCode": "97704",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-88.204056",
+          "20.690023"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Yucatan",
+        "neighborhood": "Centro",
+        "name": "Valladolid Yucatan,Yuc",
+        "address": "Calle 41 206 Depto1",
+        "openingHours": null,
+        "municipality": "Valladolid",
+        "zipCode": "97780",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

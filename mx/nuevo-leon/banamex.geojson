@@ -1,0 +1,1937 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.0224",
+          "25.277906"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Zona Centro",
+        "name": "Allende N L",
+        "address": "Juarez 103",
+        "openingHours": null,
+        "municipality": "Allende",
+        "zipCode": "67350",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.763565",
+          "27.701014"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Colombia",
+        "name": "Aduana Puente Colombia,Nl",
+        "address": "Carretera Nuevo Laredo Piedras Negras Km 34.5 Km 34.5",
+        "openingHours": null,
+        "municipality": "Anahuac",
+        "zipCode": "65000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.17098",
+          "25.758827"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Pueblo Nuevo",
+        "name": "Pueblo Nuevo, Apodaca, Nl",
+        "address": "Rio Pilon 101",
+        "openingHours": null,
+        "municipality": "Apodaca",
+        "zipCode": "66646",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.17707",
+          "25.744839"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Hacienda A Huinala",
+        "name": "Huinala, Apodaca, Nl",
+        "address": "Carretera A Huinala Y Avenida Telefonos 0",
+        "openingHours": null,
+        "municipality": "Apodaca",
+        "zipCode": "66600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.18807",
+          "25.775274"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Apodaca",
+        "name": "Apodaca,Nl",
+        "address": "Porfirio Diaz Sur 607",
+        "openingHours": null,
+        "municipality": "Apodaca",
+        "zipCode": "66600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.002014",
+          "25.590212"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Zona Centro",
+        "name": "Cadereyta N L",
+        "address": "Avenida Hidalgo 116 Ote",
+        "openingHours": null,
+        "municipality": "Cadereyta",
+        "zipCode": "67450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.19674",
+          "25.674257"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "San Sebastian",
+        "name": "San Sebastian N.L.",
+        "address": "Avenida Presidente Benito Juarez Sn",
+        "openingHours": null,
+        "municipality": "General Escobedo",
+        "zipCode": "67198",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.29275",
+          "25.786709"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Aduana Escobedo,Nl",
+        "address": "Carretera Colombia Km 5.5",
+        "openingHours": null,
+        "municipality": "General Escobedo",
+        "zipCode": "66050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.32211",
+          "25.788649"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Praderas De Los Girasoles",
+        "name": "Escobedo, General Escobedo, Nl",
+        "address": "Avenida Raul Salinas Lozano 730",
+        "openingHours": null,
+        "municipality": "General Escobedo",
+        "zipCode": "66055",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.10775",
+          "25.897203"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Zona Centro",
+        "name": "General Zuazua N L",
+        "address": "Juarez Y Zaragoza S/N",
+        "openingHours": null,
+        "municipality": "General Zuazua",
+        "zipCode": "65750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.15244",
+          "25.66162"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "29 De Julio",
+        "name": "Santa Cruz, Cd Guadalupe, Nl",
+        "address": "Carretera Monterrey-Reynosa 0",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67196",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.16433",
+          "25.70559"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Valle Soleado",
+        "name": "Valle Soleado, Cd Guadalupe, Nl",
+        "address": "Carretera A Dulces Nombres 0",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.18382",
+          "25.65585"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Diaz Ordaz",
+        "name": "Pablo Livas, Cd. Guadalupe, Nl",
+        "address": "Avenida Pablo Livas Loc 6 Y 7",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.18938",
+          "25.722961"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Lomas San Miguel",
+        "name": "Acapulco, Cd. Guadalupe, Nl",
+        "address": "Avenida Acapulco S/N",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67113",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.208115",
+          "25.654194"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "San Eduardo",
+        "name": "Eloy Cavazos, Guadalupe, Nl",
+        "address": "Avenida Eloy Cavazos 5100",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "66480",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.21321",
+          "25.688763"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Las Quintas",
+        "name": "Las Quintas, Cd Guadalupe, Nl",
+        "address": "Avenida Lopez Mateos Y Antiguo Camino San Rafael 0",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.23579",
+          "25.678461"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Exposicion",
+        "name": "Expo Guadalupe,Nl",
+        "address": "Avenida Central 103",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.236115",
+          "25.70283"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Nueva Lindavista",
+        "name": "Nueva Lindavista, Cd Guadalupe, Nl",
+        "address": "Avenida Adolfo Ruiz Cortines 300",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.2477",
+          "25.702745"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Fraccionamiento Hercules",
+        "name": "Las Americas, San Nicolas, Nl",
+        "address": "Avenida Adolfo Ruiz Cortines Sn",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.25865",
+          "25.679644"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Guadalupe Centro, Cd Guadalupe, Nl",
+        "address": "General Ignacio Zaragoza 300",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.26202",
+          "25.68782"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "10 De Mayo",
+        "name": "Madero Oriente, Monterrey, Nl",
+        "address": "Padre Severiano Martinez 1985",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.265274",
+          "25.665222"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Santa Margarita",
+        "name": "Chapultepec, Cd Guadalupe, Nl",
+        "address": "Avenida Chapultepec 800",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.265854",
+          "25.65204"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Valle Del Contry",
+        "name": "Paseo De Las Americas,Nl",
+        "address": "Avenida Paseo De Las Americas 110",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "67174",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.56735",
+          "24.86189"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Linares N L",
+        "address": "Avenida Hidalgo 239",
+        "openingHours": null,
+        "municipality": "Linares",
+        "zipCode": "67700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.82542",
+          "25.188704"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Montemorelos N L",
+        "address": "Colon Esquina Zaragoza S/N",
+        "openingHours": null,
+        "municipality": "Montemorelos",
+        "zipCode": "67500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.15752",
+          "25.641386"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Valle De Juarez Ctro",
+        "name": "San Roque, Monterrey, Nl",
+        "address": "Eloy Cavazos 101 Pte",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "67289",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.26596",
+          "25.601698"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Lagos Del Bosque",
+        "name": "Satelite, Monterrey, Nl",
+        "address": "Avenida Eugenio Garza Sada S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64890",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.273094",
+          "25.627384"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Jardines Del Country",
+        "name": "C.F. Revolucion, Monterrey, Nl",
+        "address": "Avenida Revolucion 5151",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64860",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.28469",
+          "25.639093"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Country Lux",
+        "name": "Garza Sada, Monterrey, Nl",
+        "address": "Avenida Eugenio Garza Sada Sin Numero",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64845",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.2868",
+          "25.703676"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Moderna",
+        "name": "Felix U. Gomez, Monterrey, Nl",
+        "address": "Avenida Adolfo Ruiz Cortines S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64530",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.28773",
+          "25.622686"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Las Brisas",
+        "name": "Brisas, Monterrey, Nl",
+        "address": "Avenida Lazaro Cardenas S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64780",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.28781",
+          "25.644066"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Arroyo Seco",
+        "name": "Contry, Monterrey, Nl",
+        "address": "Avenida Eugenio Garza Sada 3367",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.2958",
+          "25.753786"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Centro San Nicolas, Monterrey, Nl",
+        "address": "Benito Juarez 601",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "66400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.297165",
+          "25.660053"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "La Florida",
+        "name": "Tecnologico, Monterrey, Nl",
+        "address": "Avenida Eugenio Garza Sada 699",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.297775",
+          "25.629114"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Los Rosales",
+        "name": "Las Torres, Monterrey, Nl",
+        "address": "Avenida Lazaro Cardenas 0",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64790",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.29931",
+          "25.681967"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Heroes,Monterrey, Nl",
+        "address": "Avenida Madero 1618 Ote",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.30803",
+          "25.717419"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Del Norte",
+        "name": "Industrial Gro, Monterrey, Nl",
+        "address": "Avenida Ciudad De Los Angeles 101",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.31014",
+          "25.683662"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Calzada Madero, Monterrey, Nl",
+        "address": "Calzada Francisco I Madero Oriente 421",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.31037",
+          "25.704706"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Fraccionamiento Centrica 2Do Sec",
+        "name": "Centrika, Monterrey, Nl",
+        "address": "Avenida Vicente Guerrero 2500",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.311356",
+          "25.669167"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Macroplaza, Monterrey, Nl",
+        "address": "Mariano Escobedo Sur 711 Sur",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.31436",
+          "25.67741"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Juarez, Monterrey, Nl",
+        "address": "Avenida Benito Juarez S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.31544",
+          "25.668568"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Zona Centro",
+        "name": "Monterrey 400, Nl",
+        "address": "Padre Mier 102",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.318245",
+          "25.683594"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Zona Centro",
+        "name": "Pino Suarez,Monterrey, Nl",
+        "address": "Avenida Jose Maria Pino Suarez Norte 933",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.32086",
+          "25.667234"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Matriz Monterrey, Nl",
+        "address": "Privada  Pino Surez 300",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.3229",
+          "25.686785"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Industrial",
+        "name": "Vallarta, Monterrey, Nl",
+        "address": "Avenida Colon Y Bernardo Reyes S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.32636",
+          "25.685183"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Madero Poniente, Monterrey, Nl",
+        "address": "Calzada Francisco I Madero S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.33339",
+          "25.704412"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Estrella",
+        "name": "Ruiz Cortinez, Monterrey, Nl",
+        "address": "Avenida Adolfo Ruiz Cortines 2000 Pte",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.3334",
+          "25.672146"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Venustiano Carranza, Monterrey, Nl",
+        "address": "Avenida Venustiano Carranza 650",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.33496",
+          "25.721306"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Bolivar",
+        "name": "Fidel Velazquez, Monterrey, Nl",
+        "address": "Avenida Fidel Velazquez S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.33853",
+          "25.668915"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Obispado",
+        "name": "Obispado, Monterrey, Nl",
+        "address": "Avenida Constitucion 1965",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.34475",
+          "25.690924"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Mitras Centro",
+        "name": "Simon Bolivar, Monterrey, Nl",
+        "address": "Avenida Moises Saenz 410",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "66460",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.34542",
+          "25.68301"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Chepevera",
+        "name": "Chepevera, Monterrey, Nl",
+        "address": "Avenida Simon Bolivar 224 Sur",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.34625",
+          "25.711876"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Mitras Norte",
+        "name": "Mitras, Monterrey, Nl",
+        "address": "Avenida Lincon 218",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.347466",
+          "25.732285"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Aztlan",
+        "name": "Aztlan, Monterrey, Nl",
+        "address": "Solidaridad 4658",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.35216",
+          "25.683847"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Vista Hermosa",
+        "name": "Gonzalitos, Monterrey, Nl",
+        "address": "Avenida Insurgentes 2500 L149",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64620",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.355095",
+          "25.691736"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Vista Hermosa",
+        "name": "Vista Hermosa, Monterrey, Nl",
+        "address": "Enrique C Livas 686 Pte",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64620",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.35741",
+          "25.71907"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Industrial Lincoln",
+        "name": "Lincoln, Monterrey, Nl",
+        "address": "Avenida Abraham Lincoln 4010",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.36445",
+          "25.684706"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Colinas De San Jeronimo",
+        "name": "Puerta Del Sol, Monterrey, Nl",
+        "address": "Boulevard Puerta Del Sol 498",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64630",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.367195",
+          "25.702988"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Las Cumbres",
+        "name": "Paseo De Los Leones,Monterrey, Nl",
+        "address": "Paseo De Los Leones 1901",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64610",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.37673",
+          "25.679123"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "San Jeronimo",
+        "name": "San Jeronimo, Monterrey, Nl",
+        "address": "Boulevard Rogelio Cantu Gomez S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64639",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.37701",
+          "25.71195"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Las Cumbres",
+        "name": "Cumbres, Monterrey, Nl",
+        "address": "Paseo De La Victoria 2408",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64610",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.38411",
+          "25.776705"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Barrio Aztlan",
+        "name": "Cd. Solidaridad, Monterrey, Nl",
+        "address": "Avenida Cabezada S/N",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.38683",
+          "25.726536"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Las Cumbres",
+        "name": "Soriana Cumbres, Monterrey, Nl",
+        "address": "Alejandro De Rodas 3102 L-A11",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "64610",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.40828",
+          "25.761955"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Residencial Puerta De Hierro",
+        "name": "Sendero Lincoln, Monterrey, Nl",
+        "address": "Avenida Abraham Lincoln Sn",
+        "openingHours": null,
+        "municipality": "Monterrey",
+        "zipCode": "66067",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.17219",
+          "26.482176"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Sabinas Hidalgo N L",
+        "address": "Carretera Nacional 303",
+        "openingHours": null,
+        "municipality": "Sabinas Hidalgo",
+        "zipCode": "65200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.29564",
+          "25.963482"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Zona Centro",
+        "name": "Salinas Victoria N L",
+        "address": "Juarez 115",
+        "openingHours": null,
+        "municipality": "Salinas Victoria",
+        "zipCode": "65500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.21451",
+          "25.724638"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Fraccionamiento Del Lago",
+        "name": "La Fe, San Nicolas, Nl",
+        "address": "Felix Galvan (Sub Ancla 3) S/N",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66477",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.25424",
+          "25.728985"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Conjunto Habitacional Deportivo Lagrang",
+        "name": "Industrial Conductores, San Nicolas, Nl",
+        "address": "Avenida Adolfo Lopez Mateos 700",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.25997",
+          "25.746399"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Santo Domingo",
+        "name": "Diego Diaz De Berlanga,Nl",
+        "address": "Diego Diaz De Berlanga 805",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66437",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.26025",
+          "25.77243"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Las Praderas",
+        "name": "Los Fresnos, San Nicolas, Nl",
+        "address": "Avenida Manuel Herrera 101/ L-17A",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66636",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.26389",
+          "25.710608"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Fidel Velazquez Infonavit",
+        "name": "Felix Galvan, San Nicolas, Nl",
+        "address": "Avenida Romulo Garza Sn",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66496",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.28063",
+          "25.75491"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Santa Maria",
+        "name": "Santo Domingo, San Nicolas, Nl",
+        "address": "Avenida Santo Domingo 1000",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.28668",
+          "25.717678"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Industrial Nogalar",
+        "name": "Nogalar, San Nicolas, Nl",
+        "address": "Avenida Nogalar Sur 500",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66484",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.29287",
+          "25.744076"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Las Puentes",
+        "name": "Las Puentes, Monterrey, Nl",
+        "address": "Avenida Periferico Lazaro Cardenas L 4 5 6",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66636",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.294304",
+          "25.711605"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Garza Cantu (Antes Cve Mun Inegi 039)",
+        "name": "Los Angeles, San Nicolas, Nl",
+        "address": "Avenida  Los Angeles 4800 Ote.",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66480",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.30022",
+          "25.746347"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Chapultepec",
+        "name": "San Nicolas, San Nicolas, Nl",
+        "address": "Avenida Universidad Sin Numero",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "66450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.314026",
+          "25.73726"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Residencial Anahuac",
+        "name": "Manuel Barragan, San Nicolas, Nl",
+        "address": "Avenida Manuel L Barragan 514",
+        "openingHours": null,
+        "municipality": "San Nicolas De Los Garza",
+        "zipCode": "64390",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.32536",
+          "25.645584"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Valle Ote",
+        "name": "Valle Oriente, San Pedro Garza Garcia,Nl",
+        "address": "Avenida General Lazaro Cardenas 2517 Ote",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.33872",
+          "25.653791"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Valle Oriente",
+        "name": "San Agustin, San Pedro Garza Garcia, Nl",
+        "address": "San Patricio 1000 L2358",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.359146",
+          "25.647757"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Valle",
+        "name": "Valle Campestre, Nl",
+        "address": "Avenida Manuel Gomez Morin 285 Sur",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66265",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.36051",
+          "25.65457"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Del Valle",
+        "name": "C.F. Valle, San Pedro Garza Garcia, Nl",
+        "address": "Calzada Del Valle 350 Ote",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.362045",
+          "25.639496"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Carrizalejo",
+        "name": "Gomez Morin, San Pedro Garza Garcia, Nl",
+        "address": "Avenida Gomez Morin 1101",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66254",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.36681",
+          "25.65881"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Del Valle",
+        "name": "Centrito, San Pedro Garza Garza, Nl",
+        "address": "Rio Mississippi 100",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.36852",
+          "25.66653"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Fuentes Del Valle",
+        "name": "Plaza Rio, San Pedro Garza Garcia, Nl",
+        "address": "Calzada San Pedro 801 L14-16",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.3813",
+          "25.653837"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Del Valle",
+        "name": "Vasconcelos, San Pedro Garza Garcia, Nl",
+        "address": "Avenida Jose Vasconcelos 453 Pte",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.38482",
+          "25.661757"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Del Valle",
+        "name": "C.F. San Pedro, San Pedro Garza G, Nl",
+        "address": "Rio Jordan 100 C",
+        "openingHours": null,
+        "municipality": "San Pedro Garza Garcia",
+        "zipCode": "66220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.42039",
+          "25.674643"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "La Fama",
+        "name": "La Fama, Santa Catarina, Nl",
+        "address": "Boulevard Lic Gustavo Diaz Ordaz 155",
+        "openingHours": null,
+        "municipality": "Santa Catarina",
+        "zipCode": "66100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.45531",
+          "25.691057"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Provivienda",
+        "name": "Colosio, Santa Catarina, Nl",
+        "address": "Avenida Luis Donaldo Colosio Y Pioneros 0",
+        "openingHours": null,
+        "municipality": "Santa Catarina",
+        "zipCode": "66360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.48249",
+          "25.682842"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Puerta Del Sol",
+        "name": "La Puerta 2, Santa Catarina,Nl",
+        "address": "Urano 2620",
+        "openingHours": null,
+        "municipality": "Santa Catarina",
+        "zipCode": "66358",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.486404",
+          "25.682997"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Luis Echeverria Alvarez",
+        "name": "Santa Catarina, Nl",
+        "address": "Boulevard Manuel Ordo~Ez S/N",
+        "openingHours": null,
+        "municipality": "Santa Catarina",
+        "zipCode": "66100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.13146",
+          "25.40126"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "El Cercado,Nl",
+        "address": "Carretera Nacional 104",
+        "openingHours": null,
+        "municipality": "Santiago",
+        "zipCode": "67320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.15329",
+          "25.427803"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nuevo Leon",
+        "neighborhood": "Centro",
+        "name": "Villa De Santiago, N.L.",
+        "address": "Abasolo 111",
+        "openingHours": null,
+        "municipality": "Santiago",
+        "zipCode": "67300",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.92938",
+          "29.325294"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Zona Centro",
+        "name": "Módulo Aduanal Acuña",
+        "address": "Hidalgo y Bravo 1",
+        "openingHours": null,
+        "municipality": "Acuña",
+        "zipCode": "26200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.93133",
+          "29.317984"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Cd. Acuña",
+        "address": "Guerrro 426",
+        "openingHours": null,
+        "municipality": "Acuña",
+        "zipCode": "26200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.416725",
+          "26.900126"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Monclova Centro",
+        "name": "Monclova",
+        "address": "La Fuente Poniente s/n",
+        "openingHours": null,
+        "municipality": "Monclova",
+        "zipCode": "25700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.43096",
+          "26.910341"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Independencia",
+        "name": "Boulevard Monclova",
+        "address": "Boulevard Harold R Pape (Carr Saltillo Monclova) 501 Loc C",
+        "openingHours": null,
+        "municipality": "Monclova",
+        "zipCode": "25750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.76897",
+          "28.421541"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Zona Centro",
+        "name": "Nava",
+        "address": "Venustiano Carranza esquina Benito Juárez s/n",
+        "openingHours": null,
+        "municipality": "Nava",
+        "zipCode": "26170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.172104",
+          "25.437134"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Hacienda del Rosario",
+        "name": "Parras de la Fuente",
+        "address": "16 de Septiembre 24 Loc. 1",
+        "openingHours": null,
+        "municipality": "Parras",
+        "zipCode": "27980",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.51144",
+          "28.687962"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Zona Industrial",
+        "name": "Aduana Piedras Negras 2000 Puente",
+        "address": "8 de Julio No. 2759",
+        "openingHours": null,
+        "municipality": "Piedras Negras",
+        "zipCode": "25900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.52902",
+          "28.69622"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Piedras Negras",
+        "address": "E Carranza 1101 Esq A",
+        "openingHours": null,
+        "municipality": "Piedras Negras",
+        "zipCode": "26000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.54326",
+          "28.68603"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "ISSSTE",
+        "name": "Boulevar 57",
+        "address": "Lázaro Cárdenas",
+        "openingHours": null,
+        "municipality": "Piedras Negras",
+        "zipCode": "26070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.945274",
+          "25.537334"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Ramos Arizpe",
+        "address": "Boulevard Manuel Acuña s/n",
+        "openingHours": null,
+        "municipality": "Ramos Arizpe",
+        "zipCode": "25900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.12235",
+          "27.852324"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Sabinas",
+        "address": "Amador Chapa esquina La Madrid s/n",
+        "openingHours": null,
+        "municipality": "Sabinas",
+        "zipCode": "26700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.956795",
+          "25.446533"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Residencial Tulipanes",
+        "name": "Tulipanes",
+        "address": "Av. Los González 1095",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.960655",
+          "25.441015"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Fraccionamiento Ex Hacienda San José de los Cerritos",
+        "name": "Sendero",
+        "address": "Boulevard Doctor Jesús Valdez Sánchez 365",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25203",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.972115",
+          "25.434097"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Presidente Cárdenas",
+        "address": "Presidente Cárdenas 286",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.97287",
+          "25.418509"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "San Ramón",
+        "name": "Soriana Echeverría",
+        "address": "Periférico Luis Echeverría 6301 Loc 8",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25025",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.97894",
+          "25.46157"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Fraccionamiento Los Doctores",
+        "name": "Obelisco",
+        "address": "Román Cepeda 2550",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.98029",
+          "25.44369"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Guanajuato Ote",
+        "name": "Gigante Abasalo",
+        "address": "Calzada Luis Echeverría s/n",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25286",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.99063",
+          "25.447771"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "República",
+        "name": "Periférico",
+        "address": "Calzada Luis Echeverría s/n",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25280",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.00113",
+          "25.42298"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Saltillo",
+        "address": "Allende s/n",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.003654",
+          "25.393955"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Lourdes",
+        "name": "Lourdes",
+        "address": "Boulevard Periférico Luis Echeverría s/n",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.004234",
+          "25.435284"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Soriana Coss",
+        "address": "Boulevard Francisco Coss s/n Loc 1",
+        "openingHours": null,
+        "municipality": "Saltillo",
+        "zipCode": "25000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.22232",
+          "27.935072"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Nueva Rosita",
+        "address": "Adolfo López Mateos 1227",
+        "openingHours": null,
+        "municipality": "San Juan de Sabinas",
+        "zipCode": "26800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.98241",
+          "25.759073"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "San Pedro de las Colonias",
+        "address": "Zaragoza 74",
+        "openingHours": null,
+        "municipality": "San Pedro",
+        "zipCode": "27800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39042",
+          "25.516376"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Fraccionamiento Las Misiones",
+        "name": "Rodriguez Triana",
+        "address": "Boulevard Pedro V Rodriguez Triana 950",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27276",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.405914",
+          "25.535395"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Ampliación La Rosita",
+        "name": "Soriana Revolución",
+        "address": "Boulevard Revolución s/n",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4062",
+          "25.523113"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Campestre La Rosita",
+        "name": "La Rosita",
+        "address": "Avenida Saltillo 400 650",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41033",
+          "25.529913"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Campestre La Rosita",
+        "name": "Campestre La Rosita",
+        "address": "Paseo del Campestre 401",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41636",
+          "25.538132"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Nueva Torreón",
+        "name": "Avenida Juárez",
+        "address": "Avenida Juárez 2920 Ote",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42194",
+          "25.569952"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Nuevo San Isidro",
+        "name": "Nueva San Isidro",
+        "address": "Boulevard Independencia 2663 Ote",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43415",
+          "25.560167"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "C.F. Blvd Independencia",
+        "address": "Boulevard Independencia s/n",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.436676",
+          "25.557693"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Soriana Independencia",
+        "address": "Boulevard Independencia 1100",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.439995",
+          "25.564249"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Prol Los Angeles",
+        "name": "Boulevard Constitución",
+        "address": "Boulevard Constitución 1304",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.443375",
+          "25.53734"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Torreón Alameda",
+        "address": "Avenida Hidalgo s/n",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.46243",
+          "25.537277"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Coahuila",
+        "neighborhood": "Centro",
+        "name": "Torreón",
+        "address": "Avenida Hidalgo s/n",
+        "openingHours": null,
+        "municipality": "Torreón",
+        "zipCode": "27000",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

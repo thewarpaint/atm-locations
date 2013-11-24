@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.04808",
+          "20.379263"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Centro",
+        "name": "Calkini",
+        "address": "Calle 20 110",
+        "openingHours": null,
+        "municipality": "Calkini",
+        "zipCode": "24900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.52517",
+          "19.843386"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Barrio de Guadalupe",
+        "name": "Gobernadores",
+        "address": "Avenida Gobernadores 428",
+        "openingHours": null,
+        "municipality": "Campeche",
+        "zipCode": "24010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.52784",
+          "19.855536"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Ah Kim Pech",
+        "name": "Ah Kim Pech",
+        "address": "Avenida Pedro Saenz de Barranda Lt 1",
+        "openingHours": null,
+        "municipality": "Campeche",
+        "zipCode": "24014",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.53382",
+          "19.840673"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Barrio de Santa Ana",
+        "name": "Plaza Alameda",
+        "address": "Avenida República 2",
+        "openingHours": null,
+        "municipality": "Campeche",
+        "zipCode": "24050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.53495",
+          "19.835484"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Barrio de Santa Ana",
+        "name": "Mega Campeche",
+        "address": "Avenida Central",
+        "openingHours": null,
+        "municipality": "Campeche",
+        "zipCode": "24050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.53563",
+          "19.845865"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Centro",
+        "name": "Campeche",
+        "address": "Calle 53 15",
+        "openingHours": null,
+        "municipality": "Campeche",
+        "zipCode": "24000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.7134",
+          "19.34914"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Centro",
+        "name": "Champotón",
+        "address": "Calle 29 103",
+        "openingHours": null,
+        "municipality": "Champotón",
+        "zipCode": "24400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-91.82523",
+          "18.6479"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Centro",
+        "name": "Cantarell",
+        "address": "Calle 33 s/n esquina Calle 52-A s/n",
+        "openingHours": null,
+        "municipality": "Ciudad del Carmen",
+        "zipCode": "24100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-91.830894",
+          "18.643332"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Payas",
+        "name": "Puerto Industrial",
+        "address": "Calle 26 Local 1 167",
+        "openingHours": null,
+        "municipality": "Ciudad del Carmen",
+        "zipCode": "24140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-91.8339",
+          "18.63822"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Centro",
+        "name": "Cd. del Carmen",
+        "address": "Calle 31 63",
+        "openingHours": null,
+        "municipality": "Ciudad del Carmen",
+        "zipCode": "24100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-91.83515",
+          "18.637825"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Centro",
+        "name": "Puerta del Mar",
+        "address": "Calle 31 180 Locale",
+        "openingHours": null,
+        "municipality": "Ciudad Del Carmen",
+        "zipCode": "24100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.74481",
+          "18.606232"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Campeche",
+        "neighborhood": "Centro",
+        "name": "Escárcega",
+        "address": "Avenida Héctor Pérez Martínez No. 279",
+        "openingHours": null,
+        "municipality": "Escárcega",
+        "zipCode": "24350",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

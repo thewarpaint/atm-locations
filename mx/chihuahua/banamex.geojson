@@ -1,0 +1,929 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.17271",
+          "27.691603"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Cd. Camargo",
+        "address": "Comonfort 406",
+        "openingHours": null,
+        "municipality": "Camargo",
+        "zipCode": "33700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.99896",
+          "28.60713"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Fraccionamiento Alameda",
+        "name": "Industrias",
+        "address": "Avenida Industrias s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31109",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.02965",
+          "28.620668"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Fraccionamiento Marmol II",
+        "name": "Nueva España",
+        "address": "Boulevard Jose Fuentes Mares s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.064995",
+          "28.648401"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Obrera",
+        "name": "Pacheco",
+        "address": "Avenida Pacheco s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31350",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.07369",
+          "28.634567"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Independencia Centro",
+        "address": "Independencia 1409",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.077415",
+          "28.637407"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "C.F. Chihuahua",
+        "address": "Independencia s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.08516",
+          "28.65071"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Altavista",
+        "name": "Santo Niño",
+        "address": "Avenida Universidad 2504",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31240",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.08594",
+          "28.625427"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Zarco",
+        "name": "Provincial",
+        "address": "Avenida Zarco s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.09596",
+          "28.660824"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Altavista",
+        "name": "San Felipe",
+        "address": "Avenida Vallarta s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.09854",
+          "28.629524"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Quintas Del Sol",
+        "name": "Boulevard Ortíz Mena",
+        "address": "Periférico A. Ortíz Mena s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.0986",
+          "28.673199"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Francisco I Madero",
+        "name": "San Francisco",
+        "address": "Avenida Tecnológico 5708 Loc 3",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.09876",
+          "28.650763"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Unidad Presidentes",
+        "name": "Leones",
+        "address": "Antonio Ortíz Mena s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.09957",
+          "28.640408"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Las Águilas",
+        "name": "Sicomoros",
+        "address": "Boulevard Ortíz Mena s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.111206",
+          "28.622177"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Las Haciendas",
+        "name": "Santa Fe",
+        "address": "Libramiento La Juventud s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31207",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.1278",
+          "28.666647"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "El Saucito",
+        "name": "Soriana Plaza Saucito",
+        "address": "Periférico de La Juventud s/n",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.12881",
+          "28.719519"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Fraccionamiento Residencial Universidad",
+        "name": "Shakespeare",
+        "address": "William Shakespeare 161",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31106",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.132324",
+          "28.690697"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Loma Dorada",
+        "name": "Juventud",
+        "address": "Periférico de La Juventud 9707",
+        "openingHours": null,
+        "municipality": "Chihuahua",
+        "zipCode": "31129",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.47129",
+          "28.195364"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Cd. Delicias",
+        "address": "Calle 2A Norte 211",
+        "openingHours": null,
+        "municipality": "Ciudad Delicias",
+        "zipCode": "33000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.4766",
+          "28.1933"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Delicias Centro",
+        "address": "Cuarta Norte s/n",
+        "openingHours": null,
+        "municipality": "Ciudad Delicias",
+        "zipCode": "33000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.38363",
+          "31.715284"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Parque Industrial Antonio J. Bermudez",
+        "name": "Tomás Fernández",
+        "address": "C.C. El Parque (Camino) Loc. 12, 13",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32470",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.38721",
+          "31.647608"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Aeropuerto",
+        "name": "Zaragoza",
+        "address": "Boulevard Ignacio Zaragoza s/n",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "31160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.38741",
+          "31.652134"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Fraccionamiento Valle Dorado",
+        "name": "Henequén",
+        "address": "Avenida de Las Torres 410",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32690",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.39339",
+          "31.628273"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Valle de Bravo",
+        "name": "Las Torres",
+        "address": "Avenida Las Torres 2111",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32575",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.408615",
+          "31.711332"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Adición Campestre",
+        "name": "Senecu",
+        "address": "Boulevard Manuel Gómez Morín 7866",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.42165",
+          "31.689932"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Partido Iglesias",
+        "name": "Misiones",
+        "address": "Avenida Teófilo Borunda 8670",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "27100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.42441",
+          "31.705727"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Mariano Escobedo",
+        "name": "Puente Internacional",
+        "address": "Carretera Panamérica s/n",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.42889",
+          "31.659197"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "El Granjero",
+        "name": "Aeropuerto Juárez",
+        "address": "Avenida Tecnológico 6540-B",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32690",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.437485",
+          "31.658577"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Parque Industrial Zaragoza",
+        "name": "Cortijo",
+        "address": "Boulevard Zaragoza Local D07 al D11 6008",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32685",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.445274",
+          "31.6756"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "La Cuesta 2",
+        "name": "Aztecas Juárez",
+        "address": "Eje Juan Gabriel s/n",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32653",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.44944",
+          "31.736849"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Monumental",
+        "name": "Paso del Norte",
+        "address": "Lic. Adolfo López Mateos 3990",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.44965",
+          "31.733997"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Futurama",
+        "name": "C.F. Río Grande",
+        "address": "Lic. Adolfo López Mateos s/n",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.45146",
+          "31.714437"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Jardines de San José",
+        "name": "El Paseo",
+        "address": "Avenida Adolfo López Mateos 2050",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32380",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.47108",
+          "31.72076"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Santa Rosa",
+        "name": "Mina",
+        "address": "Eje Juan Gabriel s/n",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.48015",
+          "31.738829"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Cd. Juárez",
+        "address": "Avenida 16 de Septiembre s/n",
+        "openingHours": null,
+        "municipality": "Ciudad Juárez",
+        "zipCode": "32250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.74472",
+          "28.485"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Anáhuac",
+        "name": "Anáhuac",
+        "address": "Centro Agroindustrial Anáhuac s/n",
+        "openingHours": null,
+        "municipality": "Cuauhtémoc",
+        "zipCode": "31600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.857445",
+          "28.408192"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "San Antonio",
+        "name": "San Antonio",
+        "address": "Avenida 16 de Septiembre esquina Mariano Escobedo s/n",
+        "openingHours": null,
+        "municipality": "Cuauhtémoc",
+        "zipCode": "31550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.86794",
+          "28.407066"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Cd. Cuauhtémoc",
+        "address": "Agustin Melgar 100 esq. H",
+        "openingHours": null,
+        "municipality": "Cuauhtémoc",
+        "zipCode": "31500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.48145",
+          "28.547188"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Cd. Guerrero",
+        "address": "Avenida Francisco I. Madero 108",
+        "openingHours": null,
+        "municipality": "Guerrero",
+        "zipCode": "31680",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.66344",
+          "26.93401"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Parral",
+        "address": "Ojinaga 2",
+        "openingHours": null,
+        "municipality": "Hidalgo del Parral",
+        "zipCode": "33800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.673965",
+          "26.928116"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Altavista",
+        "name": "Altavista",
+        "address": "Boulevard Ortíz Mena 157",
+        "openingHours": null,
+        "municipality": "Hidalgo del Parral",
+        "zipCode": "33860",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.92015",
+          "27.132975"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Cd. Jiménez",
+        "address": "Avenida Juárez 114",
+        "openingHours": null,
+        "municipality": "Jiménez",
+        "zipCode": "33980",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.14144",
+          "29.190104"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Madera",
+        "name": "Cd. Madera",
+        "address": "Calle Tercera s/n esquina Aldama s/n",
+        "openingHours": null,
+        "municipality": "Madera",
+        "zipCode": "31940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.41429",
+          "29.249617"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Namiquipa",
+        "address": "Calle 2a 30",
+        "openingHours": null,
+        "municipality": "Namiquipa",
+        "zipCode": "31960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.91292",
+          "30.415346"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chihuahua",
+        "neighborhood": "Centro",
+        "name": "Nuevas Casas Grandes",
+        "address": "Avenida 5 de Mayo 105",
+        "openingHours": null,
+        "municipality": "Nuevo Casas Grandes",
+        "zipCode": "31700",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

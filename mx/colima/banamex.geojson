@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.71547",
+          "19.255049"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Lomas De Vista Hermosa",
+        "name": "Sevilla Del Rio,Colima, Col.",
+        "address": "A Felipe Sevilla Del Rio 199",
+        "openingHours": null,
+        "municipality": "Colima",
+        "zipCode": "28016",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.71597",
+          "19.240168"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Centro",
+        "name": "Galvan,Colima. Col.",
+        "address": "General Pedro Galvan 215 Loc 1",
+        "openingHours": null,
+        "municipality": "Colima",
+        "zipCode": "28000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.721405",
+          "19.250975"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Centro",
+        "name": "Plaza San Fernando,Colima, Col",
+        "address": "Avenida Constitucion 555 Loc 13",
+        "openingHours": null,
+        "municipality": "Colima",
+        "zipCode": "28000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.72732",
+          "19.241978"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Centro",
+        "name": "C.F. Colima,Col.",
+        "address": "Miguel Hidalgo 90",
+        "openingHours": null,
+        "municipality": "Colima",
+        "zipCode": "28000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.73685",
+          "19.27423"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Centro (Antes Cve Mun Inegi 010)",
+        "name": "Diosa Del Agua, Villa De Alvarez, Jal.",
+        "address": "Avenida Maria Ahumada Gomez 371",
+        "openingHours": null,
+        "municipality": "Colima",
+        "zipCode": "28979",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.2904",
+          "19.08193"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Parque Industrial Fondeport",
+        "name": "Pez Vela, Manzanillo, Col.",
+        "address": "Calle Uno Norte Num. 13",
+        "openingHours": null,
+        "municipality": "Manzanillo",
+        "zipCode": "28218",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.304695",
+          "19.056265"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Burocratas",
+        "name": "Aduana Manzanillo,Col.",
+        "address": "Avenida Teniente Azuela  Edificio Of. Portua S/N",
+        "openingHours": null,
+        "municipality": "Manzanillo",
+        "zipCode": "28250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.317474",
+          "19.052279"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Centro",
+        "name": "Manzanillo,Col",
+        "address": "Mexico 136",
+        "openingHours": null,
+        "municipality": "Manzanillo",
+        "zipCode": "28200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.33574",
+          "19.107727"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Santiago",
+        "name": "Playa Salahua, Manzanillo, Col.",
+        "address": "Boulevard Miguel De La Madrid Km. 11.5",
+        "openingHours": null,
+        "municipality": "Manzanillo",
+        "zipCode": "28200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.87404",
+          "18.911095"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Colima",
+        "neighborhood": "Centro",
+        "name": "Tecoman,Col.",
+        "address": "Avenida Lopez Mateos E Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Tecoman",
+        "zipCode": "28100",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

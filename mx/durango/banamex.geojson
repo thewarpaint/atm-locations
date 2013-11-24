@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.49988",
+          "25.55868"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Gomez Palacio",
+        "name": "Mercado De Abastos,Gomez Palacio. Dgo",
+        "address": "Calzada Lazaro Cardenas 520",
+        "openingHours": null,
+        "municipality": "Durango",
+        "zipCode": "35000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.63057",
+          "24.041555"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Fraccionamiento La Glorieta",
+        "name": "Soriana Jardines, Durango, Dgo",
+        "address": "Magnolia 100",
+        "openingHours": null,
+        "municipality": "Durango",
+        "zipCode": "34207",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.633575",
+          "24.038736"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Fraccionamiento La Glorieta",
+        "name": "Boulevard Villa,Dgo",
+        "address": "Boulevard Francisco Villa 1014",
+        "openingHours": null,
+        "municipality": "Durango",
+        "zipCode": "34207",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.644135",
+          "24.029346"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Nueva Vizcaya",
+        "name": "20 De Noviembre, Durango, Dgo",
+        "address": "Avenida 20 De Noviembre Sn",
+        "openingHours": null,
+        "municipality": "Durango",
+        "zipCode": "34080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.6481",
+          "24.030615"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Real Del Prado",
+        "name": "G Real Del Prado,Dgo",
+        "address": "Cap Francisco De Ibarra 1100 Ote",
+        "openingHours": null,
+        "municipality": "Durango",
+        "zipCode": "34080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.64968",
+          "24.034813"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Armando Del Castillo Franco",
+        "name": "Wm Felipe Pescador,Dgo",
+        "address": "Boulevard Felipe Pescador Sn",
+        "openingHours": null,
+        "municipality": "Durango",
+        "zipCode": "34214",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.66282",
+          "24.007809"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Francisco Gonzalez De La Vega",
+        "name": "Guadiana,Dgo",
+        "address": "Boulevard Domingo Arrieta Sn",
+        "openingHours": null,
+        "municipality": "Durango",
+        "zipCode": "34157",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.66869",
+          "24.023352"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Centro",
+        "name": "C.F. Durango,Dgo.",
+        "address": "5 De Febrero Sn",
+        "openingHours": null,
+        "municipality": "Durango",
+        "zipCode": "34000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.47838",
+          "25.550568"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Parque Industrial",
+        "name": "Gonzalez De La Vega, Gomez Palacio, Dgo",
+        "address": "Boulevard Miguel Aleman S/N",
+        "openingHours": null,
+        "municipality": "Gomez Palacio",
+        "zipCode": "35000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4974",
+          "25.566826"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "0",
+        "name": "Gomez Palacio Dgo",
+        "address": "Avenida Victoria Sin Numero",
+        "openingHours": null,
+        "municipality": "Gomez Palacio",
+        "zipCode": "35000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.505165",
+          "25.596163"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Pp Hamburgo",
+        "name": "Plaza Hamburgo, Gomez Palacio, Dgo",
+        "address": "Carretera A Bermejillo 0",
+        "openingHours": null,
+        "municipality": "Gomez Palacio",
+        "zipCode": "35015",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.507",
+          "25.554419"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Las Rosas",
+        "name": "Soriana Las Rosas, Gomez Palacio, Dgo",
+        "address": "Boulevard Miguel Aleman Sin Numero",
+        "openingHours": null,
+        "municipality": "Gomez Palacio",
+        "zipCode": "35090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.12023",
+          "24.446156"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Centro",
+        "name": "Guadalupe Victoria, Dgo.",
+        "address": "Heroes De Chapultepec 207",
+        "openingHours": null,
+        "municipality": "Guadalupe Victoria",
+        "zipCode": "34700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.72286",
+          "25.343088"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Zona Centro",
+        "name": "Tepehuanes,Dgo",
+        "address": "General Eduardo Arrieta Esquina Patoni S/N",
+        "openingHours": null,
+        "municipality": "Tepehuanes",
+        "zipCode": "35600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.987885",
+          "23.731623"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Durango",
+        "neighborhood": "Centro",
+        "name": "Guerrero,Dgo",
+        "address": "Hidalgo Esquinauina Francisco Sarabia S/N",
+        "openingHours": null,
+        "municipality": "Vicente Guerrero",
+        "zipCode": "34890",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

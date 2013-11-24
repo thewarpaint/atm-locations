@@ -1,0 +1,1433 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.52938",
+          "20.45079"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Abasolo,Gto",
+        "address": "Plaza Principal 210",
+        "openingHours": null,
+        "municipality": "Abasolo",
+        "zipCode": "36970",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.72002",
+          "20.033005"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Acambaro,Gto",
+        "address": "Hidalgo 287",
+        "openingHours": null,
+        "municipality": "Acambaro",
+        "zipCode": "38600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.62114",
+          "20.455292"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Apaseo El Alto,Gto",
+        "address": "Jardin Cuauhtemoc 139",
+        "openingHours": null,
+        "municipality": "Apaseo El Alto",
+        "zipCode": "38500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.68827",
+          "20.544912"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Apaseo El Grande,Gto A",
+        "address": "Jardin Hidalgo 109",
+        "openingHours": null,
+        "municipality": "Apaseo El Grande",
+        "zipCode": "38160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.796745",
+          "20.515242"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Jardines De Celaya",
+        "name": "Tres Guerras, Celaya, Gto",
+        "address": "Puerta De Oro 203",
+        "openingHours": null,
+        "municipality": "Celaya",
+        "zipCode": "38080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.79976",
+          "20.529047"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Zona Federal",
+        "name": "Centro Aduanero Celaya,Gto",
+        "address": "Fundacion 0",
+        "openingHours": null,
+        "municipality": "Celaya",
+        "zipCode": "38000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.80778",
+          "20.514887"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "El Olivar",
+        "name": "Antonio Plaza, Celaya, Gto",
+        "address": "Antonio Plaza 304",
+        "openingHours": null,
+        "municipality": "Celaya",
+        "zipCode": "38070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.81348",
+          "20.52236"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Celaya,Gto",
+        "address": "Avenida Alvaro Obregon 0",
+        "openingHours": null,
+        "municipality": "Celaya",
+        "zipCode": "38000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.821144",
+          "20.545868"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Ciudad Industrial",
+        "name": "Tecnologico Celaya,Gto",
+        "address": "Avenida Tecnologico 701",
+        "openingHours": null,
+        "municipality": "Celaya",
+        "zipCode": "38010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.82208",
+          "20.532358"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Residencial Del Parque",
+        "name": "Nieto Pi~A, Celaya, Gto",
+        "address": "Avenida Juan Jose Torres Landa 209 Int C",
+        "openingHours": null,
+        "municipality": "Celaya",
+        "zipCode": "38010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.84423",
+          "20.518776"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Las Arboledas",
+        "name": "Boulevard Poniente, Celaya, Gto",
+        "address": "Boulevard Lopez Mateos Poniente 1124",
+        "openingHours": null,
+        "municipality": "Celaya",
+        "zipCode": "38060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.75528",
+          "20.719118"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Comonfort,Gto",
+        "address": "Plaza 5 De Febrero 4",
+        "openingHours": null,
+        "municipality": "Comonfort",
+        "zipCode": "38200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.36428",
+          "20.196524"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Coroneo, Gto",
+        "address": "H. Colegio Militar 55",
+        "openingHours": null,
+        "municipality": "Coroneo",
+        "zipCode": "38590",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.96468",
+          "20.481857"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Cortazar,Gto",
+        "address": "Portal Constitucion 25-C",
+        "openingHours": null,
+        "municipality": "Cortazar",
+        "zipCode": "38300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.671745",
+          "20.627777"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Cueramaro,Gto",
+        "address": "Venustiano Carranza 118",
+        "openingHours": null,
+        "municipality": "Cueramaro",
+        "zipCode": "36960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.933685",
+          "21.157072"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Dolores Hidalgo,Gto",
+        "address": "Plaza Principal 15",
+        "openingHours": null,
+        "municipality": "Dolores Hidalgo",
+        "zipCode": "37800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.24981",
+          "21.010847"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Embajadoras,Gto",
+        "address": "Paseo Madero 25",
+        "openingHours": null,
+        "municipality": "Guanajuato",
+        "zipCode": "36000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.2562",
+          "21.016863"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Guanajuato,Gto",
+        "address": "Los Angeles S/N",
+        "openingHours": null,
+        "municipality": "Guanajuato",
+        "zipCode": "36000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.347466",
+          "20.674253"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Irapuato,Gto",
+        "address": "Cortazar 11",
+        "openingHours": null,
+        "municipality": "Irapuato",
+        "zipCode": "36500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.35476",
+          "20.68969"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Las Reynas",
+        "name": "Estadio Irapuato,Gto",
+        "address": "Avenida Escuela Medico Militar 1434",
+        "openingHours": null,
+        "municipality": "Irapuato",
+        "zipCode": "36660",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.359505",
+          "20.670437"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Fraccionamiento La Paz",
+        "name": "Casimiro Liceaga, Irapuato, Gto",
+        "address": "Avenida Casimiro Liceaga 1449",
+        "openingHours": null,
+        "municipality": "Irapuato",
+        "zipCode": "36560",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.36548",
+          "20.678726"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "La Moderna",
+        "name": "Campestre-Irapuato,Gto",
+        "address": "Avenida Lazaro Cardenas 936",
+        "openingHours": null,
+        "municipality": "Irapuato",
+        "zipCode": "36690",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.37167",
+          "20.674479"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Residencial Jacarandas",
+        "name": "Soriana Irapuato,Gto",
+        "address": "Avenida Arboledas 1200",
+        "openingHours": null,
+        "municipality": "Irapuato",
+        "zipCode": "36544",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.39861",
+          "20.682692"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Villas De Irapuato",
+        "name": "Villas De Irapuato,Gto",
+        "address": "Carretera Irapuato San Cristobal 1443",
+        "openingHours": null,
+        "municipality": "Irapuato",
+        "zipCode": "36043",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.06289",
+          "20.373562"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Jaral Del Progreso,Gto",
+        "address": "Hidalgo 200",
+        "openingHours": null,
+        "municipality": "Jaral Del Progreso",
+        "zipCode": "38470",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.510796",
+          "20.150108"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Jerecuaro,Gto",
+        "address": "Juarez Esquina Plaza Principal S/N",
+        "openingHours": null,
+        "municipality": "Jerecuaro",
+        "zipCode": "38540",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.62434",
+          "21.086617"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Industrial Delta",
+        "name": "Delta, Leon, Gto",
+        "address": "Lambda 202",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37545",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.631355",
+          "21.10369"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Fraccionamiento Industrial Julian De Obregon",
+        "name": "Julian De Obregon, Leon, Gto",
+        "address": "Avenida De Los Industriales S/N",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37290",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.63509",
+          "21.101294"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Jardinez De Jerez",
+        "name": "Centro Max, Leon, Gto",
+        "address": "Boulevard Adolfo Lopez Mateos 2518 L 99B",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37510",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.64959",
+          "21.09659"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Azteca",
+        "name": "Plaza Geminis, Leon, Gto",
+        "address": "Boulevard Juan Jose Torres Landa Oriente 4202",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37520",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.66001",
+          "21.117485"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Los Gavilanes",
+        "name": "C.F. La Torre, Leon, Gto.",
+        "address": "Boulevard Adolfo Lopez Mateos 1750 Ote",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.66057",
+          "21.131186"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "La Carmona",
+        "name": "Glorieta Obelisco, Leon, Gto",
+        "address": "Boulevard Hilario Medina 1201",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.66727",
+          "21.15096"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "San Jose Del Consuelo",
+        "name": "Galerias Las Torres, Leon, Gto",
+        "address": "Boulevard Juan Alonso De Torres 1315",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.67453",
+          "21.142305"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Pe~Itas",
+        "name": "Boulevard Hidalgo Leon, Leon, Gto",
+        "address": "Boulevard Miguel Hidalgo 915 Loc 1",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.67759",
+          "21.112913"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "San Nicolas",
+        "name": "Andrade Leon,Gto",
+        "address": "Boulevard Mariano Escobedo Oriente Esq.",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37480",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.67935",
+          "21.101446"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Barrio San Miguel",
+        "name": "Glorieta Del Curtidor, Leon, Gto",
+        "address": "Boulevard Hermanos Aldama 643",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37390",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.680595",
+          "21.124758"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Leon,Gto",
+        "address": "Boulevard Adolfo Lopez Mateos Esq.",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.681",
+          "21.121752"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Centro,Leon, Gto",
+        "address": "Francisco I Madero 125",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.68159",
+          "21.131235"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Obregon",
+        "name": "El Barrio, Leon Gto",
+        "address": "Avenida Aquiles Serdan 801",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.68585",
+          "21.124758"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "La Soledad, Leon,Gto",
+        "address": "Avenida Miguel Aleman 159",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.68873",
+          "21.1534"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Villas Del Juncal",
+        "name": "Paseo Del Moral, Leon, Gto",
+        "address": "Avenida Paseo Dl Moral 1002",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.68878",
+          "21.109468"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Guadalupe",
+        "name": "Prolongacion Juarez, Leon, Gto",
+        "address": "Avenida Juarez 1005",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37380",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.69063",
+          "21.134506"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Moderna",
+        "name": "Avenida Mexico, Leon, Gto",
+        "address": "Avenida Mexico 201",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.69286",
+          "21.157393"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Valle Del Campestre",
+        "name": "Plaza Mayor, Leon, Gto",
+        "address": "Boulevard Manuel Clouthier S/N",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.694496",
+          "21.121937"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Arbide",
+        "name": "Arbide, Leon, Gto",
+        "address": "Chiapas 602",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.69544",
+          "21.15323"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Valle Del Campestre",
+        "name": "C.F. Boulevard, Campestre, Leon,Gto",
+        "address": "Boulevard Campestre Sn",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.7112",
+          "21.103495"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Santa Rita",
+        "name": "Torres Landa,Leon, Gto",
+        "address": "Boulevard Miguel Cervantes Saavedra 1901",
+        "openingHours": null,
+        "municipality": "Leon",
+        "zipCode": "37450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.95098",
+          "20.727083"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Manuel Doblado,Gto",
+        "address": "Hidalgo 113",
+        "openingHours": null,
+        "municipality": "Manuel Doblado",
+        "zipCode": "36470",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.18894",
+          "20.130472"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Moroleon,Gto",
+        "address": "Hidalgo 19",
+        "openingHours": null,
+        "municipality": "Moroleon",
+        "zipCode": "38800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.724205",
+          "20.428183"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Penjamo,Gto",
+        "address": "Jardin Hidalgo 22",
+        "openingHours": null,
+        "municipality": "Penjamo",
+        "zipCode": "36900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.37362",
+          "20.525814"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Pueblo Nuevo, Guanajuato, Gto",
+        "address": "Francisco I Madero Esquina Carrillo Pt 215-B",
+        "openingHours": null,
+        "municipality": "Pueblo Nuevo",
+        "zipCode": "36800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.880005",
+          "21.024763"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Purisima De Bustos,Gto",
+        "address": "Jardin Principal 109",
+        "openingHours": null,
+        "municipality": "Purisima Del Rincon",
+        "zipCode": "36400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.51658",
+          "20.87219"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Romita,Gto",
+        "address": "Portal Ocampo 21",
+        "openingHours": null,
+        "municipality": "Romita",
+        "zipCode": "36200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.19691",
+          "20.576736"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Bellavista",
+        "name": "Faja De Oro, Salamanca, Gto",
+        "address": "Altamira 702 Esq. T",
+        "openingHours": null,
+        "municipality": "Salamanca",
+        "zipCode": "36730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.19847",
+          "20.5691"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Salamanca,Gto",
+        "address": "Hidalgo Y Tomasa Estevez 204",
+        "openingHours": null,
+        "municipality": "Salamanca",
+        "zipCode": "36700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.88397",
+          "20.213398"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Salvatierra,Gto",
+        "address": "Zaragoza 2  Esq Hid",
+        "openingHours": null,
+        "municipality": "Salvatierra",
+        "zipCode": "38900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.215836",
+          "21.47536"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "San Felipe,Gto",
+        "address": "Portal Prado 2",
+        "openingHours": null,
+        "municipality": "San Felipe",
+        "zipCode": "37600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.85467",
+          "21.014954"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "San Fco. Del Rincon,Gto",
+        "address": "Diaz Miron Esquina Francisco Orozco Mu~Oz S/N",
+        "openingHours": null,
+        "municipality": "San Francisco Del Rincon",
+        "zipCode": "36300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.85594",
+          "21.025509"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Cuauhtemoc",
+        "name": "Colonias, San Fco Del Rincon, Gto",
+        "address": "Zaragoza S/N Esquina Boulevard Juventino Rosas S/N",
+        "openingHours": null,
+        "municipality": "San Francisco Del Rincon",
+        "zipCode": "36310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.385056",
+          "21.000912"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "San Jose Iturbide,Gto",
+        "address": "Allende 6",
+        "openingHours": null,
+        "municipality": "San Jose Iturbide",
+        "zipCode": "37980",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.51448",
+          "21.298267"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Zona Centro",
+        "name": "San Luis De La Paz,Gto",
+        "address": "Matamoros 11 Entre G",
+        "openingHours": null,
+        "municipality": "San Luis De La Paz",
+        "zipCode": "37900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.72671",
+          "20.90629"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Taxco Landeta",
+        "name": "Glorieta El Pipila,San Miguel Allen, Gto",
+        "address": "Salida A Queretaro Km I S/N",
+        "openingHours": null,
+        "municipality": "San Miguel De Allende",
+        "zipCode": "24101",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.74558",
+          "20.913507"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "San Miguel Allende,Gto",
+        "address": "Canal 4",
+        "openingHours": null,
+        "municipality": "San Miguel De Allende",
+        "zipCode": "37700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.41599",
+          "20.948"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "La Joyita",
+        "name": "Cubilete, Silao, Gto",
+        "address": "Prolongacion 5 De Mayo S/N",
+        "openingHours": null,
+        "municipality": "Silao",
+        "zipCode": "36130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.426285",
+          "20.942966"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Silao,Gto",
+        "address": "Jardin Principal 8",
+        "openingHours": null,
+        "municipality": "Silao",
+        "zipCode": "36100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.178635",
+          "20.140795"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Uriangato,Gto",
+        "address": "Portal Independencia 8",
+        "openingHours": null,
+        "municipality": "Uriangato",
+        "zipCode": "38980",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.18102",
+          "20.391138"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Valle De Santiago,Gto",
+        "address": "Arteaga 78",
+        "openingHours": null,
+        "municipality": "Valle De Santiago",
+        "zipCode": "38400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.13088",
+          "20.212355"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guanajuato",
+        "neighborhood": "Centro",
+        "name": "Yuriria,Gto",
+        "address": "Portal Hidalgo 2",
+        "openingHours": null,
+        "municipality": "Yuriria",
+        "zipCode": "38940",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

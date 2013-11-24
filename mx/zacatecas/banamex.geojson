@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.70066",
+          "22.947184"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Centro",
+        "name": "Calera,Zac",
+        "address": "5 De Mayo 207 Sur",
+        "openingHours": null,
+        "municipality": "Calera",
+        "zipCode": "98500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.86348",
+          "23.184505"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Barrio Alto",
+        "name": "S. Fresnillo,Zac",
+        "address": "Plateros S/N",
+        "openingHours": null,
+        "municipality": "Fresnillo",
+        "zipCode": "99070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.86958",
+          "23.168703"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Centro",
+        "name": "Fresnillo,Zac",
+        "address": "Hidalgo Esquina Alvaro Obregon S/N",
+        "openingHours": null,
+        "municipality": "Fresnillo",
+        "zipCode": "99000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.5155",
+          "22.747852"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Centro",
+        "name": "Guadalupe, Guadalupe, Zac",
+        "address": "Avenida H Colegio Militar 136",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "98600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.54072",
+          "22.7593"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Fraccionamiento La Florida",
+        "name": "La Florida, Guadalupe, Zac",
+        "address": "Boulevard Jose Lopez Portillo 105",
+        "openingHours": null,
+        "municipality": "Guadalupe",
+        "zipCode": "98600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.97626",
+          "21.640062"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Centro",
+        "name": "Jalpa,Zac",
+        "address": "Juarez 11",
+        "openingHours": null,
+        "municipality": "Jalpa",
+        "zipCode": "99800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.00609",
+          "22.648258"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Centro",
+        "name": "Jerez, Jerez De G Salinas, Zac",
+        "address": "Bizarra Capital 27",
+        "openingHours": null,
+        "municipality": "Jerez",
+        "zipCode": "99300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.989365",
+          "22.270596"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Centro",
+        "name": "Loreto,Zac",
+        "address": "5 De Mayo 103",
+        "openingHours": null,
+        "municipality": "Loreto",
+        "zipCode": "98800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.56693",
+          "22.77128"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Centro",
+        "name": "Valparaiso,Zac",
+        "address": "Plaza Constitucion Esquina Francisco I. Madero S/N",
+        "openingHours": null,
+        "municipality": "Valparaiso",
+        "zipCode": "99200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.542854",
+          "22.757448"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Medicos Veterinarios (Antes Cve Mun Inegi 017)",
+        "name": "Arroyo De La Plata, Zacatecas, Zac",
+        "address": "Paseo Francisco Garcia Salinas 329 C",
+        "openingHours": null,
+        "municipality": "Zacatecas",
+        "zipCode": "98097",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.57408",
+          "22.772936"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Centro",
+        "name": "Zacatecas,Zac",
+        "address": "Avenida Miguel Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Zacatecas",
+        "zipCode": "98000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.57762",
+          "22.76551"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Zacatecas",
+        "neighborhood": "Zona Centro",
+        "name": "El Eden, Zacatecas, Zac",
+        "address": "Boulevard Adolfo Lopez Mateos 601",
+        "openingHours": null,
+        "municipality": "Zacatecas",
+        "zipCode": "98000",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

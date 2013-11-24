@@ -1,0 +1,1202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.78514",
+          "18.73415"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Aguililla,Mich.",
+        "address": "Avenida Juarez 71 Esq. Je",
+        "openingHours": null,
+        "municipality": "Aguililla",
+        "zipCode": "60570",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.35126",
+          "19.08652"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Constitucion, Apatzingan, Mich.",
+        "address": "Jose Maria Morelos Y Pavon 73",
+        "openingHours": null,
+        "municipality": "Apatzingan",
+        "zipCode": "60600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.354774",
+          "19.081331"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Apatzingan,Mich.",
+        "address": "Constitucion De 1814 33",
+        "openingHours": null,
+        "municipality": "Apatzingan",
+        "zipCode": "60600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.70693",
+          "19.208282"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Ario De Rosales,Mich.",
+        "address": "Portal Juarez #10 Esq.Ar",
+        "openingHours": null,
+        "municipality": "Ario",
+        "zipCode": "61830",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.583885",
+          "19.820557"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Coeneo, Mich",
+        "address": "Avenida Morelos Sur 42",
+        "openingHours": null,
+        "municipality": "Coeneo",
+        "zipCode": "58400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.705635",
+          "19.80679"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Cotija,Mich",
+        "address": "Javier Mina 43",
+        "openingHours": null,
+        "municipality": "Cotija",
+        "zipCode": "59940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.13958",
+          "19.967777"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Cuitzeo,Mich.",
+        "address": "Plaza De La Constitucion 1 Y 2",
+        "openingHours": null,
+        "municipality": "Cuitzeo",
+        "zipCode": "58840",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.5547",
+          "19.689184"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Ciudad Hidalgo, Mich.",
+        "address": "Plaza Centenario Esquina Villalongin S/N",
+        "openingHours": null,
+        "municipality": "Hidalgo",
+        "zipCode": "61100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.89968",
+          "18.618456"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Huetamo,Mich.",
+        "address": "Madero Sur # 2-A",
+        "openingHours": null,
+        "municipality": "Huetamo",
+        "zipCode": "61940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.304825",
+          "19.9562"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Jacona,Mich.",
+        "address": "Constitucion Sur 1",
+        "openingHours": null,
+        "municipality": "Jacona",
+        "zipCode": "59800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.72256",
+          "19.988207"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Jiquilpan,Mich",
+        "address": "Portal Bravo 75",
+        "openingHours": null,
+        "municipality": "Jiquilpan",
+        "zipCode": "59510",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.020645",
+          "20.34055"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "La Piedad,Mich.",
+        "address": "Pedro Chavolla Y Nicolas Bravo S/N",
+        "openingHours": null,
+        "municipality": "La Piedad",
+        "zipCode": "59300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.03307",
+          "20.34809"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "C.F. Cabadas, La Piedad, Mich.",
+        "address": "Boulevard Lazaro Cardenas Esquina Lucio Blanco S/N",
+        "openingHours": null,
+        "municipality": "La Piedad",
+        "zipCode": "59300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.201935",
+          "17.965975"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Segundo Sect Fideicomiso",
+        "name": "El Cayacal,Mich.",
+        "address": "Lazaro Cardenas 447",
+        "openingHours": null,
+        "municipality": "Lazaro Cardenas",
+        "zipCode": "60950",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.47393",
+          "19.58918"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Los Reyes,Mich",
+        "address": "Portal Hidalgo 31",
+        "openingHours": null,
+        "municipality": "Los Reyes",
+        "zipCode": "60300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.47417",
+          "19.589443"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Valle Esmeralda, Los Reyes, Mich.",
+        "address": "16 De Septiembre 167",
+        "openingHours": null,
+        "municipality": "Los Reyes",
+        "zipCode": "60300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.19579",
+          "17.958221"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Lazaro Cardenas",
+        "name": "Lazaro Cardenas,Mich.",
+        "address": "Avenida Lazaro Cardenas 1646",
+        "openingHours": null,
+        "municipality": "Madero",
+        "zipCode": "60950",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.4425",
+          "19.892778"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Maravatio, Mich.",
+        "address": "Melchor Ocampo 344",
+        "openingHours": null,
+        "municipality": "Maravatio",
+        "zipCode": "61250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.156845",
+          "19.687845"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Las Americas",
+        "name": "C.F. Guayangareo, Morelia, Mich.",
+        "address": "Avenida Camelinas 3527",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.16656",
+          "19.69533"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Chapultepec Sur",
+        "name": "Plaza Nueva Chapultepec, Morelia, Mich.",
+        "address": "Avenida Lazaro Cardenas 2998",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "45640",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.171074",
+          "19.702435"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Vasco De Quiroga",
+        "name": "Vasco De Quiroga, Morelia, Mich.",
+        "address": "Bucareli 910",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.17216",
+          "19.707355"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Acueducto Oriente, Morelia, Mich.",
+        "address": "Avenida Fco I Madero Oriente 2765",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.17849",
+          "19.693342"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Chapultepec Norte",
+        "name": "Nueva Valladolid, Morelia, Mich.",
+        "address": "Avenida Lazaro Cardenas 1677",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.179504",
+          "19.68125"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "La Loma De Las Camelinas",
+        "name": "Camelinas, Morelia, Mich.",
+        "address": "Avenida Camelinas 1454",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58290",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.18523",
+          "19.67548"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Fraccionamiento La Loma",
+        "name": "Santa Maria, Morelia, Mich.",
+        "address": "Avenida Jose Juan Tabladas 589",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58290",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.18767",
+          "19.695995"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Mercado Independencia,Morelia, Mich.",
+        "address": "Vicente Santa Maria 639",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.18839",
+          "19.710524"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Santiaguito, Morelia, Mich.",
+        "address": "Manuel Buendia 88",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.191475",
+          "19.702824"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "C.F. Morelia,Mich.",
+        "address": "Francisco I Madero Oriente 63",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.21263",
+          "19.702126"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Nueva Valladolid",
+        "name": "Madero Poniente, Morelia, Mich.",
+        "address": "Avenida Francisco I Madero Poniente 1610",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58190",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.21588",
+          "19.684431"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Cosmos",
+        "name": "La Huerta, Morelia, Mich.",
+        "address": "Virgo 208",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.22152",
+          "19.676699"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Ex Hacienda San Jose",
+        "name": "Aduana Morelia,Mich.",
+        "address": "Libramiento Sur 3970 Pa",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58087",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.23287",
+          "19.68727"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Lomas Del Valle",
+        "name": "Morelos, Morelia, Mich.",
+        "address": "Siervo De La Nacion 1019",
+        "openingHours": null,
+        "municipality": "Morelia",
+        "zipCode": "58170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.09409",
+          "19.02128"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Nueva Italia,Mich",
+        "address": "Pascual Orozco 29",
+        "openingHours": null,
+        "municipality": "Mugica",
+        "zipCode": "61760",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.61419",
+          "19.516018"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Patzcuaro, Mich.",
+        "address": "Portal Juarez 32",
+        "openingHours": null,
+        "municipality": "Patzcuaro",
+        "zipCode": "61600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.41902",
+          "19.520178"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Periban De Ramos,Mich.",
+        "address": "Portal Hidalgo 2",
+        "openingHours": null,
+        "municipality": "Periban",
+        "zipCode": "60440",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.006935",
+          "19.909979"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Purepero,Mich.",
+        "address": "Portal Morelos 57",
+        "openingHours": null,
+        "municipality": "Purepero",
+        "zipCode": "58760",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.52282",
+          "20.088057"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Ceentro",
+        "name": "Puruandiro, Mich.",
+        "address": "Guerrero 11",
+        "openingHours": null,
+        "municipality": "Puruandiro",
+        "zipCode": "58500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.72382",
+          "20.056934"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "La Cienega, Sahuayo, Mich.",
+        "address": "Allende S/N",
+        "openingHours": null,
+        "municipality": "Sahuayo",
+        "zipCode": "59000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.72439",
+          "20.056992"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "C E N T R O",
+        "name": "Sahuayo,Mich.",
+        "address": "Constitucion 174",
+        "openingHours": null,
+        "municipality": "Sahuayo",
+        "zipCode": "59000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.458466",
+          "19.23522"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Tacambaro, Mich.",
+        "address": "Portal Galeana 4 Esq. Hid",
+        "openingHours": null,
+        "municipality": "Tacambaro",
+        "zipCode": "61650",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.20338",
+          "19.88654"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Tangancicuaro,Mich",
+        "address": "Portal Hidalgo 94",
+        "openingHours": null,
+        "municipality": "Tangancicuaro",
+        "zipCode": "59750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.32777",
+          "20.284235"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Tanhuato,Mich.",
+        "address": "Portal Abasolo Local 6 Y",
+        "openingHours": null,
+        "municipality": "Tanhuato",
+        "zipCode": "59230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.85011",
+          "19.189"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Tepalcatepec, Mich.",
+        "address": "Cosme Torres Palafox 50",
+        "openingHours": null,
+        "municipality": "Tepalcatepec",
+        "zipCode": "60540",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.05674",
+          "19.969748"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Tlazazalca,Mich.",
+        "address": "Morelos Esquina Hidalgo 135",
+        "openingHours": null,
+        "municipality": "Tlazazalca",
+        "zipCode": "58740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.02557",
+          "19.412342"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Lazaro Cardenas",
+        "name": "Tzararacua, Uruapan, Mich.",
+        "address": "Calzada Benito Juarez 159",
+        "openingHours": null,
+        "municipality": "Uruapan",
+        "zipCode": "60135",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.05077",
+          "19.41719"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Morelos",
+        "name": "Cupatitzio, Uruapan, Mich.",
+        "address": "Paseo Gral Lazaro Cardenas 10 - B",
+        "openingHours": null,
+        "municipality": "Uruapan",
+        "zipCode": "60080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.05364",
+          "19.405779"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Plaza Purepecha, Uruapan, Mich.",
+        "address": "Paseo Gral Lazaro Cardenas Sn",
+        "openingHours": null,
+        "municipality": "Uruapan",
+        "zipCode": "60160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.062386",
+          "19.419516"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "C.F. Uruapan,Mich",
+        "address": "Jose Maria Morelos Sn",
+        "openingHours": null,
+        "municipality": "Uruapan",
+        "zipCode": "60000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.28201",
+          "20.341276"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Yurecuaro,Mich.",
+        "address": "Portal Negrete 8",
+        "openingHours": null,
+        "municipality": "Yurecuaro",
+        "zipCode": "59250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.79009",
+          "19.817122"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Zacapu,Mich",
+        "address": "Morelos 134",
+        "openingHours": null,
+        "municipality": "Zacapu",
+        "zipCode": "58600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.28087",
+          "19.986252"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Catedral, Zamora, Mich.",
+        "address": "Avenida 5 De Mayo 75",
+        "openingHours": null,
+        "municipality": "Zamora",
+        "zipCode": "59670",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.28476",
+          "19.98982"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "El Teco, Zamora, Mich.",
+        "address": "Avenida Francisco I Madero Norte Sn",
+        "openingHours": null,
+        "municipality": "Zamora",
+        "zipCode": "59601",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.28693",
+          "19.984959"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Zamora,Mich",
+        "address": "Avenida Francisco I Madero Sur 262",
+        "openingHours": null,
+        "municipality": "Zamora",
+        "zipCode": "59600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.28766",
+          "19.97536"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Jardinadas",
+        "name": "C.F. Jardinadas, Zamora, Mich.",
+        "address": "Virrey De Mendoza Oriente 64",
+        "openingHours": null,
+        "municipality": "Zamora",
+        "zipCode": "56680",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.82766",
+          "19.859123"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Zinapecuaro,Mich.",
+        "address": "Hidalgo 40 Entre Morelos 40 Entre M",
+        "openingHours": null,
+        "municipality": "Zinapecuaro",
+        "zipCode": "58930",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.35248",
+          "19.427593"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Plaza Del Sol",
+        "name": "Monarca, Zitacuaro, Mich",
+        "address": "Avenida Revolucion Sur 272-A Loca",
+        "openingHours": null,
+        "municipality": "Zitacuaro",
+        "zipCode": "61500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.35768",
+          "19.43583"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Michoacan",
+        "neighborhood": "Centro",
+        "name": "Zitacuaro,Mich",
+        "address": "Emilio Garcia Esquina L De Tejada Poniente S/N",
+        "openingHours": null,
+        "municipality": "Zitacuaro",
+        "zipCode": "61500",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

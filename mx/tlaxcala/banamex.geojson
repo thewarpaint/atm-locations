@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.139",
+          "19.42367"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tlaxcala",
+        "neighborhood": "Centro",
+        "name": "Apizaco, Tlax",
+        "address": "Carretera A Tlaxco 102-B P.B.",
+        "openingHours": null,
+        "municipality": "Apizaco",
+        "zipCode": "90300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.141075",
+          "19.413282"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tlaxcala",
+        "neighborhood": "Centro",
+        "name": "Boulevard Madero, Apizaco, Tlax",
+        "address": "Francisco I Madero 201 Local",
+        "openingHours": null,
+        "municipality": "Apizaco",
+        "zipCode": "90300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.1951",
+          "19.31416"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tlaxcala",
+        "neighborhood": "Santa Ana Chiautempan",
+        "name": "Santa Ana Chiautempan Tlax",
+        "address": "Avenida Antonio Diaz Varela 12 Pb",
+        "openingHours": null,
+        "municipality": "Chiautempan",
+        "zipCode": "90800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.934525",
+          "19.313356"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tlaxcala",
+        "neighborhood": "Centro",
+        "name": "Huamantla, Tlax",
+        "address": "Morelos Poniente Num: 103",
+        "openingHours": null,
+        "municipality": "Huamantla",
+        "zipCode": "90500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.234375",
+          "19.322283"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tlaxcala",
+        "neighborhood": "Centro",
+        "name": "Xicotencatl,Tlaxcala, Tlax",
+        "address": "Avenida Benito Juarez 91",
+        "openingHours": null,
+        "municipality": "Tlaxcala",
+        "zipCode": "90000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.23799",
+          "19.31573"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tlaxcala",
+        "neighborhood": "Centro",
+        "name": "Tlaxcala  Tlax",
+        "address": "Plaza Xicotencatl Sn",
+        "openingHours": null,
+        "municipality": "Tlaxcala",
+        "zipCode": "90000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.23822",
+          "19.194"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tlaxcala",
+        "neighborhood": "La Venta",
+        "name": "Zacatelco, Tlax",
+        "address": "Benito Juarez 1",
+        "openingHours": null,
+        "municipality": "Zacatelco",
+        "zipCode": "90740",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

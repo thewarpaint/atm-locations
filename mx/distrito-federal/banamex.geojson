@@ -1,0 +1,4100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18548",
+          "19.353476"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Florida",
+        "name": "C.F. Insurgentes Encanto",
+        "address": "Avenida Insurgentes Sur 1918",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19092",
+          "19.342354"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Angel",
+        "name": "San Angel",
+        "address": "Avenida Revolucion 1861",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19191",
+          "19.3709"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lomas De Plateros",
+        "name": "A. Plateros",
+        "address": "Boulevard Adolfo L. Mateos 1701",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01480",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19194",
+          "19.38944"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Pedro De Los Pinos",
+        "name": "Exhibimex",
+        "address": "Calle 10 132",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19847",
+          "19.357674"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Las Aguilas",
+        "name": "Las Aguilas",
+        "address": "Calzada De Los Leones 247",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01710",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2002",
+          "19.331623"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Jardines Del Pedregal De San Angel",
+        "name": "C F Jardines Del Pedregal",
+        "address": "Paseo Del Pedregal 110",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.206474",
+          "19.366447"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Merced Gomez",
+        "name": "Plaza Centenario",
+        "address": "Avenida Centenario 394",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.20658",
+          "19.332563"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Jardines Del Pedregal",
+        "name": "San Jeronimo",
+        "address": "Avenida San Jeronimo 630",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.20674",
+          "19.372799"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Olivar Del Conde 1A Seccion",
+        "name": "Olivar Del Conde",
+        "address": "Avenida Del Rosal 810",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.211494",
+          "19.389112"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "El Paraiso (Antes Cve Mun Inegi 010)",
+        "name": "Camino Real De Toluca",
+        "address": "Austriacos 8",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.22679",
+          "19.336142"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Olivar De Los Padres",
+        "name": "Olivar De Los Padres",
+        "address": "Avenida De Las Torres Ixtapongo 446",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01780",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23073",
+          "19.348276"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Puente Colorado",
+        "name": "Meseta Las Aguilas",
+        "address": "Calzada De Las Aguilas 1285",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.234215",
+          "19.383135"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "La Mexicana",
+        "name": "Pueblo Santa Fe",
+        "address": "Avenida Vasco De Quiroga 1504",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.24273",
+          "19.365679"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Estado De Hidalgo",
+        "name": "Santa Lucia",
+        "address": "Avenida Tamaulipas 1236",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01520",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.25165",
+          "19.340511"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lomas De Axiomiatla",
+        "name": "Axomiatla",
+        "address": "Calzada De Las Aguilas 1952",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.259705",
+          "19.374708"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lomas De Santa Fe",
+        "name": "Corporativo Santa Fe",
+        "address": "Actuario Roberto Medellin 800 Pb",
+        "openingHours": null,
+        "municipality": "Alvaro Obregon",
+        "zipCode": "01219",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.159615",
+          "19.493322"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Industrial Vallejo",
+        "name": "C.F. Vallejo",
+        "address": "Norte 45 902",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16721",
+          "19.473103"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Cosmopolita",
+        "name": "Aduana Pantaco",
+        "address": "Cuitlahuac Y Ferrocarril Central S/N",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02670",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17244",
+          "19.469362"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Barrio San Bernabe",
+        "name": "Cuitlahuac",
+        "address": "Avenida Cuitlahuac 3423",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02830",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17732",
+          "19.466553"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Obrero Popular",
+        "name": "Camarones",
+        "address": "Avenida Cuitlahuac 3305",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02840",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18733",
+          "19.481373"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Villa Azcapotzalco",
+        "name": "Azcapotzalco,",
+        "address": "Jara Gutierrez 2",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18883",
+          "19.472137"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Las Trancas",
+        "name": "Tezozomoc",
+        "address": "Avenida Aquiles Serdan 358",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19068",
+          "19.47049"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Cruz Acayucan",
+        "name": "Parque Refineria",
+        "address": "Camino A Nextengo 78",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02770",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.20866",
+          "19.506823"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "El Rosario",
+        "name": "Nueva Rosario",
+        "address": "Avenida Eje Centro 1341",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.21481",
+          "19.49405"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "La Providencia",
+        "name": "Las Armas",
+        "address": "Calzada Las Armas 577",
+        "openingHours": null,
+        "municipality": "Azcapotzalco",
+        "zipCode": "02440",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.0094",
+          "19.354553"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ampliacion Santiago Acahualtepec",
+        "name": "Santa Martha Acatitla",
+        "address": "Benito Juarez 3966",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "09609",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.122246",
+          "19.382965"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Benito Juarez",
+        "name": "Outlet La Viga",
+        "address": "Calzada De La Viga Eje 2 Oriente 1100",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "08930",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13741",
+          "19.396044"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Moderna",
+        "name": "Tlalpan Viaducto",
+        "address": "Calzada De Tlalpan 598",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03510",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14081",
+          "19.379436"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Nativitas",
+        "name": "Nativitas Tlalpan",
+        "address": "Avenida Lago Poniente S/N",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.141624",
+          "19.371494"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Portales",
+        "name": "Portales",
+        "address": "Calzada De Tlalpan 1280",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14612",
+          "19.395247"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Alamos",
+        "name": "Centro Scop ",
+        "address": "Eje Central Lazaro Cardenas 574",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14752",
+          "19.38405"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Vertiz Narvarte",
+        "name": "Lazaro Cardenas",
+        "address": "Avenida Eje Central Lazaro Cardenas 875",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15354",
+          "19.359053"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "General Anaya",
+        "name": "Alberca Olimpica",
+        "address": "Avenida Division Del Norte 2350",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03330",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15488",
+          "19.403786"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Narvarte",
+        "name": "Parque Delta",
+        "address": "Viaducto Miguel Aleman S/N",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15611",
+          "19.395918"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Narvarte",
+        "name": "Narvarte",
+        "address": "Diagonal San Antonio 1309",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15681",
+          "19.370289"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Cruz Atoyac",
+        "name": "Municipio Libre,",
+        "address": "Municipio Libre 314",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1634",
+          "19.377325"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Del Valle",
+        "name": "Pilares",
+        "address": "Pilares 541",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16391",
+          "19.386522"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Del Valle",
+        "name": "Eugenia,D.F.",
+        "address": "Avenida Eugenia 901",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16582",
+          "19.392382"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Del Valle",
+        "name": "Colonia Del Valle",
+        "address": "Avenida Colonia Del Valle 732 P.B.",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16681",
+          "19.367228"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Del Valle",
+        "name": "C.F. Plaza Universidad",
+        "address": "Avenida Universidad 1028",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17101",
+          "19.371967"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Del Valle",
+        "name": "Coyoacan",
+        "address": "Felix Cuevas 610",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17126",
+          "19.360435"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Xoco",
+        "name": "Plaza Coyoacan",
+        "address": "Avenida Coyoacan 2000",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03330",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17291",
+          "19.39297"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Napoles",
+        "name": "Napoles",
+        "address": "Filadelfia (Sotano Del Poliforum) S/N",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03810",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17316",
+          "19.390318"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Del Valle",
+        "name": "Insurgentes Pasadena  Df",
+        "address": "Avenida Insurgentes Sur 800",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.175026",
+          "19.385645"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Del Valle",
+        "name": "Insurgentes Sta Margarita D  F",
+        "address": "Avenida Insurgentes Sur 926",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17827",
+          "19.37349"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Del Valle",
+        "name": "Insurgentes Felix Cuevas",
+        "address": "Felix Cuevas 101",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18174",
+          "19.366"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Credito Constructor",
+        "name": "Insurgentes Florida",
+        "address": "Avenida Insurgentes Sur 1548",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18487",
+          "19.380926"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Mixcoac",
+        "name": "Patriotismo Holbein",
+        "address": "Avenida Patriotismo 671",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03910",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18839",
+          "19.370838"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Mixcoac",
+        "name": "Mixcoac",
+        "address": "Avenida Revolucion 1004",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03910",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18842",
+          "19.36648"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Merced Gomez",
+        "name": "Molinos",
+        "address": "Avenida Revolucion 1105",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03930",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.188545",
+          "19.385124"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Mixcoac",
+        "name": "San Antonio,D.F.",
+        "address": "Miguel Angel Loc26,27,28,29 170",
+        "openingHours": null,
+        "municipality": "Benito Juarez",
+        "zipCode": "03910",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.11225",
+          "19.304777"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Haciendas De Coyoacan",
+        "name": "Cafetales",
+        "address": "Avenida Cafetales 1722",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04970",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12495",
+          "19.329243"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Presidentes Ejidales",
+        "name": "Sta Ana",
+        "address": "Avenida Santa Ana 291",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04470",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12712",
+          "19.316492"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Jardines De Coyoacan",
+        "name": "Miramontes",
+        "address": "Avenida Canal De Miramontes Eje 1 Oriente 2784",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04890",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13048",
+          "19.320217"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Exhacienda Sn Antonio Coapa  (Antes Cve Mun Inegi 003)",
+        "name": "Ciruelos,D.F.",
+        "address": "Avenida Canal De Miramontes Eje 1 Oriente 2600",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04830",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13105",
+          "19.339556"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Petrolera Taxque~A",
+        "name": "Campestre Churubusco,D.F.",
+        "address": "Calzada Taxque~A 1565",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04410",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.138435",
+          "19.319757"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Pablo Tepetlalpa",
+        "name": "Division Del Norte Tlalpan",
+        "address": "Avenida Division Del Norte 3695",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04840",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1433",
+          "19.34029"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Atlantida Coyoacan",
+        "name": "Tlalpan Circunvalacion",
+        "address": "Calzada De Tlalpan 2141",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04370",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15286",
+          "19.331333"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ajusco",
+        "name": "Aztecas",
+        "address": "Avenida Aztecas 270",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.159515",
+          "19.344025"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Cuadrante De San Francisco",
+        "name": "C.F.Miguel A.De Quevedo",
+        "address": "Miguel Angel De Quevedo 713",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16301",
+          "19.35032"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "El Carmen",
+        "name": "Plaza Hidalgo",
+        "address": "Felipe Carrillo Puerto 3",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16694",
+          "19.309801"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ajusco",
+        "name": "Gransur",
+        "address": "Avenida Del Iman 151 Loc 22",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16786",
+          "19.313744"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ajusco Coyoacan",
+        "name": "Iman",
+        "address": "Avenida Aztecas 761",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "43000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17053",
+          "19.335691"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Pedregal De Santo Domingo",
+        "name": "Romero De Terreros",
+        "address": "Avenida Pedro Enriquez Ure~A 374",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.175",
+          "19.322859"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ciudadd Universitaria",
+        "name": "Tienda Unam",
+        "address": "Avenida Dalias S/N",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04510",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18101",
+          "19.346806"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Romero De Terreros",
+        "name": "Copilco Universidad ",
+        "address": "Avenida Universidad Eje 10 Sur 1731",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18308",
+          "19.338465"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Copilco Universidad",
+        "name": "Fortin Chimalistac",
+        "address": "Avenida Universidad Eje 10 Sur 2013",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19056",
+          "19.30408"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Jardines Del Pedregal De San Angel",
+        "name": "Perisur,D F",
+        "address": "Avenida Centro Comercial 0",
+        "openingHours": null,
+        "municipality": "Coyoacan",
+        "zipCode": "04500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.24772",
+          "19.387308"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Bosques De Las Lomas",
+        "name": "Lilas",
+        "address": "Paseo De Las Lilas Locales 31-B Y 32 92",
+        "openingHours": null,
+        "municipality": "Cuajimalpa",
+        "zipCode": "05120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.26707",
+          "19.38184"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Vista Hermosa",
+        "name": "Paseo De Laureles",
+        "address": "Prolongacion Bosques De Reforma 1813",
+        "openingHours": null,
+        "municipality": "Cuajimalpa",
+        "zipCode": "01210",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.27183",
+          "19.361029"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Fe (Antes Cve Mun Inegi 004)",
+        "name": "Santa Fe",
+        "address": "Vasco De Quiroga 3800 Loc 1",
+        "openingHours": null,
+        "municipality": "Cuajimalpa",
+        "zipCode": "01210",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.27284",
+          "19.359442"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Cruz Manca",
+        "name": "Santa Fe 1500",
+        "address": "Avenida Santa Fe 485",
+        "openingHours": null,
+        "municipality": "Cuajimalpa",
+        "zipCode": "05349",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2851",
+          "19.373295"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Granjas Navidad",
+        "name": "Cuajimalpa",
+        "address": "Avenida Hector Victoria 199",
+        "openingHours": null,
+        "municipality": "Cuajimalpa",
+        "zipCode": "56170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.28596",
+          "19.362442"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Jose De Los Cedros",
+        "name": "Lomas De Vista Hermosa",
+        "address": "Carretera Mexico Toluca 3111",
+        "openingHours": null,
+        "municipality": "Cuajimalpa",
+        "zipCode": "05200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12935",
+          "19.430422"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "Merced",
+        "address": "Venustiano Carranza 145",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06089",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.129814",
+          "19.452156"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Morelos",
+        "name": "Peralvillo",
+        "address": "Jesus Carranza 129",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.133545",
+          "19.408606"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ampliacion Asturias",
+        "name": "Asturias",
+        "address": "Calzada Chabacano 43",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06890",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13398",
+          "19.43979"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "Santo Domingo",
+        "address": "Leandro Valle 4",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06089",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13413",
+          "19.427578"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "Mesones",
+        "address": "20 De Noviembre 124",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13497",
+          "19.413181"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "San Antonio Abad",
+        "address": "San Antonio Abad 78",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06820",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.136604",
+          "19.43172"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "Oficina Central",
+        "address": "Isabel La Catolica 44",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.138405",
+          "19.454613"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Simon Tolnahuac",
+        "name": "Tlatelolco",
+        "address": "Manuel Gonzalez 139",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13844",
+          "19.433731"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "Cinco De Mayo",
+        "address": "Francisco I Madero 21",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14052",
+          "19.426374"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "Izazaga 355",
+        "address": "Jose Maria Izazaga 23",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14425",
+          "19.412022"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Doctores",
+        "name": "Ni~O Perdido",
+        "address": "Nino Perdido 191",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06720",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14728",
+          "19.435165"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "C.F. Alameda",
+        "address": "Avenida Juarez 84",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14899",
+          "19.439116"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Guerrero",
+        "name": "Guerrero",
+        "address": "Guerrero 18",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.149055",
+          "19.427088"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Centro",
+        "name": "Arcos De Belem",
+        "address": "Balderas 144",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15307",
+          "19.433708"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Rafael",
+        "name": "Colon",
+        "address": "Donato Guerra 28",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06032",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15473",
+          "19.413105"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Doctores",
+        "name": "Hospital General",
+        "address": "Dr Balmis 148",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06720",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.155174",
+          "19.411224"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Roma Norte",
+        "name": "Pabellon Cuauhtemoc",
+        "address": "Antonio M Anza 20",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.155266",
+          "19.45449"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Maria La Ribera",
+        "name": "Nonoalco",
+        "address": "Ricardo Flores Magon 350",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15602",
+          "19.439825"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Maria La Ribera",
+        "name": "San Cosme",
+        "address": "Ribera De San Cosme 11",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.157974",
+          "19.43121"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Juarez",
+        "name": "General Prim",
+        "address": "Paseo De La Reforma 144",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15836",
+          "19.434526"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Rafael",
+        "name": "Antonio Caso",
+        "address": "Antonio Caso 61",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06470",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15946",
+          "19.422144"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Roma",
+        "name": "Roma",
+        "address": "Cordoba 42",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16246",
+          "19.417463"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Roma",
+        "name": "Roma Obregon",
+        "address": "Alvaro Obregon 168",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16249",
+          "19.425207"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Juarez",
+        "name": "Insurgentes Liverpool",
+        "address": "Avenida Insurgentes Centro 107",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16382",
+          "19.429121"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Cuauhtemoc",
+        "name": "Reforma Rio Rhin",
+        "address": "Paseo De La Reforma 243",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16599",
+          "19.434877"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Rafael",
+        "name": "San Rafael",
+        "address": "Manuel Maria Contreras 133",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06470",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.166466",
+          "19.424385"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Juarez",
+        "name": "Florencia",
+        "address": "Florencia 53",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16723",
+          "19.410622"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Roma Sur",
+        "name": "Insurgentes Coahuila",
+        "address": "Avenida Insurgentes Sur 368",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16768",
+          "19.418476"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Roma Norte",
+        "name": "Valladolid Oaxaca",
+        "address": "Avenida Oaxaca 108",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.168526",
+          "19.405855"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Roma Sur",
+        "name": "C.F. Ins. Baja California,D.F.",
+        "address": "Avenida Insurgentes Sur 454",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16989",
+          "19.431065"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Cuauhtemoc",
+        "name": "Tiber",
+        "address": "Rio Tiber 67",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.169914",
+          "19.402143"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Hipodromo Condesa",
+        "name": "Insurgentes Nuevo Leon",
+        "address": "Insurgentes Sur # 527 P.B.",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17002",
+          "19.425585"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Juarez",
+        "name": "Reforma Praga",
+        "address": "Paseo De La Reforma 390",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17172",
+          "19.425024"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Juarez",
+        "name": "C.F. Reforma Sevilla",
+        "address": "Sevilla 5",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17218",
+          "19.41158"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Hipodromo",
+        "name": "Plaza Condesa",
+        "address": "Avenida Nuevo Leon 97",
+        "openingHours": null,
+        "municipality": "Cuauhtemoc",
+        "zipCode": "06100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.08096",
+          "19.463923"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Pueblo De San Juan De Aragon",
+        "name": "San Juan De Aragon",
+        "address": "Jose Loreto Fabela 55",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07950",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.082695",
+          "19.496437"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "25 De Julio",
+        "name": "San Felipe",
+        "address": "Emiliano Zapata S/N",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07520",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.09454",
+          "19.485394"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "El Coyol",
+        "name": "Eduardo Molina",
+        "address": "Avenida Ing Eduardo Molina Eje 3 Oriente 1623",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "17420",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.10704",
+          "19.481379"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Aragon",
+        "name": "Aragon Villa Gpe.",
+        "address": "Ferrocarril Hidalgo Eje 1 Oriente 1414",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.11173",
+          "19.465677"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Tablas De San Agustin",
+        "name": "Inguaran,",
+        "address": "Oriente 107 3118",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07860",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12245",
+          "19.47124"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Guadalupe Tepeyac",
+        "name": "La Villa",
+        "address": "Calzada De Guadalupe 407",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07840",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12391",
+          "19.467295"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Vallejo",
+        "name": "Nueva Misterios",
+        "address": "Avenida Calz De Guadalupe 162",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07268",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.125755",
+          "19.486034"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lindavista",
+        "name": "Basilica",
+        "address": "Avenida Insurgentes Norte 1788",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.134125",
+          "19.488375"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lindavista",
+        "name": "C.F. Lindavista",
+        "address": "Avenida Instituto Politecnico Nacional 1700",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.143715",
+          "19.506807"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Nueva Industrial Vallejo",
+        "name": "Torres Lindavista",
+        "address": "Othon De Mendizabal 343 Loc2",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.144005",
+          "19.467129"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Francisco Xocotitla",
+        "name": "Plaza La Raza",
+        "address": "Calzada Vallejo 294",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "02960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14499",
+          "19.473156"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Defensores De La Republica",
+        "name": "La Raza",
+        "address": "Cuitlahuac 367",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07780",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.157265",
+          "19.52782"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Solidaridad Nacional",
+        "name": "Nueva Acueducto",
+        "address": "Avenida De La Ventisca 100",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07268",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1657",
+          "19.522627"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Rosa",
+        "name": "Santa Rosa,D.F.",
+        "address": "Calzada Vallejo Eje 1 Poniente 1736",
+        "openingHours": null,
+        "municipality": "Gustavo A. Madero",
+        "zipCode": "07620",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.05824",
+          "19.413294"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Pantitlan",
+        "name": "Pantitlan,D.F.",
+        "address": "Calle 6 306",
+        "openingHours": null,
+        "municipality": "Iztacalco",
+        "zipCode": "08100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.07177",
+          "19.405628"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Agricola Oriental",
+        "name": "Agricola Oriental",
+        "address": "Calzada Ignacio Zaragoza 885",
+        "openingHours": null,
+        "municipality": "Iztacalco",
+        "zipCode": "08500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.09888",
+          "19.400097"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Granjas Mexico",
+        "name": "Granjas Churubusco",
+        "address": "Avenida Rio Churubusco 302",
+        "openingHours": null,
+        "municipality": "Iztacalco",
+        "zipCode": "08400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.10112",
+          "19.384182"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Iztacalco Infonavit",
+        "name": "Plaza Churubusco",
+        "address": "Avenida Rio Churubusco 1120",
+        "openingHours": null,
+        "municipality": "Iztacalco",
+        "zipCode": "08900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.11353",
+          "19.402578"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Granjas Mexico",
+        "name": "Granjas Mexico",
+        "address": "Azucar (Eje 3 Oriente) 145",
+        "openingHours": null,
+        "municipality": "Iztacalco",
+        "zipCode": "08400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.11471",
+          "19.398432"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Anita",
+        "name": "Coyuya",
+        "address": "Coyuya 224",
+        "openingHours": null,
+        "municipality": "Iztacalco",
+        "zipCode": "08300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.01881",
+          "19.373877"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Martha Acatitla",
+        "name": "Pe+On",
+        "address": "Calzada Ignacio Zaragoza 2561",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.03946",
+          "19.387646"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Juan Escutia",
+        "name": "Cd. Nezahualcoyotl,",
+        "address": "Calzada Ignacio Zaragoza 1874",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "06089",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.05247",
+          "19.34222"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Jacarandas",
+        "name": "Santa Cruz Meyehualco",
+        "address": "Calzada Ermita Iztapalapa 2680",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.05692",
+          "19.397804"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Juan Escutia",
+        "name": "Canal De San Juan",
+        "address": "Calzada Ignacio Zaragoza 1290",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.07503",
+          "19.350838"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Los Angeles Femenina",
+        "name": "Los Angeles Iztapalapa",
+        "address": "Calzada Ermita Iztapalapa 1603",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09830",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.07957",
+          "19.383774"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Alfonso Ortiz Tirado",
+        "name": "Plaza Oriente,D.F.",
+        "address": "San Rafael Atlixco Eje 4 Sur 1520",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.081726",
+          "19.374508"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Los Paseos Churubusco",
+        "name": "Abastos Iztapalapa,D.F.",
+        "address": "Circuito Frutas Y Legumbres 0",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.0825",
+          "19.320004"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "El Vergel",
+        "name": "San Lorenzo Tezonco",
+        "address": "Avenida Tlahuac 4631",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09880",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.09798",
+          "19.35664"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Flores Magon",
+        "name": "C.F. Iztapalapa",
+        "address": "Avenida Ermita Iztapalapa 1029",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09820",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.10873",
+          "19.367516"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Granjas San Antonio",
+        "name": "Granjas San Antonio",
+        "address": "Eje 3 Oriente 287",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.10877",
+          "19.337986"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Culhuacan",
+        "name": "Culhuacan Taxque~A",
+        "address": "Calzada Taxque~A 2167",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12264",
+          "19.359383"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Modelo",
+        "name": "Viga Ermita",
+        "address": "Calzada De La Viga Eje 2 Oriente 1805",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12272",
+          "19.373955"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "El Reto~O",
+        "name": "El Reto~O,D.F.",
+        "address": "Calzada  De La Viga Eje 2 Oriente 1381",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09440",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13461",
+          "19.359003"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Sinatel",
+        "name": "Sinatel",
+        "address": "Sur 73 203",
+        "openingHours": null,
+        "municipality": "Iztapalapa",
+        "zipCode": "09470",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.219604",
+          "19.332794"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Jeronimo Lidiceq",
+        "name": "Unidad Independencia",
+        "address": "San Bernabe 327",
+        "openingHours": null,
+        "municipality": "Magdalena Contreras",
+        "zipCode": "10200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.234184",
+          "19.305603"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "La Cruz",
+        "name": "Magdalena Contreras",
+        "address": "Alvaro Obregon 1385",
+        "openingHours": null,
+        "municipality": "Magdalena Contreras",
+        "zipCode": "10800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23829",
+          "19.3169"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lomas Quebrada",
+        "name": "San Bernabe",
+        "address": "Avenida San Jeronimo 742",
+        "openingHours": null,
+        "municipality": "Magdalena Contreras",
+        "zipCode": "10000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.169876",
+          "19.446018"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Tlaxpana",
+        "name": "Normal Tacuba",
+        "address": "Calzada Mexico Tacuba 94",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11370",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17051",
+          "19.435368"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Veronica Anzures",
+        "name": "Galerias",
+        "address": "Calzada Melchor Ocampo 193",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17679",
+          "19.441961"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Anahuac",
+        "name": "Popotla",
+        "address": "Avenida Marina Nacional 150",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17821",
+          "19.438286"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Veronica Anzures",
+        "name": "Santa Barbara",
+        "address": "Bahia Santa Barbara 411",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.179276",
+          "19.43594"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Veronica Anzures",
+        "name": "Laplace",
+        "address": "Avenida Ejercito Nacional 216",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1804",
+          "19.431293"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Anzures",
+        "name": "Anzures",
+        "address": "Herschel 70",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11590",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1828",
+          "19.435555"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Polanco",
+        "name": "Mariano Escobedo",
+        "address": "Calzada Gral Mariano Escobedo 425",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11570",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18523",
+          "19.406519"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Tacubaya",
+        "name": "Tacubaya",
+        "address": "Avenida Jalisco 160",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11870",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18581",
+          "19.458647"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Tacuba",
+        "name": "Tacuba",
+        "address": "Calzada Mexico Tacuba 737",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11410",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1881",
+          "19.43362"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Chapultepec Morales",
+        "name": "Horacio",
+        "address": "Hegel 307",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11570",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19347",
+          "19.428112"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Polanco Reforma",
+        "name": "Campos Eliseos",
+        "address": "Galileo 8",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19677",
+          "19.431866"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Reforma Polanco",
+        "name": "C.F. Polanco",
+        "address": "Presidente Masarik 375",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.197716",
+          "19.453571"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ventura Perez De Alba",
+        "name": "Legaria,D.F.",
+        "address": "Calzada Legaria 252",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.201454",
+          "19.438055"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Granada",
+        "name": "Moliere",
+        "address": "Ejercito Nacional 769",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11520",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.20492",
+          "19.427408"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lomas De Chapultepec",
+        "name": "C.F. Lomas",
+        "address": "Paseo De La Reforma 210",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.20642",
+          "19.438248"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Polanco",
+        "name": "Ejercito Nacional",
+        "address": "Ejercito Nacional 966",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11510",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2125",
+          "19.436111"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Chapultepec Morales",
+        "name": "Morales Polanco",
+        "address": "Boulevard Manuel Avila Camacho 191",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11570",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.21568",
+          "19.42895"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lomas De Chapultepec",
+        "name": "Lomas Barrilaco",
+        "address": "Paseo De Las Palmas 751",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.22784",
+          "19.438131"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Lomas De Sotelo",
+        "name": "Hipodromo De Las Americas",
+        "address": "Conscripto 311",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23975",
+          "19.406431"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Bosques De Las Lomas",
+        "name": "Plaza Bosques",
+        "address": "Bosque De Duraznos 187",
+        "openingHours": null,
+        "municipality": "Miguel Hidalgo",
+        "zipCode": "11700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.02381",
+          "19.191029"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Barrio De Los Angeles",
+        "name": "Milpa Alta",
+        "address": "Avenida Constitucion 13",
+        "openingHours": null,
+        "municipality": "Milpa Alta",
+        "zipCode": "12000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.00553",
+          "19.268206"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Barrio Los Reyes",
+        "name": "Tlahuac",
+        "address": "Avenida Tlahuac Tulyehualco 185",
+        "openingHours": null,
+        "municipality": "Tlahuac",
+        "zipCode": "13080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.06024",
+          "19.30451"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Los Olivos",
+        "name": "Los Olivos",
+        "address": "Avenida Tlahuac 2001",
+        "openingHours": null,
+        "municipality": "Tlahuac",
+        "zipCode": "13210",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12399",
+          "19.303404"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ex Hacienda Coapa",
+        "name": "Galerias Coapa",
+        "address": "Avenida Canal De Miramontes 3197",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14350",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.124985",
+          "19.295788"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Villa Coapa",
+        "name": "Coaplaza  Df",
+        "address": "Avenida Canal De Miramontes 3280 Loc 2",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14390",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13104",
+          "19.294897"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Prados Coapa",
+        "name": "C.F. Villa Coapa",
+        "address": "Hda Acambay 5",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14350",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16213",
+          "19.290365"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Toriello Guerra",
+        "name": "Tlalpan San Fernando",
+        "address": "Calzada De Tlalpan 4791",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17092",
+          "19.26828"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "San Pedro Martir",
+        "name": "San Pedro Martir",
+        "address": "Carretera Federal A Cuernavaca 5603",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14650",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17367",
+          "19.30259"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Santa Ursula (Antes Cve Mun Inegi 012)",
+        "name": "Pedregal Del Sur",
+        "address": "Boulevard Adolfo Ruiz Cortines 5272",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "06089",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17452",
+          "19.288612"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Tlalpan",
+        "name": "Fuentes Brotantes",
+        "address": "Avenida Insurgentes Sur 3976",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.20194",
+          "19.303564"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Fraccionamiento Jardines De La Monta\u00a5A",
+        "name": "Jardines De La Monta~A  Df",
+        "address": "Pico De Verapaz 435 Pb Loc",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14210",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.210915",
+          "19.299088"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Heroes De Padierna",
+        "name": "Boulevard Ajusco",
+        "address": "Boulevard Picacho Ajusco 175",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.217",
+          "19.307856"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Residencial Pedregal",
+        "name": "Rincon Del Pedregal  Df",
+        "address": "Boulevard Adolfo Ruiz Cortines 3395",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14129",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.22046",
+          "19.311138"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Fuentes Del Pedregal",
+        "name": "Periferico Santa Teresa",
+        "address": "Camino A Santa Teresa 1508",
+        "openingHours": null,
+        "municipality": "Tlalpan",
+        "zipCode": "14140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.075035",
+          "19.445086"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Cuchilla Del Tesoro (Antes Cve Mun Inegi 017)",
+        "name": "Aduana Aeropuerto",
+        "address": "Cap Piloto Aviador Carlos Leon 0",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15620",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.0782",
+          "19.4196"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Aeropuerto Int Benito Juarez",
+        "name": "Terminal Ii Aicm",
+        "address": "Fuerza Aerea Mexicana Sn",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15620",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.08898",
+          "19.412048"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Ignacio Zaragoza",
+        "name": "Ignacio Zaragoza  Df",
+        "address": "Avenida 8 222",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.08997",
+          "19.431635"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Moctezuma 2Da. Seccion",
+        "name": "Aeropuerto",
+        "address": "Boulevard Puerto Aereo 342",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15530",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.095406",
+          "19.42112"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Industrial Puerto Aereo",
+        "name": "Aviacion Civil",
+        "address": "Aviacion Civil 1",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15710",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1014",
+          "19.417427"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Jardin Balbuena",
+        "name": "Jardin Balbuena",
+        "address": "Fray Servando Teresa De Mier 979",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.10538",
+          "19.42423"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Jardin Balbuena",
+        "name": "Terminal Oriente",
+        "address": "Ignacio  Zaragoza 73",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.11075",
+          "19.436075"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Madero",
+        "name": "Chedrahui Anfora",
+        "address": "Anfora 71",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.11658",
+          "19.450233"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Valle Gomez",
+        "name": "Canal Del Norte",
+        "address": "Avenida Canal Del Norte 274",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12213",
+          "19.40925"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Magdalena Mixuca",
+        "name": "Jamaica",
+        "address": "Avenida Morelos 13",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15850",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12418",
+          "19.435575"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Unidad Habitacional Emiliano Zapata",
+        "name": "Nueva Mixcalco",
+        "address": "Vidal Alcocer 11",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15299",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12581",
+          "19.424337"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Merced Balbuena",
+        "name": "San Pablo",
+        "address": "Anillo Circunvalacion Eje 1 Oriente 0",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "15810",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.103065",
+          "19.264051"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "El Rosario",
+        "name": "Chinampas",
+        "address": "Pino 60",
+        "openingHours": null,
+        "municipality": "Xochimilco",
+        "zipCode": "16070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.114494",
+          "19.264313"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Tierras Nuevas",
+        "name": "Xochimilco",
+        "address": "Prolongacion Division Del Norte 5441",
+        "openingHours": null,
+        "municipality": "Xochimilco",
+        "zipCode": "16050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13128",
+          "19.272053"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Distrito Federal",
+        "neighborhood": "Miguel Hidalgo",
+        "name": "Tepepan Centro",
+        "address": "Avenida 16 De Septiembre 270",
+        "openingHours": null,
+        "municipality": "Xochimilco",
+        "zipCode": "16020",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.94356",
+          "20.26849"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Actopan,Hgo",
+        "address": "Plaza Juarez 4",
+        "openingHours": null,
+        "municipality": "Actopan",
+        "zipCode": "42500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.452446",
+          "19.709387"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Apan, Apan, Hgo",
+        "address": "Hidalgo 1",
+        "openingHours": null,
+        "municipality": "Apan",
+        "zipCode": "43900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.66947",
+          "20.285706"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Atotonilco El Grande",
+        "name": "Atotonilco El Grande,Hgo",
+        "address": "Avenida Juarez 59",
+        "openingHours": null,
+        "municipality": "Atotonilco El Grande",
+        "zipCode": "43300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.263275",
+          "20.061584"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Cuautepec,Hgo",
+        "address": "Corregidora Esquina Mtz. Dobl. S/N",
+        "openingHours": null,
+        "municipality": "Cuautepec",
+        "zipCode": "43740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.420296",
+          "21.138103"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Huejutla,Hgo",
+        "address": "Hidalgo 1 Esq. Mor",
+        "openingHours": null,
+        "municipality": "Huejutla",
+        "zipCode": "43000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.65033",
+          "20.372505"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Huichapan",
+        "name": "Huichapan,Hgo",
+        "address": "Pedro Ma Anaya Y Felipe Angeles S/N",
+        "openingHours": null,
+        "municipality": "Huichapan",
+        "zipCode": "42400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.219055",
+          "20.482273"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Ixmiquilpan",
+        "name": "Ixmiquilpan,Hgo",
+        "address": "Avenida General Felipe Angeles 18",
+        "openingHours": null,
+        "municipality": "Ixmiquilpan",
+        "zipCode": "42300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.72437",
+          "20.113928"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Cespedes Reforma",
+        "name": "Madero, Pachuca, Hgo",
+        "address": "Carretera A Tulancingo S/N",
+        "openingHours": null,
+        "municipality": "Pachuca",
+        "zipCode": "42090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.731636",
+          "20.128172"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Pachuca,Hgo",
+        "address": "Plaza Independencia 105",
+        "openingHours": null,
+        "municipality": "Pachuca",
+        "zipCode": "42000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.737404",
+          "20.122204"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Pachuca Madero, Hgo",
+        "address": "Avenida Madero 100",
+        "openingHours": null,
+        "municipality": "Pachuca",
+        "zipCode": "42000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.75162",
+          "20.101028"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Fraccionamiento Valle De San Javier",
+        "name": "San Javier, Pachuca, Hgo",
+        "address": "Valle De La Esperanza 101",
+        "openingHours": null,
+        "municipality": "Pachuca",
+        "zipCode": "42086",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.75164",
+          "20.112001"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Sta Julia",
+        "name": "C.F. Blvd Felipe Angeles, Pachuca, Hgo",
+        "address": "Boulevard Felipe Angeles 1400",
+        "openingHours": null,
+        "municipality": "Pachuca",
+        "zipCode": "42080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.75712",
+          "20.099632"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Rancho Las Colonias",
+        "name": "Tulipanes Pachuca, Hgo",
+        "address": "Boulevard Hidalgo Nuevo 509 Lt 2",
+        "openingHours": null,
+        "municipality": "Pachuca",
+        "zipCode": "42083",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.771255",
+          "20.092066"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Venta Prieta",
+        "name": "Galerias Pachuca, Hgo",
+        "address": "Cto Com Perisur Lc 31 A 33 S/N",
+        "openingHours": null,
+        "municipality": "Pachuca",
+        "zipCode": "42080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.77633",
+          "20.113335"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Arboledas San Javier",
+        "name": "Arboledas, Pachuca, Hgo",
+        "address": "Boulevard Luis Donaldo Colosio 212",
+        "openingHours": null,
+        "municipality": "Pachuca",
+        "zipCode": "42084",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19071",
+          "20.242527"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Progreso",
+        "name": "Progreso De Obregon,Hgo",
+        "address": "Plaza De La Contistucion Y E Zapata S/N",
+        "openingHours": null,
+        "municipality": "Progreso De Obregon",
+        "zipCode": "42730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.55222",
+          "19.783493"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Tepeapulco",
+        "name": "Tepeapulco,Hgo",
+        "address": "Independencia 2",
+        "openingHours": null,
+        "municipality": "Tepeapulco",
+        "zipCode": "43970",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.57947",
+          "19.772886"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Zona Centro",
+        "name": "Cd. Sahagun,Hgo",
+        "address": "Allende Lote 1 Ent",
+        "openingHours": null,
+        "municipality": "Tepeapulco",
+        "zipCode": "43990",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.34139",
+          "19.903889"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "San Mateo",
+        "name": "Tepeji Del Rio, Tepeji D O, Hgo",
+        "address": "Antigua Carretera Mexico-Queretaro 141",
+        "openingHours": null,
+        "municipality": "Tepeji Del Rio",
+        "zipCode": "42853",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.9783",
+          "19.839872"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Zona Centro",
+        "name": "Tizayuca,Hgo",
+        "address": "Hidalgo S/N Entre Juarez S/N",
+        "openingHours": null,
+        "municipality": "Tizayuca",
+        "zipCode": "43800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.219696",
+          "20.093424"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Tlaxcoapan",
+        "name": "Tlaxcoapan,Hgo",
+        "address": "Avenida Revolucion 8",
+        "openingHours": null,
+        "municipality": "Tlaxcoapan",
+        "zipCode": "42950",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.334526",
+          "20.038616"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Cd Cooper Cruz Azul Hida",
+        "name": "Cruz Azul Hidalgo, Tula, Hgo",
+        "address": "Boulevard Cooperativismo 1",
+        "openingHours": null,
+        "municipality": "Tula De Allende",
+        "zipCode": "42840",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.34123",
+          "20.05579"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Tula, Tula,Hgo",
+        "address": "Leandro Valle Esquina Avenida Juarez S/N",
+        "openingHours": null,
+        "municipality": "Tula De Allende",
+        "zipCode": "42800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.35887",
+          "20.093206"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Insurgentes",
+        "name": "Blvd. Emiliano Zapata,Hgo",
+        "address": "Boulevard Emiliano Zapata S/N",
+        "openingHours": null,
+        "municipality": "Tulancingo",
+        "zipCode": "43630",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.358925",
+          "20.099049"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Plaza San Francisco",
+        "name": "Jardines De Tulancingo, Hgo",
+        "address": "Carretera Mex-Tuxpan 1385",
+        "openingHours": null,
+        "municipality": "Tulancingo",
+        "zipCode": "43600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.3701",
+          "20.082241"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Tulancingo,Hgo",
+        "address": "Hidalgo Oriente 203",
+        "openingHours": null,
+        "municipality": "Tulancingo",
+        "zipCode": "43600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.65326",
+          "20.64413"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Centro",
+        "name": "Zacualtipan,Hgo",
+        "address": "Pza. Constitucion Esquina Felipe Angeles S/N",
+        "openingHours": null,
+        "municipality": "Zacualtipan",
+        "zipCode": "10000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.38247",
+          "20.73788"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Hidalgo",
+        "neighborhood": "Zona Centro",
+        "name": "Zimapan,Hgo",
+        "address": "Plaza De La Constitucion 15 /Nr Y B",
+        "openingHours": null,
+        "municipality": "Zimapan",
+        "zipCode": "42330",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

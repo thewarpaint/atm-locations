@@ -1,0 +1,3323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.841866",
+          "19.95478"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Acambay,Edo Mex",
+        "address": "Jorge Jimenez Cantu 19",
+        "openingHours": null,
+        "municipality": "Acambay",
+        "zipCode": "50300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.93751",
+          "19.61179"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Los Reyes Tepexpan",
+        "name": "Tepexpan, Acolman, Edo Mex",
+        "address": "Miguel Hidalgo 1",
+        "openingHours": null,
+        "municipality": "Acolman",
+        "zipCode": "55885",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.75756",
+          "19.369387"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Almoloya De Juarez,Edo Mex",
+        "address": "Hidalgo 1 Local B",
+        "openingHours": null,
+        "municipality": "Almoloya De Juarez",
+        "zipCode": "50900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.77085",
+          "19.123575"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro (Amecameca)",
+        "name": "Amecameca,Edo Mex",
+        "address": "Avenida Hidal\nGo 21",
+        "openingHours": null,
+        "municipality": "Amecameca",
+        "zipCode": "56900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.173904",
+          "19.975115"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Apaxco",
+        "name": "Apaxco,Mex",
+        "address": "Plaza Melchor Ocampo 2 Entre 2",
+        "openingHours": null,
+        "municipality": "Apaxco",
+        "zipCode": "55660",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.21953",
+          "19.560053"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Las Arboledas",
+        "name": "Club De Golf Hacienda, Atizapan, Edo Mex",
+        "address": "Calzada De Los Jinetes 155 Loc G",
+        "openingHours": null,
+        "municipality": "Atizapan",
+        "zipCode": "52950",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.22878",
+          "19.60732"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Villas De La Hacienda (Antes Cve Mun Inegi 013)",
+        "name": "Villas De La Hacienda, Atizapan, Edo Mex",
+        "address": "Boulevard Lomas De La Hacienda 368",
+        "openingHours": null,
+        "municipality": "Atizapan",
+        "zipCode": "52929",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.24159",
+          "19.553057"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Las Alamedas (Antes Cve Mun Inegi 013)",
+        "name": "Las Alamedas Atizapan",
+        "address": "Boulevard Lopez Mateos 100",
+        "openingHours": null,
+        "municipality": "Atizapan",
+        "zipCode": "52970",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.259834",
+          "19.57842"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Pedregal De Atizapan",
+        "name": "Plaza Atizapan, Edo Mex",
+        "address": "Car Atizapan Villa Nicolas Romero 28 2A",
+        "openingHours": null,
+        "municipality": "Atizapan",
+        "zipCode": "52948",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23655",
+          "19.546597"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Lomas De Capistrano (Antes Cve Mun Inegi 013)",
+        "name": "Atizapan,Edo De Mex",
+        "address": "Boulevard Lopez Mateos 56",
+        "openingHours": null,
+        "municipality": "Atizapan De Zaragoza",
+        "zipCode": "52987",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2442",
+          "19.56186"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Atizapan Centro",
+        "name": "Atizapan Norte,Mex",
+        "address": "Calzada San Mateo S/N",
+        "openingHours": null,
+        "municipality": "Atizapan De Zaragoza",
+        "zipCode": "52900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.29715",
+          "19.559837"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Plazas Del Condado",
+        "name": "Zona Esmeralda, Atizapan, Edo Mex",
+        "address": "Lote B Casas 1 Y 2 Local6 Pb Loc6",
+        "openingHours": null,
+        "municipality": "Atizapan De Zaragoza",
+        "zipCode": "52930",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.87476",
+          "19.795624"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Atlacomulco,Edo Mex",
+        "address": "Isidro Fabela 36",
+        "openingHours": null,
+        "municipality": "Atlacomulco",
+        "zipCode": "50450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.886215",
+          "19.274736"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Emiliano Zapata",
+        "name": "Boulevard Chalco",
+        "address": "Avenida Cuauhtemoc S/N",
+        "openingHours": null,
+        "municipality": "Chalco",
+        "zipCode": "04360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.89842",
+          "19.26058"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Barrio La Conchita",
+        "name": "Chalco Edo. De Mex.",
+        "address": "Avenida Hidalgo 12",
+        "openingHours": null,
+        "municipality": "Chalco",
+        "zipCode": "56600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.91233",
+          "19.282305"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Covadonga (Antes Cve Mun Inegi 122)",
+        "name": "Galerias Chalco, Edo Mex",
+        "address": "Avenida Solidaridad 1801",
+        "openingHours": null,
+        "municipality": "Chalco",
+        "zipCode": "56607",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.943954",
+          "19.277952"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Alfredo Barranda",
+        "name": "Valle De Chalco,Edomex",
+        "address": "Avenida Tezozomoc S/N Locs.1",
+        "openingHours": null,
+        "municipality": "Chalco",
+        "zipCode": "56600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.92331",
+          "19.409428"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Revolucion Del Exejidos",
+        "name": "San Vicente, Chicoloapa, Edo Mex",
+        "address": "Carretera Mexico Texcoco Km 28 Mza.",
+        "openingHours": null,
+        "municipality": "Chicoloapan",
+        "zipCode": "56370",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.89592",
+          "19.559963"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Barrio Santa Maria",
+        "name": "Chinconcuac,Edo.Mex.",
+        "address": "Francisco I Madero S/N",
+        "openingHours": null,
+        "municipality": "Chiconcuac",
+        "zipCode": "56270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.981544",
+          "19.425798"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Barrio Orfebres",
+        "name": "Neza Chimalhuacan",
+        "address": "Avenida Canteros (Avenida Quetzalli) Mz 721 Lt",
+        "openingHours": null,
+        "municipality": "Chimalhuacan",
+        "zipCode": "56356",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.08526",
+          "19.62959"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Coacalco De Berriozabal",
+        "name": "Plaza Coacalco  Edo. De Mex.",
+        "address": "Via Jose Lopez Portillo 220",
+        "openingHours": null,
+        "municipality": "Coacalco",
+        "zipCode": "55700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.09486",
+          "19.632895"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Coacalco De Berriozabal",
+        "name": "Coacalco Edo De Mex",
+        "address": "Via Jose Lopez Portillo 27.4",
+        "openingHours": null,
+        "municipality": "Coacalco",
+        "zipCode": "55700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.111565",
+          "19.635826"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Los Periodistas",
+        "name": "Coacalco Tultepec,Edomex",
+        "address": "Via Lopez Portillo 37 Y 37-A",
+        "openingHours": null,
+        "municipality": "Coacalco",
+        "zipCode": "55717",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.12466",
+          "19.630718"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Rancho La Palma",
+        "name": "Coacalco Center, Edo Mex",
+        "address": "Via Jose Lopez Portillo Fracc 3 S/N",
+        "openingHours": null,
+        "municipality": "Coacalco",
+        "zipCode": "55717",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.76841",
+          "18.924082"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Coatepec De Harinas,Edo Mex",
+        "address": "Plaza Hidalgo 10",
+        "openingHours": null,
+        "municipality": "Coatepec Harinas",
+        "zipCode": "51700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17139",
+          "19.66899"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Maria",
+        "name": "Plaza La Via, Cuautitlan, Edo Mex",
+        "address": "Prolongacion Morelos S/N",
+        "openingHours": null,
+        "municipality": "Cuautitlan",
+        "zipCode": "54800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18136",
+          "19.669352"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Guadalupana",
+        "name": "Cuautitlan,Edo De Mex",
+        "address": "Calzada Guadalupe 101",
+        "openingHours": null,
+        "municipality": "Cuautitlan",
+        "zipCode": "54800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18566",
+          "19.683863"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Citlaltepetl",
+        "name": "Plaza San Miguel, Cuautitlan, Edo Mex",
+        "address": "Avenida Huehuetoca S/N",
+        "openingHours": null,
+        "municipality": "Cuautitlan",
+        "zipCode": "54713",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19788",
+          "19.65057"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Arcos Del Alba",
+        "name": "Cuautitlan Arcos Del Alba  Edomex",
+        "address": "Autopista Mexico Queretaro Km 34.5",
+        "openingHours": null,
+        "municipality": "Cuautitlan",
+        "zipCode": "54750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19871",
+          "19.64123"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Atlanta",
+        "name": "Jardines Del Alba, Cuautitlan, Edo Mex",
+        "address": "Parque Bosencheve S/N",
+        "openingHours": null,
+        "municipality": "Cuautitlan",
+        "zipCode": "54740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2022",
+          "19.669758"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Exhacienda Coamatla (Antes Cve Mun Inegi 121)",
+        "name": "Plaza San Marcos, Cuautitlan, Edo Mex",
+        "address": "Avenida Chalma Sn",
+        "openingHours": null,
+        "municipality": "Cuautitlan",
+        "zipCode": "54730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.208",
+          "19.645391"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro Urbano",
+        "name": "Centro Urbano Cuautitlan Izcalli,Mex",
+        "address": "Avenida 1 De Mayo Esq Reyes Mza C24 B 348 0",
+        "openingHours": null,
+        "municipality": "Cuautitlan",
+        "zipCode": "54750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19073",
+          "19.601171"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Hacienda Del Parque",
+        "name": "Perinorte, Cuautitlan, Edo Mex",
+        "address": "Avenida Sierra Vieja Local H-28 2",
+        "openingHours": null,
+        "municipality": "Cuautitlan Izcalli",
+        "zipCode": "54769",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.20519",
+          "19.652946"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Zona Comercial",
+        "name": "Cuautitlan Izcalli,Edo De Mex",
+        "address": "Temoaya 34",
+        "openingHours": null,
+        "municipality": "Cuautitlan Izcalli",
+        "zipCode": "54740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23488",
+          "19.673811"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Jose Huilango",
+        "name": "La Aurora, Cuautitlan, Edo Mex",
+        "address": "Avenida Villa Del Carbon Sn",
+        "openingHours": null,
+        "municipality": "Cuautitlan Izcalli",
+        "zipCode": "54725",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.014435",
+          "19.60281"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Venta De Carpio",
+        "name": "Jardines De Morelos, Ecatepec, Edo Mex",
+        "address": "Avenida Central 615",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.02355",
+          "19.558807"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Industrias Tulpetlac",
+        "name": "R 1, Ecatepec, Edo Mex",
+        "address": "Avenida Lopez Mateos S/N",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55107",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.023766",
+          "19.583885"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Jardines De Morelos 5Ta Secc",
+        "name": "Plaza Las Americas, Ecatepec, Edo Mex",
+        "address": "Avenida Central (Carlos Hank Gonzalez) Sn",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55075",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.02707",
+          "19.537313"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Ciudad Azteca",
+        "name": "Cd Azteca, Ecatepec, Edo Mex",
+        "address": "Boulevard Los Aztecas Mz 503 L 1",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.027855",
+          "19.531895"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Rinconada De Aragon",
+        "name": "Pza. Aragon, Ecatepec, Edo Mex",
+        "address": "Avenida Carlos Hank Gonzalez 120",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.0359",
+          "19.598814"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Cristobal Ecatepec",
+        "name": "Ecatepec Edo De Mex",
+        "address": "Avenida Nacional 58",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "05530",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.03814",
+          "19.511274"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Valle De Anahuac",
+        "name": "Center Plazas, Ecatepec, Edo Mex",
+        "address": "Avenida Central (Carlos Hank Glz) 50",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55210",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.0428",
+          "19.572546"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Maria Tulpetlac",
+        "name": "Cm Ecatepec,Edo Mex",
+        "address": "Via Morelos 222",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.04363",
+          "19.49856"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Villas De Aragon",
+        "name": "Valle De Aragon, Ecatepec, Edo Mex",
+        "address": "Avenida Central 263",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55148",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.04958",
+          "19.598742"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Cristobal Centro",
+        "name": "San Cristobal Centro, Ecatepec, Edo Mex",
+        "address": "Avenida Lopez Mateos 28",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.05268",
+          "19.548323"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Jardines De Casa Nueva",
+        "name": "Cerro Gordo, Ecatepec, Edo Mex",
+        "address": "Via Morelos 0",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.066925",
+          "19.533878"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Clara",
+        "name": "C.F. Sta. Clara, Ecatepec Edo. De Mex.",
+        "address": "Via Morelos K.M. 14.5",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "55540",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.08425",
+          "19.522036"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Juan Ixhuatepec (Antes Cve Mun Inegi 033)",
+        "name": "Industrial Xalostoc, Tlalnepant, Edo Mex",
+        "address": "Emiliano Zapata 63",
+        "openingHours": null,
+        "municipality": "Ecatepec",
+        "zipCode": "54180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.13052",
+          "19.799583"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "El Oro,Edo Mex",
+        "address": "Independencia 24",
+        "openingHours": null,
+        "municipality": "El Oro",
+        "zipCode": "50600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2217",
+          "19.830273"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Huehuetoca",
+        "name": "Huehuetoca,Mex",
+        "address": "Carretera Jorabas-Huehuetoca S/N S/N",
+        "openingHours": null,
+        "municipality": "Huehuetoca",
+        "zipCode": "54680",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2444",
+          "19.421326"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "La Herradura",
+        "name": "La Herradura, Naucalpan, Edo Mex",
+        "address": "Bosque De Moctezuma 1",
+        "openingHours": null,
+        "municipality": "Huixquilucan",
+        "zipCode": "52784",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.25523",
+          "19.407492"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Lomas De Tecamachalco",
+        "name": "Puente De Tecamachalco, Edomex",
+        "address": "Avenida De Los Bosques 234",
+        "openingHours": null,
+        "municipality": "Huixquilucan",
+        "zipCode": "52786",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.267",
+          "19.41886"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Corazon De La Herradura",
+        "name": "Bosques De Minas",
+        "address": "Bosque De Las Minas 25 Local 1",
+        "openingHours": null,
+        "municipality": "Huixquilucan",
+        "zipCode": "52783",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.26775",
+          "19.399893"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Lomas Anahuac",
+        "name": "Interlomas, Huixquilucan, Edo Mex",
+        "address": "Avenida Lomas Anahuac Lote 2 Mza",
+        "openingHours": null,
+        "municipality": "Huixquilucan",
+        "zipCode": "52786",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.27396",
+          "19.401377"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Cto Urbano San Fdo Herra (Antes Cve Mun Inegi 037)",
+        "name": "Magnocentro, Naucalpan, Edo Mex",
+        "address": "Boulevard Magnocentro Mza 2 L-7",
+        "openingHours": null,
+        "municipality": "Huixquilucan",
+        "zipCode": "52760",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.289406",
+          "19.395447"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Hacienda De Las Palmas",
+        "name": "Interplaza, Huixquiluc, Edo Mex",
+        "address": "Avenida Palo Solo Sn",
+        "openingHours": null,
+        "municipality": "Huixquilucan",
+        "zipCode": "52763",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.88088",
+          "19.296324"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Sta Barbara",
+        "name": "Plaza Sendero, Ixtapaluca, Edo Mex",
+        "address": "Carretera Federal Mexico Puebla 1",
+        "openingHours": null,
+        "municipality": "Ixtapaluca",
+        "zipCode": "56538",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.88373",
+          "19.312902"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Ixtapaluca,Edo.Mex.",
+        "address": "Municipio Libre 16",
+        "openingHours": null,
+        "municipality": "Ixtapaluca",
+        "zipCode": "56530",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.89698",
+          "19.312405"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Ampliacion Santa Barbara",
+        "name": "Plaza Ixtapaluca,Edomex",
+        "address": "Avenida Cuauhtemoc 2000",
+        "openingHours": null,
+        "municipality": "Ixtapaluca",
+        "zipCode": "56538",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.92293",
+          "19.311066"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Ayotla",
+        "name": "Ayotla Ixtapaluca, Ixtapaluca, Edo Mex",
+        "address": "Carretera Federal Mexico Puebla Km 27.5",
+        "openingHours": null,
+        "municipality": "Ixtapaluca",
+        "zipCode": "56560",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.67592",
+          "18.840948"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Ixtapan De La Sal,Mex",
+        "address": "Allende Esquina Zaragoza S/N",
+        "openingHours": null,
+        "municipality": "Ixtapan De La Sal",
+        "zipCode": "51900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.76609",
+          "19.566437"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Ixtlahuaca,Mex",
+        "address": "Juan Alvarez Esquina Nicolas Bravo S/N",
+        "openingHours": null,
+        "municipality": "Ixtlahuaca",
+        "zipCode": "50740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.544716",
+          "19.952154"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Jilotepec,Mex",
+        "address": "Vicente Guerrero 307",
+        "openingHours": null,
+        "municipality": "Jilotepec",
+        "zipCode": "54240",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.52852",
+          "19.297508"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Parque Industrial Lerma",
+        "name": "Lerma,Edo Mex",
+        "address": "Avenida C De Las Partidas 1 Mz 8 Lt",
+        "openingHours": null,
+        "municipality": "Lerma",
+        "zipCode": "52000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.555466",
+          "19.289516"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Parque Industrial Lerma",
+        "name": "Sendero Toluca, Lerma, Edo Mex",
+        "address": "Boulevard Aeropuerto 55",
+        "openingHours": null,
+        "municipality": "Lerma",
+        "zipCode": "52004",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.977875",
+          "19.354359"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Los Reyes La Paz",
+        "name": "Los Reyes La Paz Edo De  Mex",
+        "address": "Carretera Federal Mexico Puebla 0",
+        "openingHours": null,
+        "municipality": "Los Reyes La Paz",
+        "zipCode": "56400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.989685",
+          "19.35789"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Los Reyes Acaquilpan",
+        "name": "Cm Los Reyes,Edo Mex",
+        "address": "Avenida San Francisco 88",
+        "openingHours": null,
+        "municipality": "Los Reyes La Paz",
+        "zipCode": "56400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.57073",
+          "19.24196"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Rancho Guadalupe",
+        "name": "Sedagro, Metepec, Mex",
+        "address": "Rancho Guadalupe S/N",
+        "openingHours": null,
+        "municipality": "Metepec",
+        "zipCode": "52140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.576",
+          "19.2571"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Llano Grande",
+        "name": "Tecnologico Toluca, Metepec, Mex",
+        "address": "Avenida Tecnologico Norte 338",
+        "openingHours": null,
+        "municipality": "Metepec",
+        "zipCode": "52148",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.593956",
+          "19.282791"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Jeronimo Chicahualco",
+        "name": "Las Torres Pilares, Metepec, Mex",
+        "address": "Avenida Emilio Carranza 2",
+        "openingHours": null,
+        "municipality": "Metepec",
+        "zipCode": "52179",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.6201",
+          "19.258415"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "0",
+        "name": "Galerias Metepec,Mex",
+        "address": "Boulevard Toluca Ixtapan 126 Nte",
+        "openingHours": null,
+        "municipality": "Metepec",
+        "zipCode": "52140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.627075",
+          "19.267645"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Fraccionamiento San Carlos",
+        "name": "San Carlos,Metepec, Mex",
+        "address": "Benito Juarez 216",
+        "openingHours": null,
+        "municipality": "Metepec",
+        "zipCode": "52159",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.62893",
+          "19.26058"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "La Purisima",
+        "name": "El Nevado 5036",
+        "address": "Vialidad Toluca Tenango 533 Norte",
+        "openingHours": null,
+        "municipality": "Metepec",
+        "zipCode": "52140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.6326",
+          "19.26319"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Fraccionamiento Xinantecatl",
+        "name": "Metepec,Edo Mex",
+        "address": "Jose Maria Pino Suarez Sur 2400",
+        "openingHours": null,
+        "municipality": "Metepec",
+        "zipCode": "52169",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.21867",
+          "19.448896"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Periodista",
+        "name": "Toreo, Naucalpan, Edo Mex",
+        "address": "Lic Rafael Reyes Espindola S/N",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "11200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.222404",
+          "19.469858"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Alce Blanco",
+        "name": "C.F. San Bartolo Naucalpan,Mex",
+        "address": "16 De Septiembre 505",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.227646",
+          "19.491022"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Echegaray",
+        "name": "Gustavo Baz, Naucalpan, Edo Mex",
+        "address": "Via Gustavo Baz Prada 220",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.22852",
+          "19.428192"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Tecamachalco",
+        "name": "Tecamachalco, Naucalpan, Edo Mex",
+        "address": "Avenida De Las Fuentes 46",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.230515",
+          "19.465673"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Andres Atoto",
+        "name": "Cuatro Caminos, Naucalpan, Edo Mex",
+        "address": "Avenida 1O De Mayo 236",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.231514",
+          "19.512527"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Ciudad Satelite",
+        "name": "Satelite Circuito, Naucalpan, Edo Mex",
+        "address": "Pafnuncio Padilla 53",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23394",
+          "19.508987"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Ciudad Satelite",
+        "name": "Plaza Satelite, Naucalpan, Edo Mex",
+        "address": "Boulevard Avila Camacho 18",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23567",
+          "19.497343"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "La Florida",
+        "name": "Echegaray Alce Blanco,Naucalpan, Edo Mex",
+        "address": "Paseo De La Florida 1605",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.237206",
+          "19.457645"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "El Molinito",
+        "name": "El Molinito, Naucalpan, Edo Mex",
+        "address": "El Molinito 30",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53530",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23891",
+          "19.47222"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Naucalpan Centro",
+        "name": "Naucalpan Centro, Edo Mex",
+        "address": "Via Adolfo Lopez Mateos 18",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.24418",
+          "19.487783"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Cruz Acatlan",
+        "name": "Centro Administrativo Naucalpan Edo Mex",
+        "address": "De Los Olmecas 39",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.24467",
+          "19.513588"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Ciudad Satelite",
+        "name": "Satelite Poniente, Naucalpan, Edo Mex",
+        "address": "Circuito Circunvalacion Poniente 146",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.24703",
+          "19.495068"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Lomas Verdes",
+        "name": "Boulevares, Naucalpan, Edo Mex",
+        "address": "Colina De La Paz 25",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.251",
+          "19.4985"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Los Alamos",
+        "name": "Lomas Verdes, Naucalpan, Edo Mex",
+        "address": "Alamo Plateado 3",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.251595",
+          "19.481466"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Cruz Acatlan",
+        "name": "San Mateo, Naucalpan, Edo Mex",
+        "address": "Via Adolfo Lopez Mateos 201",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.253365",
+          "19.519499"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Cruz Del Monte",
+        "name": "Jardines De Bellavista,Naucalpan,Edo Mex",
+        "address": "Avenida Paseo Lomas Verdes 146 Loc 2",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.26602",
+          "19.5158"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Lomas Verdes 2A Seccion",
+        "name": "Las Plazas, Naucalpan, Edo Mex",
+        "address": "Avenida Paseo Lomas Verdes 750",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53125",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2676",
+          "19.516653"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Lomas Verdes 3A Seccion",
+        "name": "La Cuspide, Toluca, Mex",
+        "address": "Avenida Lomas Verdes Lot 1 Loc 49 1200",
+        "openingHours": null,
+        "municipality": "Naucalpan",
+        "zipCode": "53125",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.980736",
+          "19.38994"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Esperanza",
+        "name": "Parque Industrial, Nezahualco, Edo Mex",
+        "address": "Avenida Chimalhuacan Lt12Y13 Mz",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.98705",
+          "19.39916"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Rey Neza",
+        "name": "Plaza Chedrahui Neza",
+        "address": "Avenida 4Ta Nezahualcoyotl 257",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.98842",
+          "19.400492"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Rey Neza",
+        "name": "Circuitos Neza, Nezahualco, Edo Mex",
+        "address": "Circuito Rey Nezahualcoyotl 88",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57809",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.990555",
+          "19.372553"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Loma Bonita",
+        "name": "Loma Bonita, Nezahualco, Edo Mex",
+        "address": "20 De Noviembre Mza 3 Lt 2",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.00637",
+          "19.401594"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "La Aurora",
+        "name": "Neza Villada, Nezahualco, Edo Mex",
+        "address": "General Vicente Villada 248 A Lote",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.02332",
+          "19.409725"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Benito Juarez",
+        "name": "Neza Centro Edo De Mex",
+        "address": "Avenida Adolfo Lopez Mateos 583",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.02404",
+          "19.388056"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Metropolitana 2Da Seccion",
+        "name": "Neza Sor Juana Edo De Mex",
+        "address": "Avenida Sor Juana Ines De La Cruz 72",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.03651",
+          "19.402756"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Raul Romero Seccion Fuentes",
+        "name": "Villa Victoria",
+        "address": "Villa Victoria 251",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57630",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.047935",
+          "19.488482"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Valle De Aragon",
+        "name": "Jardines De Aragon, Nezahualco, Edo Mex",
+        "address": "Avenida Central 773",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.05055",
+          "19.418379"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Maravillas",
+        "name": "Maravillas, Nezahualco, Edo Mex",
+        "address": "Avenida Cuauhtemoc 99",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57410",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.05635",
+          "19.467999"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Bosques De Aragon",
+        "name": "Bosques De Aragon, Nezahualco, Edo Mex",
+        "address": "Avenida Carlos Hank Gonzalez 120",
+        "openingHours": null,
+        "municipality": "Nezahualcoyotl",
+        "zipCode": "57170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.29003",
+          "19.609474"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Hidalgo",
+        "name": "Villa Nicolas Romero Edo De Mex",
+        "address": "20 De Noviembre 3",
+        "openingHours": null,
+        "municipality": "Nicolas Romero",
+        "zipCode": "54434",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.75756",
+          "19.698973"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Otumba",
+        "name": "Otumba,Mex",
+        "address": "Plaza De La Constitucion 5",
+        "openingHours": null,
+        "municipality": "Otumba",
+        "zipCode": "55900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.5293",
+          "19.26596"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Barrio Sn Nicolas",
+        "name": "San Mateo Atenco,Edo Mex",
+        "address": "Avenida Benito Juarez 113",
+        "openingHours": null,
+        "municipality": "San Mateo Atenco",
+        "zipCode": "52104",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.96483",
+          "19.710772"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Hueyotenco",
+        "name": "Plaza Tecamac, Edo Mex",
+        "address": "Antigua Carretera Federal Mexico-Pachuca Km 36.5",
+        "openingHours": null,
+        "municipality": "Tecamac",
+        "zipCode": "55740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.97353",
+          "19.712793"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Cinco De Mayo",
+        "name": "Tecamac,Edo Mex",
+        "address": "5 De Mayo Sn",
+        "openingHours": null,
+        "municipality": "Tecamac",
+        "zipCode": "55749",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.00991",
+          "19.655426"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "La Esmeralda",
+        "name": "Ojo De Agua, Tecamac, Edo Mex",
+        "address": "Carretera Mexico Pachuca Mz 3 Lt 6",
+        "openingHours": null,
+        "municipality": "Tecamac",
+        "zipCode": "54730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.02751",
+          "19.618786"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro Urbano Los Heroes (Antes Cve Mun Inegi 033)",
+        "name": "Los Heroes Ecatepec, Tecamac, Edo Mex",
+        "address": "Plutarco Elias Calles S/N",
+        "openingHours": null,
+        "municipality": "Tecamac",
+        "zipCode": "55069",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.15278",
+          "18.905832"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Tejupilco,Mex",
+        "address": "Josefa Ortiz De Dominguez 21A",
+        "openingHours": null,
+        "municipality": "Tejupilco",
+        "zipCode": "51400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.04215",
+          "19.04299"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Temascaltepec,Edo Mex",
+        "address": "Rivapalacios 5",
+        "openingHours": null,
+        "municipality": "Temascaltepec",
+        "zipCode": "51300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.59352",
+          "19.4696"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Temoaya,Edo Mex",
+        "address": "Portal Ayuntamiento 101 101",
+        "openingHours": null,
+        "municipality": "Temoaya",
+        "zipCode": "50850",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.59263",
+          "18.961054"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Tenancingo De Degollado",
+        "name": "Tenancingo,Edo Mex",
+        "address": "Plaza Morelos Poniente Esquina Pablo G Casanova S/N",
+        "openingHours": null,
+        "municipality": "Tenancingo",
+        "zipCode": "52400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.59072",
+          "19.099207"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Ctro Tenango Del Valle",
+        "name": "Tenango Del Valle, Edomex",
+        "address": "Independencia  100 Num 100",
+        "openingHours": null,
+        "municipality": "Tenango Del Valle",
+        "zipCode": "52300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.87604",
+          "19.684858"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Juan Teotihuacan",
+        "name": "San Juan Teotihuacan Edo De Mex",
+        "address": "Guerrero 0",
+        "openingHours": null,
+        "municipality": "Teotihuacan",
+        "zipCode": "55800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.207375",
+          "19.71485"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Parque Industrial Cedros",
+        "name": "Cedros, Tepotzotla, Edo Mex",
+        "address": "Carretera Mexico-Queretaro Local B1 Km 49.5",
+        "openingHours": null,
+        "municipality": "Tepotzotlan",
+        "zipCode": "54600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.93764",
+          "18.928118"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Texcaltitlan. Edo Mex",
+        "address": "Benito Juarez 19",
+        "openingHours": null,
+        "municipality": "Texcaltitlan",
+        "zipCode": "51670",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.88054",
+          "19.51746"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Barrio San Pablo",
+        "name": "Texcoco Norte, Edo Mex",
+        "address": "Prolongacion 16 De Septiembre L 6 Al 8 21",
+        "openingHours": null,
+        "municipality": "Texcoco",
+        "zipCode": "56116",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.8808",
+          "19.513447"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Texcoco,Edomex",
+        "address": "Nezahualcoyotl 208",
+        "openingHours": null,
+        "municipality": "Texcoco",
+        "zipCode": "56100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.89315",
+          "19.506763"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Ursula",
+        "name": "Chapingo, Texcoco, Mex",
+        "address": "Avenida Emiliano Zapata 1",
+        "openingHours": null,
+        "municipality": "Texcoco",
+        "zipCode": "56170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.907745",
+          "19.43045"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santiago Cuautlalpan",
+        "name": "Puerta Texcoco, Edo Mex",
+        "address": "Carretera Mexico Texcoco Km30.5",
+        "openingHours": null,
+        "municipality": "Texcoco",
+        "zipCode": "56259",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.46807",
+          "19.181276"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Santiago Tianguistengo,Edo Mex",
+        "address": "Gomez Farias Esquina Portal Del Buen S. S/N",
+        "openingHours": null,
+        "municipality": "Tianguistenco",
+        "zipCode": "52600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.10726",
+          "19.518824"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Juan Ixhuatepec",
+        "name": "San Juanico, Tlalnepantla, Edo Mex",
+        "address": "Lic Benito Juarez 17",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.157646",
+          "19.504705"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Prado Vallejo (Antes Cve Edo Y Mun Inegi 09/ 005)",
+        "name": "Prado Vallejo,Edo Mex",
+        "address": "Calzada Vallejo Eje 1 Poniente 0",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18026",
+          "19.534184"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Valle Ceylan",
+        "name": "Valle Ceylan, Tlalnepantla, Edo Mex",
+        "address": "Aguascalientes 210 Loc 7",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18048",
+          "19.556026"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Cecilia",
+        "name": "Santa Cecilia, Tlalnepantla, Edo Mex",
+        "address": "Avenida Santa Cecilia 17",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19302",
+          "19.554531"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Nueva Ferrocarrilera",
+        "name": "Plaza Toltecas, Tlalnepantla, Edo Mex",
+        "address": "Avenida Hidalgo Sn",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19397",
+          "19.550638"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "La Romana",
+        "name": "Centro Administrativo Tlalnepantla,Mex",
+        "address": "Avenida Hidalgo 92",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19529",
+          "19.53653"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Tlalnepantla De Baz Centro",
+        "name": "Tlalnepantla Centro, Edo Mex",
+        "address": "Riva Palacio 10",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19651",
+          "19.53027"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Jeronimo Tepetlacalco",
+        "name": "Puente De Vigas, Tlalnepantla, Edo Mex",
+        "address": "Presidente Juarez 1966",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.203255",
+          "19.54105"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Rancho San Lorenzo",
+        "name": "C.F. Tlalnepantla,Mex",
+        "address": "Mariano Escobedo 128",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.210175",
+          "19.551008"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Valle Dorado",
+        "name": "C.F. Valle Dorado,Mex",
+        "address": "Atenas 106",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.21142",
+          "19.52146"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "La Escuela",
+        "name": "Viveros De La Loma, Tlalnepantla,Edo Mex",
+        "address": "Via Gustavo Baz Prada 299",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.22633",
+          "19.535624"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Bosques De Mexico",
+        "name": "Santa Monica, Tlalnepantla, Edo Mex",
+        "address": "Paseo Del Convento De Santa Monica 106",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.281815",
+          "19.595018"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Francisco Sarabia (Antes Cve Mun Inegi 060)",
+        "name": "La Colmena, Tlalnepantla, Edo Mex",
+        "address": "Carretera Tlalnepantla Progreso Independencia Km 12.5",
+        "openingHours": null,
+        "municipality": "Tlalnepantla",
+        "zipCode": "54475",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.56688",
+          "19.324266"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Sn Pedro Totoltepec",
+        "name": "Aduana Toluca  Edomex",
+        "address": "Boulevard Miguel Aleman (Boulevard Aeropuerto) Sn Edif B",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.60195",
+          "19.341553"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Mateo Otzacatipan",
+        "name": "Central De Abastos, Toluca, Mex",
+        "address": "Vialidad Toluca Naucalpan 901",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "55000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.63584",
+          "19.31185"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Tlacopa",
+        "name": "Las Flores, Toluca Mex",
+        "address": "Boulevard Alfredo Del Mazo Velez Loc 15",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.637184",
+          "19.284279"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Tollocan,Toluca,Mex",
+        "address": "Paseo Tollocan 215",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.640045",
+          "19.292517"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Doctores",
+        "name": "Leandro Valle, Toluca, Mex",
+        "address": "Avenida De La Independencia 1201",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.641335",
+          "19.287624"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Sebastian",
+        "name": "San Sebastian, Toluca, Mex",
+        "address": "Boulevard Isidro Fabela 400",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.64504",
+          "19.263239"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Azteca",
+        "name": "San Fermin, Toluca, Mex",
+        "address": "Profesor Heriberto Enriquez 904 Loc C",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.6529",
+          "19.29343"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Cosmovitral, Toluca, Mex",
+        "address": "Avenida Sebastian Lerdo De Tejada 201",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.65404",
+          "19.287796"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Grand Plaza Toluca,Mex",
+        "address": "Benito Juarez 211 Loc 58",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.65706",
+          "19.290205"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Toluca,Edo Mex",
+        "address": "Avenida Miguel Hidalgo 223",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.65889",
+          "19.277145"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Residencial Colon",
+        "name": "Paseo Colon, Toluca, Mex",
+        "address": "Paseo Colon 215",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.68903",
+          "19.28834"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Mateo Oxtotitlan",
+        "name": "Zinacantepec, Toluca, Mex",
+        "address": "Boulevard Adolfo Lopez Mateos 1520 Loc 2",
+        "openingHours": null,
+        "municipality": "Toluca",
+        "zipCode": "50100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.67058",
+          "18.800922"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Tonatico, Tenancingo, Edo Mex",
+        "address": "Venustiano Carranza S/N Esquina Galeana S/N",
+        "openingHours": null,
+        "municipality": "Tonatico",
+        "zipCode": "51950",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.11648",
+          "19.66106"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Hda Real De Tultepec",
+        "name": "Real De Tultepec, Edo Mex",
+        "address": "Circuito Hda Real Real De Tultepec S/N",
+        "openingHours": null,
+        "municipality": "Tultepec",
+        "zipCode": "54987",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13312",
+          "19.683046"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Paraje Huyotlica",
+        "name": "Tultepec,Mex",
+        "address": "Avenida 16 De Septiembre S/N",
+        "openingHours": null,
+        "municipality": "Tultepec",
+        "zipCode": "54960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.079475",
+          "19.666971"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Pablo De Las Salinas",
+        "name": "San Pablo De Las Salinas,Edomex",
+        "address": "Avenida Prados Del Norte Lt 1 Mz Mi",
+        "openingHours": null,
+        "municipality": "Tultitlan",
+        "zipCode": "54930",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.13762",
+          "19.641565"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Santa Clara",
+        "name": "Central De Abastos Tultitlan",
+        "address": "Avenida La Mexiquense S/N",
+        "openingHours": null,
+        "municipality": "Tultitlan",
+        "zipCode": "54944",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.170166",
+          "19.6469"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Tultitlan",
+        "name": "Tultitlan,Edo De Mex",
+        "address": "Avenida San Antonio 1 Pb",
+        "openingHours": null,
+        "municipality": "Tultitlan",
+        "zipCode": "54900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.171814",
+          "19.619446"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "San Francisco Chilpan",
+        "name": "Tultitlan Lecheria, Edo Mex",
+        "address": "Avenida Jose Lopez Portillo 61",
+        "openingHours": null,
+        "municipality": "Tultitlan",
+        "zipCode": "54940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.175125",
+          "19.618702"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Lazaro Cardenas",
+        "name": "Industrial Tultitlan, Edo Mex",
+        "address": "Via Jose Lopez Portillo S/N",
+        "openingHours": null,
+        "municipality": "Tultitlan",
+        "zipCode": "54944",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.132164",
+          "19.195196"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Centro",
+        "name": "Valle De Bravo,Edo Mex",
+        "address": "16 De Septiembre Pb Esquina Benito Juarez S/N",
+        "openingHours": null,
+        "municipality": "Valle De Bravo",
+        "zipCode": "51200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.098946",
+          "19.794933"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Estado De Mexico",
+        "neighborhood": "Barrio De San Juan Zumpango",
+        "name": "Zumpango,Edo De Mex",
+        "address": "Gante 9",
+        "openingHours": null,
+        "municipality": "Zumpango",
+        "zipCode": "55600",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

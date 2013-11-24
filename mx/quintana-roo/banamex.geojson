@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.75059",
+          "21.137978"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Zona Hotelera",
+        "name": "Terramar, Cancun, Q Roo",
+        "address": "Plaza Terramar Locs 37  Y",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.77927",
+          "21.07298"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Fraccionamiento Del Ote 64 Secc A M53",
+        "name": "Royal Mayan, Cancun, Q Roo",
+        "address": "Boulevard Kukulcan Km 16.5",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.82481",
+          "21.15298"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro",
+        "name": "Tulum, Cancun, Q Roo",
+        "address": "Avenida Tulum Sm20 Loc 1",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.82544",
+          "21.157654"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro",
+        "name": "C.F. Cancun. Q.Roo",
+        "address": "Avenida Tulum 19",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.82577",
+          "21.165579"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Plaza Punta Tulum",
+        "name": "Punta Tulum, Cancun, Q Roo",
+        "address": "Boulevard Luis Donaldo Colosio Mz3 Lt14",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.83359",
+          "21.155472"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Supermanzana 35",
+        "name": "Plaza Hollywood, Cancun, Q Roo",
+        "address": "Prolongacion Kukulcan Sur Lt1 Mz1 Plaza Hollywood 0",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77508",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.83562",
+          "21.146004"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro",
+        "name": "Kabah, Cancun, Q Roo",
+        "address": "Rodrigo Gomez M4 Lt 2 Sm",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.83578",
+          "21.161583"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro",
+        "name": "Caribe, Cancun, Q Roo",
+        "address": "Xel Ha 41",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.84104",
+          "21.16622"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "0",
+        "name": "Uxmal, Cancun, Q Roo",
+        "address": "Avenida Lopez Portillo Lt 17 Mz 2",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.84747",
+          "21.143412"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Nichupte",
+        "name": "La Luna Cancun, Q Roo",
+        "address": "Avenida De La Luna Lt3 Mz27 Pza Del Angel 0",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77506",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.84937",
+          "21.150415"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Supermanzana 39",
+        "name": "Paseo Cancun, Q.Roo",
+        "address": "Avenida Andres Quintana Roo Lt1 Mz10 L",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77507",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.85022",
+          "21.180164"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Benito Juarez",
+        "name": "Heroes Cancun, Q Roo",
+        "address": "Avenida Circuito Vial Lt 1 Mz 22",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77516",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.865",
+          "21.155039"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Region 97",
+        "name": "Chedraui Lopez Portillo, Cancun, Q Roo",
+        "address": "Avenida Lopez Portillo Lt1 Mz53",
+        "openingHours": null,
+        "municipality": "Cancun",
+        "zipCode": "77530",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-88.298416",
+          "18.497114"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro",
+        "name": "Chetumal,Quintana Roo",
+        "address": "Avenida Juarez 51",
+        "openingHours": null,
+        "municipality": "Chetumal",
+        "zipCode": "77000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-88.31969",
+          "18.519238"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Emancipacion De Mexico",
+        "name": "Americas Chetumal, Quintana Roo",
+        "address": "Avenida Insurgentes Km 5-025",
+        "openingHours": null,
+        "municipality": "Chetumal",
+        "zipCode": "77082",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.94423",
+          "20.51579"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro",
+        "name": "Cozumel, Q.Roo",
+        "address": "5A Avenida Sur 8 X 1A. Y",
+        "openingHours": null,
+        "municipality": "Cozumel",
+        "zipCode": "77600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-87.07272",
+          "20.6275"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro",
+        "name": "Riviera Maya,Qroo",
+        "address": "Avenida 10 Esquina Calle 12 S/N",
+        "openingHours": null,
+        "municipality": "Playa Del Carmen",
+        "zipCode": "77710",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-87.07817",
+          "20.623974"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro",
+        "name": "Playa Del Carmen,Q Roo",
+        "address": "Benito Juarez 180-A Por",
+        "openingHours": null,
+        "municipality": "Playa Del Carmen",
+        "zipCode": "77710",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-87.08058",
+          "20.632729"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Quintana Roo",
+        "neighborhood": "Centro Maya",
+        "name": "Centro Maya, Playa Del Carmen, Q Roo",
+        "address": "Calle 41 Sur  L Sa-03 Y41 L1 Mza335",
+        "openingHours": null,
+        "municipality": "Playa Del Carmen",
+        "zipCode": "77710",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

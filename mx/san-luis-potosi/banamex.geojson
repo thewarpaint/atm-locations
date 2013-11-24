@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.28256",
+          "22.432697"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Centro",
+        "name": "Cerritos,Slp",
+        "address": "Plaza Hidalgo 7",
+        "openingHours": null,
+        "municipality": "Cerritos",
+        "zipCode": "79400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.01265",
+          "21.984715"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Centro",
+        "name": "Boulevard Valles,Slp",
+        "address": "Boulevard Mexico-Laredo 46",
+        "openingHours": null,
+        "municipality": "Ciudad Valles",
+        "zipCode": "79000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.01643",
+          "21.985023"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Centro",
+        "name": "Ciudad Valles S L P",
+        "address": "Hidalgo 301 Y Fco.",
+        "openingHours": null,
+        "municipality": "Ciudad Valles",
+        "zipCode": "79000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.62917",
+          "23.675308"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Las Americas",
+        "name": "Arboledas Matehuala, Slp",
+        "address": "Las Americas  Loc 7A, 7B, 8,9,10, 302",
+        "openingHours": null,
+        "municipality": "Matehuala",
+        "zipCode": "78760",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.64121",
+          "23.648176"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Centro",
+        "name": "Matehuala,Slp",
+        "address": "Constitucion 105 Entre",
+        "openingHours": null,
+        "municipality": "Matehuala",
+        "zipCode": "78700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.99175",
+          "21.931873"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Rio Verde",
+        "name": "Rio Verde,Slp",
+        "address": "Hidalgo 2",
+        "openingHours": null,
+        "municipality": "Rioverde",
+        "zipCode": "79600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.93675",
+          "22.137148"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Ricardo Anaya",
+        "name": "Jose De Galvez, Slp",
+        "address": "Carretera San Luis Potosi Mexico S/N",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78390",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.93705",
+          "22.187723"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Centro",
+        "name": "Soledad De Graciano Sanchez, Slp",
+        "address": "Jardin Hidalgo 113",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.95582",
+          "22.15285"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Ferrocarrilera (Antes Cve Mun Inegi 035)",
+        "name": "C.F. Glorieta Juarez,Slp",
+        "address": "Carretera Matehuala Saltillo Local A-1",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.977165",
+          "22.15267"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Centro",
+        "name": "San Luis Potosi,Slp",
+        "address": "Alvaro Obregon 355",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.98009",
+          "22.13514"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Himno Nacional",
+        "name": "Plaza Fiesta, Slp",
+        "address": "Himno Nacional 4005",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78280",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.98787",
+          "22.15051"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Centro",
+        "name": "Carranza, Slp",
+        "address": "Venustiano Carranza 900",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.00047",
+          "22.149227"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Capitan Caldera",
+        "name": "Capitan Caldera,Slp",
+        "address": "Avenida Venustiano Carranza 1655",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.001335",
+          "22.165354"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Lomas Del Barrio Santiago",
+        "name": "Mega Chalita,Slp",
+        "address": "Prolongacion Mu~Oz 400",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78165",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.00359",
+          "22.140993"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Fraccionamiento Tangamanga",
+        "name": "Plaza Tangamanga,Slp",
+        "address": "Avenida Santos Degollado 227",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78269",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.004974",
+          "22.15468"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Del Valle",
+        "name": "El Dorado,Slp",
+        "address": "Garcia Diego 450",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.01178",
+          "22.148363"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Polanco",
+        "name": "C.F. Julio Verne,Slp",
+        "address": "Avenida Venustiano Carranza 2240",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.02468",
+          "22.138163"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Lomas De San Luis Tercera Seccion",
+        "name": "Lomas San Carlos  Slp",
+        "address": "Cordillera De Los Alpes 410",
+        "openingHours": null,
+        "municipality": "San Luis Potosi",
+        "zipCode": "78216",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.792816",
+          "21.261559"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Centro",
+        "name": "Tamazunchale, Slp",
+        "address": "Hidalgo No. 108 Num: 108",
+        "openingHours": null,
+        "municipality": "Tamazunchale",
+        "zipCode": "79960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.774895",
+          "22.002918"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "San Luis Potosi",
+        "neighborhood": "Romero Tamuin",
+        "name": "Tamuin S L P",
+        "address": "Pedro A. De Los Santos Esquina Braulio S/N",
+        "openingHours": null,
+        "municipality": "Tamuin",
+        "zipCode": "78000",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

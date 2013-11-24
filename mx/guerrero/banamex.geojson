@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.055145",
+          "16.971367"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Ayutla, Acapulco, Gro",
+        "address": "Plan De Ayutla 15",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.80831",
+          "16.795229"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Granjas Del Marquez",
+        "name": "Acapulco Diamante, Gro",
+        "address": "Boulevard De Las Naciones 52 L40",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39890",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.811676",
+          "16.8479"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Ampliacion Cayaco Puerto Marques",
+        "name": "Ba Coloso Ii,Gro",
+        "address": "Carretera Cayaco Pto Marquez 0",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39907",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.81373",
+          "16.798183"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Granjas Del Marquez",
+        "name": "Puerto Marquez, Gro",
+        "address": "Boulevard De Las Naciones 34-A",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39907",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.85697",
+          "16.853683"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Costa Azul, Acapulco, Gro",
+        "address": "Avenida Costera Miguel Aleman 0",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39690",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.880585",
+          "16.86145"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Fraccionamiento Magallanes",
+        "name": "Costera, Acapulco, Gro",
+        "address": "Avenida Costera Miguel Aleman 2085",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39670",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.893036",
+          "16.85701"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Fraccionamiento Hornos Insurgentes",
+        "name": "Hornos Acapulco,Gro",
+        "address": "Costera Miguel Aleman 0",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39350",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.89835",
+          "16.874113"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Vista Alegre",
+        "name": "Cm Acapulco Vista Alegre,Gro.",
+        "address": "Adolfo Ruiz Cortinez 13",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39930",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.90093",
+          "16.856705"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Progreso Acapulco,Gro",
+        "address": "Cuauhtemoc 739",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.90338",
+          "16.863361"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Ejido, Acapulco, Gro",
+        "address": "Constituyentes 0",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.90421",
+          "16.849464"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Petaquillas",
+        "name": "Acapulco,Gro",
+        "address": "Costera Miguel Aleman 364",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.904434",
+          "16.857231"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Jardin Mangos, Acapulco, Gro",
+        "address": "Carretera Federal Acapulco Zih Km 8 Lt 2",
+        "openingHours": null,
+        "municipality": "Acapulco",
+        "zipCode": "39430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.28479",
+          "18.313318"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Arcelia,Gro",
+        "address": "Antonio Sanchez Molina 4",
+        "openingHours": null,
+        "municipality": "Arcelia",
+        "zipCode": "40500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.434395",
+          "17.212502"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Atoyac De Alvarez",
+        "name": "Atoyac De Alvarez,Gro",
+        "address": "General Juan Alvarez 8 Nte",
+        "openingHours": null,
+        "municipality": "Atoyac",
+        "zipCode": "40930",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17639",
+          "17.592348"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Chilapa,Gro",
+        "address": "Avenida Revolucion 207",
+        "openingHours": null,
+        "municipality": "Chilapa",
+        "zipCode": "41100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.50235",
+          "17.552826"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Lomas Del Porvenir",
+        "name": "Chilpancingo,Gro",
+        "address": "Emiliano Zapata 2",
+        "openingHours": null,
+        "municipality": "Chilpancingo",
+        "zipCode": "39034",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.502426",
+          "17.541534"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "35Va Zona Militar",
+        "name": "Cm Chilpancingo,Gro",
+        "address": "Prolongacion Baltazar R Leyva Mancilla 3",
+        "openingHours": null,
+        "municipality": "Chilpancingo",
+        "zipCode": "39079",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.50739",
+          "17.56228"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Electricistas",
+        "name": "Caminos,Gro",
+        "address": "Avenida Insurgentes 10",
+        "openingHours": null,
+        "municipality": "Chilpancingo",
+        "zipCode": "39010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.51095",
+          "17.564737"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Burocrata",
+        "name": "Cd Administrativa,Chilpancingo, Gro",
+        "address": "Boulevard Vicente Guerrero Km 273",
+        "openingHours": null,
+        "municipality": "Chilpancingo",
+        "zipCode": "39090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.08748",
+          "17.007189"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Coyuca De Benitez,Gro",
+        "address": "Avenida Palmeras 33",
+        "openingHours": null,
+        "municipality": "Coyuca De Benitez",
+        "zipCode": "40980",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.333336",
+          "18.306002"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Huitzuco,Gro",
+        "address": "Plaza Del Comercio 1-Bis",
+        "openingHours": null,
+        "municipality": "Huitzuco",
+        "zipCode": "40130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.539566",
+          "18.343662"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Iguala,Gro",
+        "address": "Calle Juarez Esquina Constitucion S/N",
+        "openingHours": null,
+        "municipality": "Iguala",
+        "zipCode": "40000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.539955",
+          "18.33865"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Orfebres, Iguala, Gro",
+        "address": "6A. Calle De Galeana 64",
+        "openingHours": null,
+        "municipality": "Iguala",
+        "zipCode": "40000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.40335",
+          "16.68407"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Ometepec,Gro",
+        "address": "Plaza Zaragoza 1",
+        "openingHours": null,
+        "municipality": "Ometepec",
+        "zipCode": "41700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.27396",
+          "17.537169"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Petatlan, Gro",
+        "address": "Avenida Independencia Esquina Calle Revolucio 0",
+        "openingHours": null,
+        "municipality": "Petatlan",
+        "zipCode": "40830",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.6622",
+          "18.35862"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Ciudad Altamirano,Gro",
+        "address": "Alvaro Obregon 11 P.B.",
+        "openingHours": null,
+        "municipality": "Pungarabato",
+        "zipCode": "40660",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.389435",
+          "16.796795"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "San Marcos, Gro.",
+        "address": "Zaragoza 3",
+        "openingHours": null,
+        "municipality": "San Marcos",
+        "zipCode": "39960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.603355",
+          "18.557947"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Taxco,Gro",
+        "address": "Benito Juarez 19 Pza Del",
+        "openingHours": null,
+        "municipality": "Taxco",
+        "zipCode": "40200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.62971",
+          "17.220816"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Tecpan",
+        "address": "Avenida Independencia 42",
+        "openingHours": null,
+        "municipality": "Tecpan De Galeana",
+        "zipCode": "40911",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.87186",
+          "18.36679"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Teloloapan,Gro",
+        "address": "Plaza Eutimio Pinzon 10",
+        "openingHours": null,
+        "municipality": "Teloloapan",
+        "zipCode": "40400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.83556",
+          "16.890585"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Renacimiento",
+        "name": "La Sabana, Gro.",
+        "address": "Boulevard Lopez Portillo 0",
+        "openingHours": null,
+        "municipality": "Tlacoapa",
+        "zipCode": "39715",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.58232",
+          "17.546703"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Tlapa De Comonfort,Gro",
+        "address": "Galvez 28",
+        "openingHours": null,
+        "municipality": "Tlapa",
+        "zipCode": "41300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.55711",
+          "17.64133"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Ixtapa, Ixtapa Zih, Gro",
+        "address": "Centro Comercial Los Arcos 16/16A Mza",
+        "openingHours": null,
+        "municipality": "Zihuatanejo",
+        "zipCode": "40880",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.55765",
+          "17.642927"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Guerrero",
+        "neighborhood": "Centro",
+        "name": "Zihuatanejo,Gro.",
+        "address": "Cuauhtemoc 4",
+        "openingHours": null,
+        "municipality": "Zihuatanejo",
+        "zipCode": "40880",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

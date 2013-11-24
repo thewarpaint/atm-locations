@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.27335",
+          "21.889683"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Santa Anita",
+        "name": "Santa Anita",
+        "address": "Canal Interceptor s/n",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.290855",
+          "21.924795"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Angel Talamantes Ponce",
+        "name": "Altaria",
+        "address": "Boulevard A Zacatecas 849",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.292305",
+          "21.858326"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Jardines de las Fuentes",
+        "name": "Jardines de la Asuncion",
+        "address": "Boulevard Aguascalientes Sur 404",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.29563",
+          "21.865883"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Jardines De La Asuncion",
+        "name": "C.F. Circunvalacion Sur",
+        "address": "Avenida Circunvalacion Sur 107",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.296616",
+          "21.880932"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Aguascalientes",
+        "address": "5 De Mayo s/n",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.29789",
+          "21.933645"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Trojes De Alonso",
+        "name": "Galerías",
+        "address": "Avenida Independencia 2351",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20116",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.29865",
+          "21.915792"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Residencial Pulgas Pandas",
+        "name": "Pulgas Pandas",
+        "address": "Boulevard Aguascalientes Norte s/n",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.30367",
+          "21.864454"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Fraccionamiento Las Americas",
+        "name": "Corporativo",
+        "address": "Avenida De Las Americas 1603",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.311516",
+          "21.895138"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Las Arboledas",
+        "name": "Plaza San Marcos",
+        "address": "Avenida Circunvalacion Norte s/n",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.71872",
+          "21.846209"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Zona Centro",
+        "name": "Calvillo",
+        "address": "Allende 303",
+        "openingHours": null,
+        "municipality": "Calvillo",
+        "zipCode": "20600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.34345",
+          "21.961878"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Jesus María",
+        "address": "Ignacio Allende 101",
+        "openingHours": null,
+        "municipality": "Jesus María",
+        "zipCode": "20900",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

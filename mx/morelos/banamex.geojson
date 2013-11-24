@@ -1,0 +1,635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2367",
+          "18.927473"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro (Antes Cve Mun Inegi 007)",
+        "name": "Axochiapan Morelos",
+        "address": "No Reeleccion 1 - C",
+        "openingHours": null,
+        "municipality": "Axochiapan",
+        "zipCode": "62950",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.9385",
+          "18.850952"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Empleado Postal",
+        "name": "Plaza Los Arcos, Cuautla, Morelos",
+        "address": "Avenida Reforma (Carr Amecameca Cuautla) 4",
+        "openingHours": null,
+        "municipality": "Cuautla",
+        "zipCode": "62748",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.94657",
+          "18.832867"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Manantiales",
+        "name": "Manantiales, Cuautla, Mor",
+        "address": "Avenida Insurgentes 678 Pb",
+        "openingHours": null,
+        "municipality": "Cuautla",
+        "zipCode": "62746",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.95062",
+          "18.813248"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Alameda",
+        "name": "Ni~O Artillero, Cuautla, Mor",
+        "address": "Jose Perdiz 21",
+        "openingHours": null,
+        "municipality": "Cuautla",
+        "zipCode": "62740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.95402",
+          "18.814857"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Irrigacion",
+        "name": "Cuautla,Mor",
+        "address": "Hermenegildo Galeana 33",
+        "openingHours": null,
+        "municipality": "Cuautla",
+        "zipCode": "62744",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.16982",
+          "18.910315"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Civac (Antes Cve Mun Inegi 011)",
+        "name": "Civac Cuernavaca,Mor",
+        "address": "Avenida Centenario 39528",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1877",
+          "18.918013"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Revolucion",
+        "name": "Cuauhnahuac, Cuernavaca, Mor",
+        "address": "Paseo Cuahnahuac Km 2.5",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62390",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.202354",
+          "18.923388"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Ricardo Flores Magon",
+        "name": "Galerias Liverpool, Cuernavaca, Mor",
+        "address": "Autopista Mexico Acapulco Km 87.5",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62370",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.20845",
+          "18.922873"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Chapultepec",
+        "name": "La Luna, Cuernavaca, Mor",
+        "address": "Avenida Plan De Ayala 2000-A",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.21285",
+          "18.923895"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Vicente Guerrero",
+        "name": "Plan De Ayala, Cuernavaca, Mor",
+        "address": "Avenida Plan De Ayala 801",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.21617",
+          "18.941053"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Vista Hermosa",
+        "name": "Vista Hermosa, Cuernavaca, Mor",
+        "address": "San Diego Temozteco 326",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62290",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.2195",
+          "18.91746"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Acapantzingo",
+        "name": "Acapantzingo, Cuernavaca, Mor",
+        "address": "Avenida Gustavo Diaz Ordaz 156-A",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62420",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.22984",
+          "18.9341"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Lomas De La Selva",
+        "name": "Casa Blanca, Cuernavaca, Mor",
+        "address": "Boulevard Vicente Guerrero 110",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23096",
+          "18.907461"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Las Palmas Sur",
+        "name": "Las Palmas, Cuernavaca, Mor",
+        "address": "Boulevard Benito Juarez S/N",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23294",
+          "18.931559"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Guadalupita",
+        "name": "Casino De La Selva,Cuernavaca, Mor",
+        "address": "Carlos Cuaglia S/N",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62280",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23583",
+          "18.923222"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "C.F. Cuernavaca,Mor",
+        "address": "Arteaga Sin Numero",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23695",
+          "18.917158"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Cm Cuernavaca Cto,Mor.",
+        "address": "Avenida Jose Maria Morelos 235",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.23804",
+          "18.958975"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Chamilpa",
+        "name": "Plaza Corp Chamilpa, Cuernavaca, Mor",
+        "address": "Avenida Domingo Diez 1589",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62210",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.246124",
+          "18.958576"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Buenavista",
+        "name": "Buenavista, Cuernavaca, Mor",
+        "address": "Avenida Emiliano Zapata 823-1",
+        "openingHours": null,
+        "municipality": "Cuernavaca",
+        "zipCode": "62130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.18171",
+          "18.844383"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Emiliano Zapata",
+        "name": "Emiliano Zapata, Mor",
+        "address": "No Reeleccion S/N",
+        "openingHours": null,
+        "municipality": "Emiliano Zapata",
+        "zipCode": "62760",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1763",
+          "18.881586"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Jiutepec,Mor",
+        "address": "20 De Noviembre 25",
+        "openingHours": null,
+        "municipality": "Jiutepec",
+        "zipCode": "62550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.169785",
+          "18.615908"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Jojutla,Mor",
+        "address": "M Altamirano Esquina Rafael Zayas E S/N",
+        "openingHours": null,
+        "municipality": "Jojutla",
+        "zipCode": "62900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.17689",
+          "18.618116"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Antigua Estacion, Jojutla, Mor",
+        "address": "15 De Marzo 407",
+        "openingHours": null,
+        "municipality": "Jojutla",
+        "zipCode": "62900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.32259",
+          "18.61935"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Puente De Ixtla, Mor",
+        "address": "Hidalgo  No  201 Num 201",
+        "openingHours": null,
+        "municipality": "Puente De Ixtla",
+        "zipCode": "62660",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.22474",
+          "18.863523"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Temixco,Mor",
+        "address": "Carretera Federal Mexico Acapulco S/N Y Pza.",
+        "openingHours": null,
+        "municipality": "Temixco",
+        "zipCode": "62580",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.099724",
+          "18.985275"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Tepoztlan, Mor",
+        "address": "Aniceto Villamar 2 Barrio Sto Dmgo 2",
+        "openingHours": null,
+        "municipality": "Tepoztlan",
+        "zipCode": "62520",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.399414",
+          "18.72997"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Tetecala, Mor",
+        "address": "Bravo S/N S/N",
+        "openingHours": null,
+        "municipality": "Tetecala",
+        "zipCode": "62620",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.97218",
+          "18.909101"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Plaza La Aurora",
+        "name": "Oaxtepec,Mor",
+        "address": "Estacion Vieja S/N Locale",
+        "openingHours": null,
+        "municipality": "Yautepec",
+        "zipCode": "62738",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.063034",
+          "18.88792"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Fraccionamiento Viyautepec",
+        "name": "Yautepec,Mor",
+        "address": "Virginia Fabregas 11",
+        "openingHours": null,
+        "municipality": "Yautepec",
+        "zipCode": "62730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.19111",
+          "18.65639"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Morelos",
+        "neighborhood": "Centro",
+        "name": "Zacatepec,Mor",
+        "address": "Escuadron 201 49Y51",
+        "openingHours": null,
+        "municipality": "Zacatepec",
+        "zipCode": "62780",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.893105",
+          "16.230577"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Arriaga",
+        "address": "2a Avenida Oriente 3",
+        "openingHours": null,
+        "municipality": "Arriaga",
+        "zipCode": "30450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.01718",
+          "16.70763"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Chiapa de Corzo",
+        "address": "5 de Febrero (Plaza Ángel Albino Corzo) 103",
+        "openingHours": null,
+        "municipality": "Chiapa de Corzo",
+        "zipCode": "29160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.27874",
+          "17.099752"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Chilón",
+        "name": "Chilón",
+        "address": "Vicente Guerrero",
+        "openingHours": null,
+        "municipality": "Chilón",
+        "zipCode": "29940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.721",
+          "16.69775"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Cintalapa",
+        "address": "Central y 1a Norte 13",
+        "openingHours": null,
+        "municipality": "Cintalapa",
+        "zipCode": "30400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.135124",
+          "16.250746"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Comitán",
+        "address": "Central Rosario Castellanos 10",
+        "openingHours": null,
+        "municipality": "Comitán",
+        "zipCode": "30000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.13785",
+          "16.242249"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Esquina 7a Avenida Poniente Sur",
+        "name": "Balun Canan",
+        "address": "Carretera Internacional Km 1250",
+        "openingHours": null,
+        "municipality": "Comitán",
+        "zipCode": "30000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.13601",
+          "15.658641"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Frontera Comalapa",
+        "address": "Avenida Central s/n esquina Calle Central s/n",
+        "openingHours": null,
+        "municipality": "Frontera Comalapa",
+        "zipCode": "30140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.46487",
+          "15.138781"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Huixtla",
+        "address": "Central Norte 39459",
+        "openingHours": null,
+        "municipality": "Huixtla",
+        "zipCode": "30640",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-91.962906",
+          "16.316042"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Las Margaritas",
+        "address": "Avenida Central Benito Juárez Sur 5",
+        "openingHours": null,
+        "municipality": "Las Margaritas",
+        "zipCode": "30000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.36954",
+          "16.36406"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Villa Las Rosas",
+        "address": "Central 8",
+        "openingHours": null,
+        "municipality": "Las Rosas",
+        "zipCode": "30785",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.24803",
+          "15.364176"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Motozintla",
+        "address": "Central Poniente esquina Central Nt 100",
+        "openingHours": null,
+        "municipality": "Motozintla",
+        "zipCode": "30900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.09641",
+          "16.907537"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Ocosingo",
+        "address": "Avenida Central Juárez 3",
+        "openingHours": null,
+        "municipality": "Ocosingo",
+        "zipCode": "29950",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.375145",
+          "16.76093"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Ocozocuautla",
+        "address": "1a Avenida Sur 4",
+        "openingHours": null,
+        "municipality": "Ocozocoautla",
+        "zipCode": "29140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-91.984184",
+          "17.508556"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Palenque",
+        "address": "Avenida Juárez 62",
+        "openingHours": null,
+        "municipality": "Palenque",
+        "zipCode": "29960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.11833",
+          "17.508612"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Pichucalco",
+        "address": "Constitución 4",
+        "openingHours": null,
+        "municipality": "Pichucalco",
+        "zipCode": "29520",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.20856",
+          "15.687113"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Pijijiapan",
+        "address": "2a Avenida Norte s/n esquina 1a Calle Poniente s/n",
+        "openingHours": null,
+        "municipality": "Pijijiapan",
+        "zipCode": "30540",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.63734",
+          "16.736877"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "San Cristóbal de Las Casas",
+        "address": "Plaza 31 de Marzo y Real de Guadalupe s/n",
+        "openingHours": null,
+        "municipality": "San Cristóbal de Las Casas",
+        "zipCode": "29200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.638336",
+          "16.736668"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Barrio de Fátima",
+        "name": "Plaza San Diego",
+        "address": "Boulevard Juan Sabines 9",
+        "openingHours": null,
+        "municipality": "San Cristóbal de Las Casas",
+        "zipCode": "29264",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.259445",
+          "14.914945"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Lomas de Tacaná",
+        "name": "Tacaná",
+        "address": "Avenida 17a Poniente 5",
+        "openingHours": null,
+        "municipality": "Tapachula",
+        "zipCode": "30749",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.263115",
+          "14.908181"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "San Juan de Los Lagos",
+        "name": "Tapachula",
+        "address": "Avenida Central Sur 31 PB",
+        "openingHours": null,
+        "municipality": "Tapachula",
+        "zipCode": "30750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.26424",
+          "14.912492"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Cuauhtémoc",
+        "name": "San Agustín",
+        "address": "Avenida 8a Norte 46",
+        "openingHours": null,
+        "municipality": "Tapachula",
+        "zipCode": "30760",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.270836",
+          "14.898149"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "San Sebastián",
+        "name": "Puerto Madero",
+        "address": "Avenida 4a Sur 167 Loch I",
+        "openingHours": null,
+        "municipality": "Tapachula",
+        "zipCode": "30790",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.75276",
+          "16.090378"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Tonalá",
+        "address": "Avenida Hidalgo 137",
+        "openingHours": null,
+        "municipality": "Tonalá",
+        "zipCode": "30500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.082634",
+          "16.748"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "El Retiro",
+        "name": "Plaza Poliforum",
+        "address": "Calzada Andrés Serra Rojas 410-3",
+        "openingHours": null,
+        "municipality": "Tuxtla Gutiérrez",
+        "zipCode": "29040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.08474",
+          "16.747702"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "El Retiro",
+        "name": "Ángel Albino Corzo",
+        "address": "Calzada Ángel Albino Corzo 2862-A",
+        "openingHours": null,
+        "municipality": "Tuxtla Gutiérrez",
+        "zipCode": "29000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.112755",
+          "16.745523"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "San Roque",
+        "address": "9a Avenida Sur Oriente 870",
+        "openingHours": null,
+        "municipality": "Tuxtla Gutiérrez",
+        "zipCode": "29000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.116356",
+          "16.752718"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "C.F. Tuxtla Gutiérrez",
+        "address": "2a Avenida Sur Oriente 141",
+        "openingHours": null,
+        "municipality": "Tuxtla Gutiérrez",
+        "zipCode": "29000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.12504",
+          "16.748499"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "9a Sur Poniente",
+        "address": "9a Avenida Sur Poniente 849-4",
+        "openingHours": null,
+        "municipality": "Tuxtla Gutiérrez",
+        "zipCode": "29066",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.129944",
+          "16.754444"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Moctezuma",
+        "name": "Bonampak",
+        "address": "Boulevard Belisario Domínguez 3178",
+        "openingHours": null,
+        "municipality": "Tuxtla Gutiérrez",
+        "zipCode": "29030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.130325",
+          "16.76042"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Covadonga",
+        "name": "Plaza Tuxtla Sol",
+        "address": "5a Avenida Norte Poniente 623",
+        "openingHours": null,
+        "municipality": "Tuxtla Gutiérrez",
+        "zipCode": "29030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.14089",
+          "16.76246"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Electricistas",
+        "name": "Electricista",
+        "address": "5a Avenida Norte Poniente 2658",
+        "openingHours": null,
+        "municipality": "Tuxtla Gutiérrez",
+        "zipCode": "29000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.563896",
+          "16.339294"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Venustiano Carranza",
+        "address": "Avenida Central 11",
+        "openingHours": null,
+        "municipality": "Venustiano Carranza",
+        "zipCode": "30200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-93.26761",
+          "16.234032"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Villaflores",
+        "address": "Central 25",
+        "openingHours": null,
+        "municipality": "Villaflores",
+        "zipCode": "30470",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-92.330284",
+          "17.170584"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Chiapas",
+        "neighborhood": "Centro",
+        "name": "Yajalon",
+        "address": "1a Avenida Sur esquina 1a Calle Poniente s/n",
+        "openingHours": null,
+        "municipality": "Yajalon",
+        "zipCode": "29930",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

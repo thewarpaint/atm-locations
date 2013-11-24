@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.360176",
+          "22.491137"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "Acaponeta,Nay",
+        "address": "Avenida Mexico 4 Norte",
+        "openingHours": null,
+        "municipality": "Acaponeta",
+        "zipCode": "63400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.48335",
+          "21.050102"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "Ahuacatlan,Nay.",
+        "address": "Hidalgo 46 P.B.",
+        "openingHours": null,
+        "municipality": "Ahuacatlan",
+        "zipCode": "63900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.27586",
+          "20.696669"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Nuevo Vallarta",
+        "name": "Nuevo Vallarta,Nay.",
+        "address": "Paradise Plaza Local C-1",
+        "openingHours": null,
+        "municipality": "Bahia De Banderas",
+        "zipCode": "63735",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.90018",
+          "21.233467"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "Compostela,Nay.",
+        "address": "Hidalgo 8 Sur",
+        "openingHours": null,
+        "municipality": "Compostela",
+        "zipCode": "63700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.36766",
+          "21.035234"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "Ixtlan Del Rio,Nay.",
+        "address": "Portugal Juarez 50",
+        "openingHours": null,
+        "municipality": "Ixtlan Del Rio",
+        "zipCode": "63700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.28522",
+          "21.540932"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "San Blas,Nay.",
+        "address": "Juarez 26 Oriente",
+        "openingHours": null,
+        "municipality": "San Blas",
+        "zipCode": "63740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.20613",
+          "21.808147"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "Santiago Ixcuintla,Nay",
+        "address": "20 De Noviembre 89-Bis",
+        "openingHours": null,
+        "municipality": "Santiago Ixcuintla",
+        "zipCode": "63300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.88089",
+          "21.492178"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Fraccionamiento Ciudad Del Valle",
+        "name": "Aurrera Tepic,Nay",
+        "address": "Avenida Los Insurgentes Oriente 1254",
+        "openingHours": null,
+        "municipality": "Tepic",
+        "zipCode": "63157",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.88575",
+          "21.497766"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Jose Ma Menchaca",
+        "name": "Central Tepic,Nay.",
+        "address": "Avenida Insurgentes Oriente 534",
+        "openingHours": null,
+        "municipality": "Tepic",
+        "zipCode": "80090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.89006",
+          "21.515518"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "Victoria, Tepic, Nay.",
+        "address": "Avenida Mexico 399 Nte",
+        "openingHours": null,
+        "municipality": "Tepic",
+        "zipCode": "63000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.89266",
+          "21.509888"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "Tepic,Nay",
+        "address": "Avenida Mexico Norte 84",
+        "openingHours": null,
+        "municipality": "Tepic",
+        "zipCode": "63000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.89748",
+          "21.497301"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Fraccionamiento Jardines De La Cruz",
+        "name": "La Cruz, Tepic, Nay.",
+        "address": "Esteban Baca Calderon 5",
+        "openingHours": null,
+        "municipality": "Tepic",
+        "zipCode": "63168",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.909874",
+          "21.513985"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "San  Juan",
+        "name": "C.F. Nayar, Tepic, Nay.",
+        "address": "Avenida Los Insurgentes Poniente 651",
+        "openingHours": null,
+        "municipality": "Tepic",
+        "zipCode": "63130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.30148",
+          "21.945276"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Nayarit",
+        "neighborhood": "Centro",
+        "name": "Tuxpan,Nay.",
+        "address": "Hidalgo 119 Ote",
+        "openingHours": null,
+        "municipality": "Tuxpan",
+        "zipCode": "63200",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

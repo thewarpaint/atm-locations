@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.14696",
+          "20.18989"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Centro",
+        "name": "Amealco,Qro",
+        "address": "Plaza De La Constitucion 11",
+        "openingHours": null,
+        "municipality": "Amealco",
+        "zipCode": "76850",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.42392",
+          "20.550476"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Los Olvera",
+        "name": "Paseo Constituyentes, Villa Corregi, Qro",
+        "address": "Carretera Libre A Celaya (Av Constituyentes) Km 3.8",
+        "openingHours": null,
+        "municipality": "Corregidora",
+        "zipCode": "76902",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.44046",
+          "20.53999"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Villa Corregidora,Qr",
+        "name": "Villa Corregidora,Qro",
+        "address": "Josefa O De Domnguez 1",
+        "openingHours": null,
+        "municipality": "Corregidora",
+        "zipCode": "76900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.89268",
+          "20.673494"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Centro",
+        "name": "Ezequiel Montes, Qro",
+        "address": "Avenida Constituyentes Num: 114",
+        "openingHours": null,
+        "municipality": "Ezequiel Montes",
+        "zipCode": "76650",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.34995",
+          "20.587568"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Parque Industrial Bernardo Quintana",
+        "name": "Bernardo Quintana,Qro",
+        "address": "Autopista Mexico Queretaro Local 17",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76246",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.37031",
+          "20.588322"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Las Carretas",
+        "name": "Constituyentes,Qro",
+        "address": "Avenida Constituyentes S/N",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.38022",
+          "20.610151"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Alamos 2Da Seccion",
+        "name": "Alamos,Qro",
+        "address": "Chopo 2",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.38234",
+          "20.57523"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Balaustradas",
+        "name": "Glorieta Los Toritos, Qro",
+        "address": "Circ Moises Solana 117",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76079",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.39",
+          "20.61501"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Arboledas",
+        "name": "Plaza Del Parque,Qro",
+        "address": "Avenida Epigmenio Gonzalez Esq",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.39059",
+          "20.58615"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Centro",
+        "name": "Mercado Escobedo,Qro",
+        "address": "Avenida Constituyentes Poniente 14",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.392204",
+          "20.593824"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Centro",
+        "name": "Queretaro Qro",
+        "address": "Avenida 16 De Septiembre Esq",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.40002",
+          "20.586313"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Centro",
+        "name": "Queretaro Zaragoza,Qro",
+        "address": "Calzada Ignacio Zaragoza 150",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.400345",
+          "20.58333"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "El Carrizal",
+        "name": "Tec-100,Qro",
+        "address": "Avenida Tecnologico 100",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.40113",
+          "20.596113"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Centro",
+        "name": "Universidad Qro",
+        "address": "Avenida Universidad Poniente 131",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.406815",
+          "20.626787"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "San Pablo",
+        "name": "Suc Pie De La Cuesta, Qro",
+        "address": "Avenida Pie De La Cuesta 301 Loc 28",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.41499",
+          "20.563278"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Mansiones Del Valle",
+        "name": "Jardines De La Hacienda, Qro",
+        "address": "Avenida Constituyentes Poniente 48",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76185",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.41752",
+          "20.60405"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Felipe Carrillo Puerto",
+        "name": "5 De Febrero,Qro",
+        "address": "Avenida 5 De Febrero 239",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76138",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.43477",
+          "20.648417"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Fraccionamiento Jurica",
+        "name": "Jurica,Qro.",
+        "address": "Avenida 5 De Febrero 9200 Loc 1",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.43594",
+          "20.616621"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Industrial",
+        "name": "Carrillo Puerto,Qro.",
+        "address": "Avenida Carrillo Puerto 1",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.45143",
+          "20.637075"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Unidad Hab Satelite",
+        "name": "Satelite, Qro",
+        "address": "Boulevard La Luz 358 A 5 Y",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-100.453575",
+          "20.599712"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Fraccionamiento Las Teresas",
+        "name": "Aduana Queretaro,Qro",
+        "address": "Avenida Ferrocarril S/N Km 348",
+        "openingHours": null,
+        "municipality": "Queretaro",
+        "zipCode": "76138",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.986786",
+          "20.37823"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "San Juan Del Rio",
+        "name": "San Juan Del Rio,Qro",
+        "address": "Avenida Juarez 19 Pte",
+        "openingHours": null,
+        "municipality": "San Juan Del Rio",
+        "zipCode": "76800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.99578",
+          "20.386997"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "San Juan Bosco",
+        "name": "Francisco Villa,Qro",
+        "address": "Francisco Villa 48 Libram",
+        "openingHours": null,
+        "municipality": "San Juan Del Rio",
+        "zipCode": "76800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.8929",
+          "20.520885"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Queretaro",
+        "neighborhood": "Centro",
+        "name": "Tequisquiapan,Qro",
+        "address": "Ni~Os Heroes 40",
+        "openingHours": null,
+        "municipality": "Tequisquiapan",
+        "zipCode": "76750",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

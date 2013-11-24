@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-111.67396",
+          "25.035273"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Centro",
+        "name": "Ciudad Constitución",
+        "address": "Agustín Alechea y Francisco Javier Mina s/n",
+        "openingHours": null,
+        "municipality": "Comondu",
+        "zipCode": "23600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.69889",
+          "23.679722"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Los Barriles",
+        "name": "Los Barriles",
+        "address": "Acceso Principal Los Barriles Loc. 10 y 14",
+        "openingHours": null,
+        "municipality": "La Paz",
+        "zipCode": "23456",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.30657",
+          "24.150415"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Zona Centro",
+        "name": "Palacio",
+        "address": "Isabel La Católica s/n",
+        "openingHours": null,
+        "municipality": "La Paz",
+        "zipCode": "23000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.31175",
+          "24.13677"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Las Garzas",
+        "name": "Forjadores",
+        "address": "Calzada Forjadores de Sudcalifornia 3115",
+        "openingHours": null,
+        "municipality": "La Paz",
+        "zipCode": "23079",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.31357",
+          "24.12443"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Cerrada de La Paz",
+        "name": "Balandra",
+        "address": "Boulevard Luis Donaldo Colosio s/n",
+        "openingHours": null,
+        "municipality": "La Paz",
+        "zipCode": "23109",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.317215",
+          "24.161695"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Zona Comercial",
+        "name": "La Paz",
+        "address": "Esquerro 110",
+        "openingHours": null,
+        "municipality": "La Paz",
+        "zipCode": "23006",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-111.34192",
+          "26.010845"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Centro",
+        "name": "Loreto",
+        "address": "Avenida Salvatierra s/n",
+        "openingHours": null,
+        "municipality": "Loreto",
+        "zipCode": "23880",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.69434",
+          "23.061405"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Centro",
+        "name": "San José del Cabo",
+        "address": "Boulevard Mijares Lte 3-A",
+        "openingHours": null,
+        "municipality": "Los Cabos",
+        "zipCode": "23400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.70436",
+          "23.047112"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "El Rosarito",
+        "name": "Plaza Rosarito",
+        "address": "Carretera Transpeninsular Km 34",
+        "openingHours": null,
+        "municipality": "Los Cabos",
+        "zipCode": "23400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.70531",
+          "23.076126"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Fraccionamiento Campo de Golf",
+        "name": "El Cardón",
+        "address": "Paseo Fenisterra 102 L. 15",
+        "openingHours": null,
+        "municipality": "Los Cabos",
+        "zipCode": "23400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.71038",
+          "23.100075"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Brisas del Pacífico",
+        "name": "Finisterra",
+        "address": "Centro Comercial Soriana CSL Local #37",
+        "openingHours": null,
+        "municipality": "Los Cabos",
+        "zipCode": "23473",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.91369",
+          "22.882572"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Cabo San Lucas",
+        "name": "Cabo San Lucas",
+        "address": "Miguel Hidalgo y Lázaro Cárdenas s/n",
+        "openingHours": null,
+        "municipality": "Los Cabos",
+        "zipCode": "23450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-112.26937",
+          "27.335445"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Centro",
+        "name": "Santa Rosalia",
+        "address": "Obregón y Calle 5 s/n",
+        "openingHours": null,
+        "municipality": "Mulege",
+        "zipCode": "23920",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-114.0551",
+          "27.95905"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California Sur",
+        "neighborhood": "Centro",
+        "name": "Guerrero Negro",
+        "address": "Avenida Baja California s/n",
+        "openingHours": null,
+        "municipality": "Mulege",
+        "zipCode": "23940",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

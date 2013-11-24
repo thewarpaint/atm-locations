@@ -1,0 +1,1097 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.32405",
+          "26.711512"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Choix Sin",
+        "address": "Alvaro Obregon 1",
+        "openingHours": null,
+        "municipality": "Choix",
+        "zipCode": "81700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.067604",
+          "23.288347"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Concordia Sin",
+        "address": "Javier Mina 2",
+        "openingHours": null,
+        "municipality": "Concordia",
+        "zipCode": "82600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.219473",
+          "24.420818"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Quila, Quila, Sin",
+        "address": "Javier Mina Esquina Desiderio Ochoa S/N",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.364395",
+          "24.771122"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Mercado De Abastos",
+        "name": "Ley  Abastos,Culiacan, Sin",
+        "address": "Calzada Heroico Colegio Militar 3655",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80299",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.365486",
+          "24.772844"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Mercado Abastos",
+        "name": "Abastos Culiacan, Sin",
+        "address": "Carretera Internacional 3351",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80299",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.367485",
+          "24.815813"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Fraccionamiento La Campi\u00a5A",
+        "name": "La Campi~A, Culiacan, Sin",
+        "address": "Prolongacion Doctor Mora 1725",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.36826",
+          "24.779833"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "21 De Marzo",
+        "name": "Colegio Militar, Culiacan, Sin",
+        "address": "Calzada Heroico Colegio Militar 4387",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80280",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.36986",
+          "24.802546"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Miguel Hidalgo",
+        "name": "Sanalona, Culiacan, Sin",
+        "address": "Boulevard Francisco I Madero 1971 Ote",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.38387",
+          "24.80829"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Las Vegas",
+        "name": "Carranza, Culiacan, Sin",
+        "address": "Avenida Venustiano Carranza 344",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80090",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.38811",
+          "24.821253"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Fraccionamiento Chapultepec",
+        "name": "Chapultepec, Culiacan, Sin",
+        "address": "Josefa Ortiz De Dominguez 352",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.389626",
+          "24.805046"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Aquiles Serdan, Culiacan, Sin",
+        "address": "Boulevard Francisco I Madero S/N",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.39512",
+          "24.8082"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Culiacan Centro,Sin",
+        "address": "Avenida Alvaro Obregon 419 Norte",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.395905",
+          "24.809689"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Zona Centro",
+        "name": "Culiacan Sin",
+        "address": "Antonio Rosales 103",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.39713",
+          "24.79699"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Miguel Aleman",
+        "name": "Gpe. Culiacan,Sin.",
+        "address": "Boulevard Emiliano Zapata 319 Pte",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.39805",
+          "24.817087"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Desarrollo Urbano Tres Rios",
+        "name": "Tres Rios, Culiacan, Sin",
+        "address": "Diego Valadez S/N",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80027",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.399536",
+          "24.783545"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Fraccionamiento Virreyes",
+        "name": "La Lomita, Culiacan, Sin",
+        "address": "Boulevard Virreyes Sn",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80179",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.404915",
+          "24.831686"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Comunicaciones",
+        "name": "Papalote, Culiacan, Sin",
+        "address": "Boulevard Universitarios S/N",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80034",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.40989",
+          "24.82306"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Humaya",
+        "name": "Humaya, Culiacan, Sin",
+        "address": "Rep De Brasil 1240",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.40999",
+          "24.794718"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Ley Plaza Fiesta, Culiacan, Sin",
+        "address": "General Jose Aguilar Barraza S/N",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.410576",
+          "24.793573"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro Sinaloa",
+        "name": "Bravo, Culiacan, Sin",
+        "address": "Boulevard Emiliano Zapata 1036",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.41111",
+          "24.80389"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Recursos Hidraulicos",
+        "name": "Country Culiacan, Sin",
+        "address": "Boulevard Culiacan 450",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.4256",
+          "24.789928"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Lomas Del Boulevard",
+        "name": "Lomas Del Boulevard, Culiacan, Sin",
+        "address": "Avenida Manuel J Clouthier 3010",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.42709",
+          "24.78345"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Industrial El Palmito",
+        "name": "Ley Palmito, Culiacan, Sin",
+        "address": "Tarahumaras 1950",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.43003",
+          "24.815254"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Fraccionamiento Pradera Dorada",
+        "name": "Universidad De Occidente, Culiacan, Sin",
+        "address": "Lola Beltran S/N",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80054",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.44492",
+          "24.776997"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "San Rafael",
+        "name": "Del Valle, Culiacan, Sin",
+        "address": "Boulevard Zapata 0",
+        "openingHours": null,
+        "municipality": "Culiacan",
+        "zipCode": "80150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.6229",
+          "26.417791"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "El Fuerte Sin",
+        "address": "Juarez 212",
+        "openingHours": null,
+        "municipality": "El Fuerte",
+        "zipCode": "81820",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.7775",
+          "22.83468"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Escuinapa Sin",
+        "address": "Miguel Hidalgo Y Gabriel Leyva S/N",
+        "openingHours": null,
+        "municipality": "Escuinapa",
+        "zipCode": "82400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.46073",
+          "25.561277"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Guasave, Sin.",
+        "address": "Zaragoza Y Corregidora S/N",
+        "openingHours": null,
+        "municipality": "Guasave",
+        "zipCode": "81000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.463776",
+          "25.57076"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Estacion Bamoa, Guasave, Sin.",
+        "address": "Boulevard 16  Septiembre Esq I Ramirez S/N",
+        "openingHours": null,
+        "municipality": "Guasave",
+        "zipCode": "81000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.46982",
+          "25.567186"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Angel Flores",
+        "name": "L Guasave,Sin.",
+        "address": "Arturo Peimbert Y R. Buelna 105",
+        "openingHours": null,
+        "municipality": "Guasave",
+        "zipCode": "81000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.98442",
+          "25.804558"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Las Fuentes",
+        "name": "Las Fuentes, Los Mochis, Sin",
+        "address": "Calzada Adolfo Lopez Mateos 1382",
+        "openingHours": null,
+        "municipality": "Los Mochis",
+        "zipCode": "81223",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.98593",
+          "25.793045"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Los Mochis Centro",
+        "name": "Estadio, Los Mochis, Sin",
+        "address": "Avenida Serapio Rendon 435 Sur",
+        "openingHours": null,
+        "municipality": "Los Mochis",
+        "zipCode": "81200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.98831",
+          "25.806618"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Jiquilpan L",
+        "name": "Ley Jiquilpan, Los Mochis, Sin",
+        "address": "Avenida Libertad 902",
+        "openingHours": null,
+        "municipality": "Los Mochis",
+        "zipCode": "81220",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.99309",
+          "25.788273"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Los Mochis Centro",
+        "name": "Los Mochis Sin",
+        "address": "Guillermo Prieto Sn",
+        "openingHours": null,
+        "municipality": "Los Mochis",
+        "zipCode": "82100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.99875",
+          "25.79289"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Los Mochis Centro",
+        "name": "Antonio Rosales, Los Mochis, Sin",
+        "address": "Boulevard Antonio Rosales Sn",
+        "openingHours": null,
+        "municipality": "Los Mochis",
+        "zipCode": "82100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.00048",
+          "25.790525"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Fraccionamiento Del Sol",
+        "name": "L Plaza Fiesta Las Palmas,Sin",
+        "address": "Avenida General Alvaro Obregon Sn",
+        "openingHours": null,
+        "municipality": "Los Mochis",
+        "zipCode": "81248",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.003105",
+          "25.781021"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Centenario, Los Mochis, Sin",
+        "address": "Centenario Centro Con Soriana 705",
+        "openingHours": null,
+        "municipality": "Los Mochis",
+        "zipCode": "81200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.00713",
+          "25.796942"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Jardines Del Country",
+        "name": "Jardines Del Country, Los Mochis, Sin",
+        "address": "Avenida Independencia Sn",
+        "openingHours": null,
+        "municipality": "Los Mochis",
+        "zipCode": "81248",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.39629",
+          "23.225077"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Alfonso G Calderon (Azteca)",
+        "name": "Aduana Maritima Mazatlan, Sin",
+        "address": "Venustiano Carranza 107 Sur",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82187",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.400024",
+          "23.226162"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Ley Plaza Del Mar, Mazatlan, Sin",
+        "address": "Avenida Gabriel Leyvas (Carr Internacional) Sn",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.40394",
+          "23.2317"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Constitucion",
+        "name": "Juarez, Mazatlan, Sin",
+        "address": "Avenida Insurgentes Sn",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.40627",
+          "23.256662"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Santa Rosita",
+        "name": "Santa Rosa, Mazatlan, Sin",
+        "address": "Carretera Cul-Tepic Sn",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82134",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.41354",
+          "23.204254"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Gabriel Leyva",
+        "name": "Gabriel Leyva Maz, Mazatlan, Sin",
+        "address": "Calzada Gabriel Leyva Solano 282 Int 8-",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.41611",
+          "23.216225"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Lomas Del Mar",
+        "name": "Juan Carrasco, Mazatlan, Sin",
+        "address": "Avenida Ejercito Mexicano Sn",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.421165",
+          "23.200382"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Balcones De Loma Linda",
+        "name": "Mazatlan Sin",
+        "address": "Benito Juarez Sn",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.42355",
+          "23.235008"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Adolfo Lopez Mateos",
+        "name": "Ejercito Mexicano, Mazatlan, Sin",
+        "address": "Avenida Insurgentes S/N",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-106.44705",
+          "23.240824"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Exlaguna Las Gaviotas",
+        "name": "C.F. Zona Dorada,Mazatlan, Sin",
+        "address": "Calzada Camaron Sabalo 424",
+        "openingHours": null,
+        "municipality": "Mazatlan",
+        "zipCode": "82110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-107.69634",
+          "24.766857"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Navolato, Sin",
+        "address": "Rosales S/N S/N",
+        "openingHours": null,
+        "municipality": "Navolato",
+        "zipCode": "80370",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.07325",
+          "25.453775"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Morelos",
+        "name": "Ley Evora, Guamuchil, Sin",
+        "address": "Carretera Internacional Y Blvd A.Rosales S/N",
+        "openingHours": null,
+        "municipality": "Salvador Alvarado",
+        "zipCode": "81460",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.07634",
+          "25.459238"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Zaragoza Plaza Del Valle,Guamuchil, Sin",
+        "address": "N. Bravo Y Madero S/N",
+        "openingHours": null,
+        "municipality": "Salvador Alvarado",
+        "zipCode": "81450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.08076",
+          "25.456802"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Salvador Alvarado,Sin",
+        "address": "Boulevard Antonio Rosales S/N",
+        "openingHours": null,
+        "municipality": "Salvador Alvarado",
+        "zipCode": "81402",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-108.082634",
+          "25.461084"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sinaloa",
+        "neighborhood": "Centro",
+        "name": "Guamuchil,Sin",
+        "address": "Agustina Ramirez Y Morelos S/N",
+        "openingHours": null,
+        "municipality": "Salvador Alvarado",
+        "zipCode": "81400",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

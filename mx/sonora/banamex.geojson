@@ -1,0 +1,1013 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.54333",
+          "31.329628"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Agua Prieta, Son.",
+        "address": "Cuarta S/N",
+        "openingHours": null,
+        "municipality": "Agua Prieta",
+        "zipCode": "84200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-112.14953",
+          "30.709984"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Caborca Son",
+        "address": "Calle 3A Oeste 1",
+        "openingHours": null,
+        "municipality": "Caborca",
+        "zipCode": "83600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.92833",
+          "27.581373"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Esperanza, Son.",
+        "address": "C.Carranza Norte 105",
+        "openingHours": null,
+        "municipality": "Cajeme",
+        "zipCode": "85210",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.930016",
+          "27.506035"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Urbana 4",
+        "name": "Miguel Aleman, Cd Obregon, Son",
+        "address": "Lic Miguel Aleman 615 Nte",
+        "openingHours": null,
+        "municipality": "Cajeme",
+        "zipCode": "85040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.93003",
+          "27.489622"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Fundo Legal",
+        "name": "Ley Cajeme, Ciudad Obregon, Son",
+        "address": "Lic Miguel Aleman Sn",
+        "openingHours": null,
+        "municipality": "Cajeme",
+        "zipCode": "85160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.93293",
+          "27.493309"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Fundo Legal",
+        "name": "Cd. Obregon,Son.",
+        "address": "5 De Febrero 200",
+        "openingHours": null,
+        "municipality": "Cajeme",
+        "zipCode": "85160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.93308",
+          "27.465385"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Reforma",
+        "name": "Valle Del Yaqui,Cd. Obregon, Son",
+        "address": "5 De Febrero (Dr Norman G. B.) 4803",
+        "openingHours": null,
+        "municipality": "Cajeme",
+        "zipCode": "85070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.93447",
+          "27.505127"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Urbana 4",
+        "name": "Providencia-Cajeme, Cd Obregon, Son",
+        "address": "Avenida Mayo Sn",
+        "openingHours": null,
+        "municipality": "Cajeme",
+        "zipCode": "85040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.944725",
+          "27.479532"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "La Cortina",
+        "name": "California, Cd Obregon, Son",
+        "address": "California Lt 3 Al 8",
+        "openingHours": null,
+        "municipality": "Cajeme",
+        "zipCode": "85160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.94565",
+          "27.49406"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Santa Anita",
+        "name": "Pacifico Cd. Obregon, Son.",
+        "address": "Avenida Vicente Guerrero Sn",
+        "openingHours": null,
+        "municipality": "Cajeme",
+        "zipCode": "85120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.29847",
+          "30.983286"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Cananea Son",
+        "address": "Avenida Juarez Y Calle 6A Este S/N",
+        "openingHours": null,
+        "municipality": "Cananea",
+        "zipCode": "84620",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.81536",
+          "27.958418"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Empalme Son",
+        "address": "Reforma Esquina Ni~Os Heroes S/N",
+        "openingHours": null,
+        "municipality": "Empalme",
+        "zipCode": "85300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.891495",
+          "27.923447"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Guaymas, Son.",
+        "address": "Avenida Serdan Y Calle 20 S/N",
+        "openingHours": null,
+        "municipality": "Guaymas",
+        "zipCode": "85400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.89483",
+          "27.925467"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Ley  Plaza El Vigia, Guaymas, Son",
+        "address": "Agustin Garcia Lopez 1000 Nte.",
+        "openingHours": null,
+        "municipality": "Guaymas",
+        "zipCode": "85440",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.91764",
+          "27.925129"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Fraccionamiento Las Villas",
+        "name": "Miramar, Guaymas, Son",
+        "address": "Carretera Int. Guay/Hillo B. Las Villas S/N",
+        "openingHours": null,
+        "municipality": "Guaymas",
+        "zipCode": "85440",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-111.05214",
+          "27.95992"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "San Carlos Son",
+        "address": "Plaza Comercial San Carlos Local 1",
+        "openingHours": null,
+        "municipality": "Guaymas",
+        "zipCode": "85400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.96105",
+          "27.48278"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Bellavista",
+        "name": "Nainari Del Yaqui, Hermosillo, Son",
+        "address": "Boulevard Rodolfo Elias Calles 1722",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "85130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.91146",
+          "29.022278"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Parque Industrial Hermosillo",
+        "name": "La Colorada, Hermosillo, Son",
+        "address": "De La Plata Loc E Y F",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83299",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.95073",
+          "29.077726"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Hermosillo Son",
+        "address": "Serdan 1102",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.95112",
+          "29.108997"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Jesus Garcia",
+        "name": "Morelos, Hermosillo, Son",
+        "address": "Periferico Norte 26",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.95146",
+          "29.1221"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Bachoco",
+        "name": "Mirador, Hermosillo, Son",
+        "address": "Boulevard Jose Maria Morelos 355",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83148",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.95371",
+          "29.094809"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Pitic Hermosillo Son",
+        "address": "Boulevard Abelardo Rodriguez 39",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.95824",
+          "29.037443"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Las Lomas",
+        "name": "Periferico Sur, Hermosillo, Son",
+        "address": "Periferico Sur S/N",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83293",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.96466",
+          "29.08767"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "San Benito",
+        "name": "C.F. Kino, Hermosillo, Son",
+        "address": "Boulevard Luis Encinas (Garcia Morales) S/N",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83190",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.97077",
+          "29.068804"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Rio Sonora",
+        "name": "Vado Del Rio, Hermosillo, Son",
+        "address": "Paseo Rio Sonora Sur S/N",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.97594",
+          "29.092525"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Olivares",
+        "name": "Periferico Norte, Hermosillo, Son",
+        "address": "Boulevard Luis Encinas Johnson Sn",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.986206",
+          "29.085396"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Villa Satelite",
+        "name": "Colosio, Hermosillo,Son",
+        "address": "Boulevard Luis Donaldo Colosio (General Pesqueira) 459",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.988556",
+          "29.088543"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Raquet Club",
+        "name": "Navarrete Hermosillo, Son.",
+        "address": "Boulevard Juan Navarrete Norte 322-B",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.99255",
+          "29.10937"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "El Choyal",
+        "name": "C.U.M. Hermosillo, Son",
+        "address": "Boulevard Solidaridad (Avenida Del Noroeste) 599",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.99263",
+          "29.110506"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "El Sahuaro",
+        "name": "Plaza Del Sol, Hermosillo, Son",
+        "address": "Boulevard Solidaridad 56 Loc 7-1",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.996445",
+          "29.141665"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Solidaridad",
+        "name": "Progreso Hermosillo, Son",
+        "address": "Boulevard Solidaridad S/N",
+        "openingHours": null,
+        "municipality": "Hermosillo",
+        "zipCode": "83116",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.64141",
+          "26.826485"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Huatabampo Son",
+        "address": "Juarez Y Avenida Guerrero S/N",
+        "openingHours": null,
+        "municipality": "Huatabampo",
+        "zipCode": "85900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.96896",
+          "30.631119"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Magdalena, Son.",
+        "address": "Avenida Alvaro Obregon 105 Y 107",
+        "openingHours": null,
+        "municipality": "Magdalena",
+        "zipCode": "84160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.68643",
+          "30.374002"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Nacozari De Garcia Son",
+        "address": "Avenida Plaza Jesus Garcia 12",
+        "openingHours": null,
+        "municipality": "Nacozari",
+        "zipCode": "84340",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.44482",
+          "27.082111"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Reforma",
+        "name": "Navojoa Son",
+        "address": "Morelos 31",
+        "openingHours": null,
+        "municipality": "Navojoa",
+        "zipCode": "85830",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.45058",
+          "27.07148"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "San Ignacio Cohuirimpio",
+        "name": "Valle Del Mayo, Navojoa, Son",
+        "address": "Talamante 817 Sur",
+        "openingHours": null,
+        "municipality": "Navojoa",
+        "zipCode": "85800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-109.450615",
+          "27.071978"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Juarez",
+        "name": "Talamante, Navojoa, Son",
+        "address": "Talamante S/N",
+        "openingHours": null,
+        "municipality": "Navojoa",
+        "zipCode": "85870",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.9375",
+          "31.297207"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Municipio General Plutarco Elias Calles",
+        "name": "Sonoita, Nogales, Son",
+        "address": "Mario Morua S/N",
+        "openingHours": null,
+        "municipality": "Nogales",
+        "zipCode": "83570",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.93809",
+          "31.300127"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Nogales,Son",
+        "address": "Plutarco Elias Calles Y A.Obregon S/N",
+        "openingHours": null,
+        "municipality": "Nogales",
+        "zipCode": "84000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.93819",
+          "31.300287"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Nogales Centro Son",
+        "address": "Plutarco Elias Calles Y Avenida Alvaro Obregon S/N",
+        "openingHours": null,
+        "municipality": "Nogales",
+        "zipCode": "84000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.94038",
+          "31.274277"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Fraccionamiento El Greco",
+        "name": "Kalitea, Nogales, Son",
+        "address": "Boulevard El Greco 14",
+        "openingHours": null,
+        "municipality": "Nogales",
+        "zipCode": "84063",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.941605",
+          "31.274097"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Kalitea",
+        "name": "Ley El Greco, Nogales, Son",
+        "address": "Carretera Internacional Km 4.5",
+        "openingHours": null,
+        "municipality": "Nogales",
+        "zipCode": "84000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.95494",
+          "31.301437"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Parque Industrial Nvo No",
+        "name": "Centro De Negocios Nuevo Nogales, Son",
+        "address": "Calzada Independencia Nuevo Nogales 3 Num: 3",
+        "openingHours": null,
+        "municipality": "Nogales",
+        "zipCode": "84000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-110.95644",
+          "31.306072"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Canoas",
+        "name": "Periferico Nogales, Son",
+        "address": "Luis Donaldo Colosio S/N",
+        "openingHours": null,
+        "municipality": "Nogales",
+        "zipCode": "84069",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-113.53721",
+          "31.317013"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "Pinacate, Son",
+        "address": "Boulevard Benito Juarez  Esquina Boulevardd Jlp S/N",
+        "openingHours": null,
+        "municipality": "Puerto Pe~Asco",
+        "zipCode": "83550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-113.5407",
+          "31.305275"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Puerto Pe&Asco",
+        "name": "Puerto Pe~Asco Son",
+        "address": "Boulevard Benito Juarez Esq Campeche S/N",
+        "openingHours": null,
+        "municipality": "Puerto Pe~Asco",
+        "zipCode": "83550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-114.75273",
+          "32.464825"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Residencias",
+        "name": "Residencias, San Luis Rio Colorado, Son",
+        "address": "Avenida Revolucion  Y Calle 26 S/N",
+        "openingHours": null,
+        "municipality": "San Luis Rio Colorado",
+        "zipCode": "83448",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-114.78648",
+          "32.482166"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Sonora",
+        "neighborhood": "Centro",
+        "name": "San Luis Rio Colorado,Son",
+        "address": "Madero Esquina Calle 2A S/N",
+        "openingHours": null,
+        "municipality": "San Luis Rio Colorado",
+        "zipCode": "83400",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2567 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.047386",
+          "20.547956"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Ameca,Jal.",
+        "address": "J Guadalupe Vazquez L No 18",
+        "openingHours": null,
+        "municipality": "Ameca",
+        "zipCode": "46600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.34312",
+          "20.705418"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Arandas,Jal.",
+        "address": "Portal Aldama 7",
+        "openingHours": null,
+        "municipality": "Arandas",
+        "zipCode": "47180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.50726",
+          "20.549252"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Atotonilco,Jal.",
+        "address": "5 De Febrero 19",
+        "openingHours": null,
+        "municipality": "Atotonilco El Alto",
+        "zipCode": "47750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.366615",
+          "19.770098"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Autlan,Jal",
+        "address": "Guillermo Prieto Esquina Alvaro Obregon S/N",
+        "openingHours": null,
+        "municipality": "Autlan",
+        "zipCode": "48900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.439354",
+          "19.601421"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Revolucion",
+        "name": "Casimiro Castillo,Jal.",
+        "address": "Revolucion S/N Entre Alvaro Obregon S/N",
+        "openingHours": null,
+        "municipality": "Casimiro Castillo",
+        "zipCode": "48930",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.19234",
+          "20.289072"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Chapala,Jal.",
+        "address": "Madero 222",
+        "openingHours": null,
+        "municipality": "Chapala",
+        "zipCode": "45900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.55798",
+          "19.236761"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Cihuatlan",
+        "name": "Cihuatlan,Jal.",
+        "address": "Alvaro Obregon 60",
+        "openingHours": null,
+        "municipality": "Cihuatlan",
+        "zipCode": "48970",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.70485",
+          "19.223013"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Melaque, San Patricio, Melaque, Jal.",
+        "address": "C.Gomez Farias T.Ejidal /Are.Com.Hvh S/N",
+        "openingHours": null,
+        "municipality": "Cihuatlan",
+        "zipCode": "48980",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.46215",
+          "19.704382"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "C.F. Cd. Guzman,Jal.",
+        "address": "Colon 70",
+        "openingHours": null,
+        "municipality": "Ciudad Guzman",
+        "zipCode": "49000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.46714",
+          "19.689676"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Plaza Guzman, Ciudad Guzman, Jal.",
+        "address": "Zona M Plaza Zapotlan Local 1 S/N",
+        "openingHours": null,
+        "municipality": "Ciudad Guzman",
+        "zipCode": "49000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.21617",
+          "19.805614"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "El Grullo,Jal.",
+        "address": "Obregon 4 Bajos",
+        "openingHours": null,
+        "municipality": "El Grullo",
+        "zipCode": "48740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.30754",
+          "20.560694"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "El Salto,Jal",
+        "address": "Hidalgo 46",
+        "openingHours": null,
+        "municipality": "El Salto",
+        "zipCode": "45681",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.239426",
+          "21.523607"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Encarnacion De Diaz,Jal.",
+        "address": "Hidalgo 209 Num: 209",
+        "openingHours": null,
+        "municipality": "Encarnacion De Diaz",
+        "zipCode": "47270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.27653",
+          "20.67187"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "San Joaquin",
+        "name": "San Joaquin, Guadalajara, Jal.",
+        "address": "Avenida Presa De Osorio 3905",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44770",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29253",
+          "20.673115"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Hermosa Provincia",
+        "name": "Hermosa Provincia, Guadalajara, Jal.",
+        "address": "Cairo 680 Y 690",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44770",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.295876",
+          "20.688606"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Fraccionamiento Circunvalacion Oblatos",
+        "name": "Oblatos, Guadalajara, Jal.",
+        "address": "Avenida Circunvalacion 30, 31 Y 3",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "45130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.30323",
+          "20.67086"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Moreno Padilla",
+        "name": "Felipe Angeles, Guadalajara, Jal.",
+        "address": "Felipe Angeles 356",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44740",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.31055",
+          "20.651112"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Jardines De La Paz",
+        "name": "Plaza Revolucion, Guadalajara, Jal.",
+        "address": "Calzada Revolucion 2242",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "45550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.313354",
+          "20.677984"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "San Juan Bosco",
+        "name": "San Juan Bosco, Guadalajara, Jal.",
+        "address": "Esteban Alatorre S/N",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "45630",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.313484",
+          "20.667685"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Progreso",
+        "name": "Javier Mina, Guadalajara, Jal.",
+        "address": "Avenida Javier Mina 1510",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.320915",
+          "20.713692"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "La Federacha",
+        "name": "Plaza Independencia, Guadalajara, Jal.",
+        "address": "Calzada Independencia 2930",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44306",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3309",
+          "20.69552"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Independencia Oriente",
+        "name": "Calzada,Jal.",
+        "address": "Calzada Independencia Norte 1375",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44340",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.33432",
+          "20.673744"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "San Juan De Dios",
+        "name": "Alvaro Obregon, Guadalajara, Jal.",
+        "address": "Avenida Javier Mina 450",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "43360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.334595",
+          "20.660265"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Plaza De La Bandera, Guadalajara, Jal.",
+        "address": "Calzada Del Ejercito 663",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "45100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.337494",
+          "20.700615"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "San Agustin",
+        "name": "Normalistas, Guadalajara, Jal.",
+        "address": "Circunvalacion Division Del Norte 415",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.340324",
+          "20.65463"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "San Carlos",
+        "name": "Gonzalez Gallo, Guadalajara, Jal.",
+        "address": "Calzada Jesus Gonzalez Gallo 535",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44460",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34505",
+          "20.677446"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Independencia,Guadalajara, Jal",
+        "address": "Avenida Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.346466",
+          "20.675146"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "C.F. Guadalajara,Jal.",
+        "address": "Avenida Juarez 237",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34748",
+          "20.670017"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "16 De Septiembre, Guadalajara, Jal.",
+        "address": "Avenida 16 De Septiembre 431",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34765",
+          "20.703676"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Observatorio",
+        "name": "Transito, Guadalajara, Jal.",
+        "address": "Avenida Alcalde 1946",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44298",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.347786",
+          "20.683105"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Barranquitas",
+        "name": "Santuario, Guadalajara, Jal.",
+        "address": "Avenida Alcalde 444",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.348236",
+          "20.627872"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "El Manantial",
+        "name": "Las Juntas, Guadalajara, Jal.",
+        "address": "Calzada Gobernador Luis G Curiel 3323",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44990",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35075",
+          "20.696833"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "San Miguel Mezquitan",
+        "name": "Avila Camacho, Guadalajara, Jal.",
+        "address": "Avenida Manuel Avila Camacho 1343",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35123",
+          "20.677193"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Santa Monica,Guadalajara,Jal",
+        "address": "Avenida Hidalgo 595",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35555",
+          "20.713057"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Jardines Del Country",
+        "name": "Plaza Atemajac, Guadalajara, Jal.",
+        "address": "Avenida Fidel Velazquez 1550 Loc 4",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44218",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35953",
+          "20.664345"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Moderna",
+        "name": "Ni~Os Heroes, Guadalajara, Jal",
+        "address": "Tolsa 785",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44190",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.359886",
+          "20.674753"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Santa Teresita",
+        "name": "Universidad,Guadalajara, Jal",
+        "address": "Avenida Vallarta 1014",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.360146",
+          "20.649273"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "8 De Julio",
+        "name": "C.F.Zona Industrial, Guadalajara, Jal.",
+        "address": "8 De Julio 1800-A",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44910",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.360954",
+          "20.646742"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Aeropuerto Int.",
+        "name": "Modulo Aduana Aeropuerto Guadalajara J.",
+        "address": "Calzada Lazaro Cardenas Km 17",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "45659",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.363014",
+          "20.642942"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Zona Industrial",
+        "name": "Industriales, Guadalajara, Jal.",
+        "address": "Avenida 8 De Julio 2278",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44960",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36622",
+          "20.674631"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Americana",
+        "name": "C.F. Vallarta, Guadalajara, Jal",
+        "address": "Avenida Vallarta 1369",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.366585",
+          "20.634642"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Zona Industrial",
+        "name": "Aurrera 8 De Julio, Guadalajara, Jal.",
+        "address": "8 De Julio 2759",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44949",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36814",
+          "20.666672"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Moderna",
+        "name": "Chapultepec, Guadalajara, Jal.",
+        "address": "Avenida Chapultepec 625",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44190",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37286",
+          "20.69411"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Ayuntamiento",
+        "name": "Americas, Guadalajara, Jal.",
+        "address": "Avenida Americas 918",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44650",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37348",
+          "20.68542"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Ladron De Guevara",
+        "name": "Sta. Teresita, Guadalajara, Jal.",
+        "address": "Avenida De Las Americas 475",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44650",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.380196",
+          "20.655926"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Jardines De La Victoria",
+        "name": "Abastos, Guadalajara, Jal.",
+        "address": "Calzada Lazaro Cardenas 2440",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38538",
+          "20.677794"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Ladron De Guevara",
+        "name": "C.F. Lopez Mateos, Guadalajara, Jal",
+        "address": "Avenida Adolfo Lopez Mateos 161",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.385635",
+          "20.697937"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Providencia 4A Seccion",
+        "name": "Providencia, Guadalajara, Jal.",
+        "address": "Pablo Neruda 2953",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44639",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38583",
+          "20.666115"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Jardines Del Bosque",
+        "name": "Jardines Del Bosque, Guadalajara, Jal.",
+        "address": "Avenida Ni~Os Heroes 2891",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44520",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38692",
+          "20.647894"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Bosques De La Victoria",
+        "name": "Plaza Arboledas, Guadalajara, Jal.",
+        "address": "Paseo De Las Arboledas 2410",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44540",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3928",
+          "20.684374"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Residencial Juan Manuel",
+        "name": "Monraz,Guadalajara, Jal",
+        "address": "Manuel Acu~A 3073",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "44680",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39922",
+          "20.678038"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Villa Santa Rita",
+        "name": "Plaza Mexico, Guadalajara, Jal.",
+        "address": "Avenida Mexico 3341",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "45120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43147",
+          "20.659359"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Residencial Plaza Guadalupe",
+        "name": "Belisario, Guadalajara, Jal.",
+        "address": "Copernico 2831",
+        "openingHours": null,
+        "municipality": "Guadalajara",
+        "zipCode": "45030",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.13524",
+          "20.39434"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro (Antes Cve Mun Inegi 030)",
+        "name": "Atequiza,Jal.",
+        "address": "24 De Noviembre 3",
+        "openingHours": null,
+        "municipality": "Ixtlahuacan De Los Membrillos",
+        "zipCode": "45860",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.46802",
+          "21.167213"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Jalostotitlan,Jal.",
+        "address": "Gonzalez Hermosillo 58",
+        "openingHours": null,
+        "municipality": "Jalostotitlan",
+        "zipCode": "47120",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.70944",
+          "20.29"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Jamay,Jal.",
+        "address": "Morelos 31",
+        "openingHours": null,
+        "municipality": "Jamay",
+        "zipCode": "47900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42943",
+          "20.283604"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Jocotepec,Jal.",
+        "address": "Hidalgo Sur 186",
+        "openingHours": null,
+        "municipality": "Jocotepec",
+        "zipCode": "44800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.54829",
+          "20.279203"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "La Barca,Jal",
+        "address": "Hidalgo Y Zaragoza S/N",
+        "openingHours": null,
+        "municipality": "La Barca",
+        "zipCode": "47910",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-104.639915",
+          "19.482641"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "La Huerta, Jal.",
+        "address": "Entre Sor Juana Y Madero 9",
+        "openingHours": null,
+        "municipality": "La Huerta",
+        "zipCode": "48850",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-101.932724",
+          "21.358515"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "C.F. Lagos De Moreno,Jal.",
+        "address": "Plaza De Los Constituyentes 311",
+        "openingHours": null,
+        "municipality": "Lagos De Moreno",
+        "zipCode": "47400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.77165",
+          "20.350822"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Plaza Ocotlan,Jal.",
+        "address": "Avenida Universidad  Esquina Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Ocotlan",
+        "zipCode": "47810",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.77406",
+          "20.348673"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Ocotlan,Jal",
+        "address": "Hidalgo 230",
+        "openingHours": null,
+        "municipality": "Ocotlan",
+        "zipCode": "47800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3787",
+          "19.253529"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Pihuamo",
+        "name": "Pihuamo,Jal.",
+        "address": "Hidalgo Num 18",
+        "openingHours": null,
+        "municipality": "Pihuamo",
+        "zipCode": "49870",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.217926",
+          "20.652107"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "El Pitillal,Jal",
+        "address": "Emiliano Zapata 48",
+        "openingHours": null,
+        "municipality": "Puerto Vallarta",
+        "zipCode": "48290",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.22079",
+          "20.63956"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Fraccionamiento Las Gaviotas",
+        "name": "Plaza Villa Vallarta, Puerto Valla, Jal",
+        "address": "Avenida Francisco Villa S/N",
+        "openingHours": null,
+        "municipality": "Puerto Vallarta",
+        "zipCode": "48328",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.23026",
+          "20.624048"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Zona Hotelera",
+        "name": "Plaza Peninsula, Puerto Vallarta, Jal.",
+        "address": "Boulevard Francisco Medina Ascencio 2485",
+        "openingHours": null,
+        "municipality": "Puerto Vallarta",
+        "zipCode": "48300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.231606",
+          "20.636826"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Marbella",
+        "name": "Plaza Caracol, Puerto Vallarta, Jal.",
+        "address": "Avenida Francisco Medina Ascencio Loc31Y31-A",
+        "openingHours": null,
+        "municipality": "Puerto Vallarta",
+        "zipCode": "48310",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-105.23543",
+          "20.608398"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "C.F. Puerto Vallarta, Jal.",
+        "address": "Benito Juarez Sn",
+        "openingHours": null,
+        "municipality": "Puerto Vallarta",
+        "zipCode": "48300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.33312",
+          "21.246387"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "San Juan De Los Lagos,Jal.",
+        "address": "Benigno Romo 67",
+        "openingHours": null,
+        "municipality": "San Juan De Los Lagos",
+        "zipCode": "47000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.401825",
+          "21.030983"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "San Miguel El Alto,Jal.",
+        "address": "Portal Morelos 24 Ent.Mor",
+        "openingHours": null,
+        "municipality": "San Miguel El Alto",
+        "zipCode": "47140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.60018",
+          "19.885544"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Sayula,Jal.",
+        "address": "Portal Allende Esquina 5 De Mayo S/N",
+        "openingHours": null,
+        "municipality": "Sayula",
+        "zipCode": "49300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.70231",
+          "20.648794"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Tala",
+        "name": "Tala, Jal.",
+        "address": "Nicolas Bravo 10",
+        "openingHours": null,
+        "municipality": "Tala",
+        "zipCode": "45300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.25431",
+          "19.674152"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Tamazula De Gordiano",
+        "name": "Tamazula,Jal.",
+        "address": "Javier Mina 32 Oriente",
+        "openingHours": null,
+        "municipality": "Tamazula",
+        "zipCode": "49650",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.30664",
+          "19.470041"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Tecalitlan",
+        "name": "Tecalitlan,Jal.",
+        "address": "Portal Victoria 13",
+        "openingHours": null,
+        "municipality": "Tecalitlan",
+        "zipCode": "49900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.5751",
+          "21.436958"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Teocaltiche,Jal.",
+        "address": "Hidalgo 134",
+        "openingHours": null,
+        "municipality": "Teocaltiche",
+        "zipCode": "47200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.7487",
+          "20.827177"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Fraccionamiento Paseo De Las Lomas",
+        "name": "Plaza Los Altos, Tepatitlan, Jal.",
+        "address": "Avenida Lic Anacleto Gonzalez Flores Sn",
+        "openingHours": null,
+        "municipality": "Tepatitlan",
+        "zipCode": "47634",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.7601",
+          "20.814953"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "C.F. Tepatitlan,Jal.",
+        "address": "Independencia 44",
+        "openingHours": null,
+        "municipality": "Tepatitlan",
+        "zipCode": "47600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.83888",
+          "20.884096"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Tequila,Jal.",
+        "address": "Juarez 37",
+        "openingHours": null,
+        "municipality": "Tequila",
+        "zipCode": "46400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36759",
+          "20.518467"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Fraccionamiento San Jose Del Valle",
+        "name": "Plaza Toluquilla, Tlajomulco De Zu, Jal.",
+        "address": "Camino San Jose Del Valle 6800",
+        "openingHours": null,
+        "municipality": "Tlajomulco",
+        "zipCode": "45654",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.452545",
+          "20.57539"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Tlajomulco De Zu~Iga,Jal.",
+        "address": "Carretera Gda Acatlan De Juarez 180",
+        "openingHours": null,
+        "municipality": "Tlajomulco",
+        "zipCode": "45640",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4761",
+          "20.53258"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Santa Anita Tlajomulco",
+        "name": "Plaza Manantial, Tlajomulco De Zu+, Jal",
+        "address": "Carretera Guadalajara Morelia Km 3.5",
+        "openingHours": null,
+        "municipality": "Tlajomulco",
+        "zipCode": "45645",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.28546",
+          "20.625128"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Camichines",
+        "name": "Gigante Camichines,San Pedro Tlaq, Jal.",
+        "address": "Calzada Lazaro Cardenas 1351",
+        "openingHours": null,
+        "municipality": "Tlaquepaque",
+        "zipCode": "45500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2982",
+          "20.634918"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Carretera Los Altos",
+        "name": "Palenque Tlaquepaque, San Pedro Tl,Jal",
+        "address": "Avenida Francisco Silva 239",
+        "openingHours": null,
+        "municipality": "Tlaquepaque",
+        "zipCode": "45520",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.31155",
+          "20.639536"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "San Pedro Tlaquepaque",
+        "name": "Tlaquepaque, San Pedro Tlaquepaque, Jal.",
+        "address": "Independencia 88",
+        "openingHours": null,
+        "municipality": "Tlaquepaque",
+        "zipCode": "45500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.32242",
+          "20.623281"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Fraccionamiento Alamo Industrial",
+        "name": "Tapatio, San Pedro Tlaquepaque, Jal",
+        "address": "Textiles 3196",
+        "openingHours": null,
+        "municipality": "Tlaquepaque",
+        "zipCode": "45560",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3899",
+          "20.620823"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Arboledas Del Sur (Antes Cve Mun Inegi 039)",
+        "name": "Plaza El Sauz, San Pedro Tlaquepaq,Jal.",
+        "address": "Avenida Colon 4030",
+        "openingHours": null,
+        "municipality": "Tlaquepaque",
+        "zipCode": "45559",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.393555",
+          "20.599"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Santa Ma Tequepexpan",
+        "name": "Plaza Centro Sur, San Pedro Tlaque,Jal.",
+        "address": "Periferico Sur S/N",
+        "openingHours": null,
+        "municipality": "Tlaquepaque",
+        "zipCode": "45601",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39813",
+          "20.635248"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Lomas De La Victoria",
+        "name": "Cruz Del Sur,San Pedro Tlaquepaqu, Jal",
+        "address": "Avenida Cruz Del Sur 3131",
+        "openingHours": null,
+        "municipality": "Tlaquepaque",
+        "zipCode": "45608",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.44525",
+          "20.550222"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Santa Anita Centro",
+        "name": "Santa Anita, San Pedro Tlaquepaque, Jal.",
+        "address": "Ramon Corona 175-A",
+        "openingHours": null,
+        "municipality": "Tlaquepaque",
+        "zipCode": "45600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.24239",
+          "20.625376"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Artesanos Tonala,Jal.",
+        "address": "Francisco I Madero 84",
+        "openingHours": null,
+        "municipality": "Tonala",
+        "zipCode": "45000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.24664",
+          "20.623026"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Tonala Centro",
+        "name": "Tonaltecas, Tonala, Jal.",
+        "address": "Avenida Tonaltecas 65",
+        "openingHours": null,
+        "municipality": "Tonala",
+        "zipCode": "45400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.265076",
+          "20.63034"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Loma Dorada",
+        "name": "Loma Dorada, Tonala, Jal.",
+        "address": "Avenida Rio Nilo 7745",
+        "openingHours": null,
+        "municipality": "Tonala",
+        "zipCode": "45402",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.276",
+          "20.63977"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Villas De Oriente",
+        "name": "Rio Nilo, Tonala, Jal.",
+        "address": "Calzada Rio Nilo 7540",
+        "openingHours": null,
+        "municipality": "Tonala",
+        "zipCode": "44840",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.79353",
+          "20.540646"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Tototlan, Jal.",
+        "address": "Avenida Juarez 2 Esq Hida",
+        "openingHours": null,
+        "municipality": "Tototlan",
+        "zipCode": "47730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38078",
+          "19.556894"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Tuxpan",
+        "name": "Tuxpan,Jal.",
+        "address": "Portal Morelos 10",
+        "openingHours": null,
+        "municipality": "Tuxpan",
+        "zipCode": "49800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.58495",
+          "21.680681"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro Comercial Villa Textil",
+        "name": "Villa Hidalgo,Jal",
+        "address": "Industria S/N  Local 106 S/N",
+        "openingHours": null,
+        "municipality": "Villa Hidalgo",
+        "zipCode": "47250",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.57168",
+          "20.229347"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Zacoalco De Torres,Jal.",
+        "address": "Arista 107 Entre",
+        "openingHours": null,
+        "municipality": "Zacoalco",
+        "zipCode": "45750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36807",
+          "20.728563"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Constitucion",
+        "name": "Mercado Bola, Zapopan, Jal.",
+        "address": "Avenida General Manuel M Dieguez 427",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37551",
+          "20.712542"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Jacarandas",
+        "name": "Plaza Patria, Zapopan, Jal.",
+        "address": "Avenida Patria Norte S/N",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38857",
+          "20.721209"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "La Villa",
+        "name": "Basilica, Zapopan, Jal.",
+        "address": "Hidalgo Sn",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38944",
+          "20.72845"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Zapopan",
+        "name": "Zapopan,Jal.",
+        "address": "Avenida Los Laureles 84",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39769",
+          "20.739986"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Belenes",
+        "name": "San Isidro, Zapopan, Jal.",
+        "address": "Periferico Norte 10 Local C",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45184",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40118",
+          "20.653797"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Condominio Plaza Del Sol",
+        "name": "Plaza Del Sol, Zapopan, Jal.",
+        "address": "Avenida Adolfo Lopez Mateos 1418",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40537",
+          "20.739456"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Arcos Zapopan",
+        "name": "Arcos Zapopan, Jal.",
+        "address": "Manuel Gomez Morin Anillo Periferico Norte Sn Fracc 3",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40963",
+          "20.67294"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Camino Real",
+        "name": "Camino Real, Zapopan, Jal.",
+        "address": "Calzada Lazaro Cardenas 454",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.413025",
+          "20.636038"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "La Calma",
+        "name": "C.F. Sur, Zapopan, Jal.",
+        "address": "Avenida Adolfo Lopez Mateos 4145",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41448",
+          "20.730907"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Infonavit La Tuzania",
+        "name": "Plaza Santa Margarita,Zapopan, Jal.",
+        "address": "Avenida Santa Margarita Lt 27 Mz 5",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41609",
+          "20.69886"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Santa Isabel",
+        "name": "Puerta De Hierro, Zapopan, Jal.",
+        "address": "Avenida De La Patria 1744",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.417755",
+          "20.689884"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Jardines Universidad",
+        "name": "Colomos, Zapopan, Jal.",
+        "address": "Avenida De La Patria 734",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45110",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41821",
+          "20.724363"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Lomas Del Bosque",
+        "name": "Plaza Acueducto, Zapopan, Jal",
+        "address": "Avenida Acueducto 6050",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45118",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42079",
+          "20.662622"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Mirador Del Sol",
+        "name": "Tepeyac, Zapopan, Jal.",
+        "address": "Avenida Guadalupe 1347",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45054",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42343",
+          "20.653048"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Mirador Del Sol",
+        "name": "Mirador, Zapopan, Jal.",
+        "address": "Avenida De La Patria 5005",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45054",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42399",
+          "20.618616"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Fraccionamiento Arboledas",
+        "name": "Las Fuentes, Zapopan, Jal.",
+        "address": "Avenida Lopez Mateos Sur 5790",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42578",
+          "20.63358"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Fraccionamiento Arboledas",
+        "name": "Copernico, Zapopan, Jal.",
+        "address": "Avenida Nicolas Copernico 4419",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42931",
+          "20.679913"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Camichines Vallarta",
+        "name": "Plaza Galerias, Zapopan, Jal.",
+        "address": "Rafael Sanz 55",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43299",
+          "20.64238"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "El Colli Ejidal",
+        "name": "Colli, Zapopan, Jal.",
+        "address": "Volcan Baru 2350 A",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4344",
+          "20.658566"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Residencial Plaza Guadalupe",
+        "name": "Guadalupe Inn, Zapopan, Jal.",
+        "address": "Avenida Guadalupe 6160 Loc 3",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.44823",
+          "20.601292"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Bugambilias",
+        "name": "Plaza Bugambilias, Zapopan, Jal.",
+        "address": "Boulevard De Las Bugambilias 2250",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45238",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.45469",
+          "20.694975"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Fraccionamiento Coto Del Rey",
+        "name": "Concentro, Zapopan, Jal.",
+        "address": "Avenida Vallarta 6503",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.47792",
+          "20.795444"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Tesistan",
+        "name": "Tesistan, Zapopan, Jal.",
+        "address": "Valle De Tesistan 35 Y 36",
+        "openingHours": null,
+        "municipality": "Zapopan",
+        "zipCode": "45200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41606",
+          "19.627012"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Zapotiltic, Jal.",
+        "address": "Reforma 75 Ent. N.",
+        "openingHours": null,
+        "municipality": "Zapotiltic",
+        "zipCode": "49600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.071434",
+          "20.620436"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Jalisco",
+        "neighborhood": "Centro",
+        "name": "Zapotlanejo,Jal.",
+        "address": "Alvaro Obregon 41",
+        "openingHours": null,
+        "municipality": "Zapotlanejo",
+        "zipCode": "44530",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

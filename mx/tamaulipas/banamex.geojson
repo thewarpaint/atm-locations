@@ -1,0 +1,1118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.85253",
+          "22.347652"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Industrial Altamira",
+        "name": "Aduana Altamira,Tamps",
+        "address": "Terminal De Usos Multiples 1 S/N",
+        "openingHours": null,
+        "municipality": "Altamira",
+        "zipCode": "01000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.93786",
+          "22.397026"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Centro",
+        "name": "Altamira,Tamps.",
+        "address": "Boulevard Allende S/N",
+        "openingHours": null,
+        "municipality": "Altamira",
+        "zipCode": "89600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.83848",
+          "22.24851"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "1Ro De Mayo",
+        "name": "Cd Madero,Tamps",
+        "address": "1Ro De Mayo 307",
+        "openingHours": null,
+        "municipality": "Ciudad Madero",
+        "zipCode": "89450",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.845604",
+          "22.275345"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Ampliacion Unidad Nacional",
+        "name": "Miramar,Tamps.",
+        "address": "Avenida Tamaulipas S/N",
+        "openingHours": null,
+        "municipality": "Ciudad Madero",
+        "zipCode": "89510",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.85338",
+          "22.253304"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Ricardo Flores Magon",
+        "name": "Wal-Mart Madero, Cd Madero, Tam",
+        "address": "Boulevard Adolfo Lopez Mateos 301 Sur",
+        "openingHours": null,
+        "municipality": "Ciudad Madero",
+        "zipCode": "89460",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.97401",
+          "22.743755"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Centro",
+        "name": "Ciudad Mante Tamps",
+        "address": "Guerrero 116 Pte",
+        "openingHours": null,
+        "municipality": "Ciudad Mante",
+        "zipCode": "89800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.14208",
+          "23.749338"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Residencial Las Palmas",
+        "name": "Soriana Plaza Palmas, Cd Victori, Tam",
+        "address": "Boulevard Tamaulipas 2033",
+        "openingHours": null,
+        "municipality": "Ciudad Victoria",
+        "zipCode": "87050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1493",
+          "23.744766"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Fraccionamiento Sierra Gorda",
+        "name": "Toreo Victoria,Tamps",
+        "address": "Calle 16 Sn",
+        "openingHours": null,
+        "municipality": "Ciudad Victoria",
+        "zipCode": "87050",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1528",
+          "23.732384"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Ciudad Victoria Centro",
+        "name": "C.F. Cd. Victoria,Tamps.",
+        "address": "Miguel Hidalgo 601 Ote",
+        "openingHours": null,
+        "municipality": "Ciudad Victoria",
+        "zipCode": "87000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.15856",
+          "23.754177"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "San Jose",
+        "name": "Boulevard Lopez Mateos,Cd Victoria,Tamp",
+        "address": "Boulevard Adolfo Lopez Mateos 880",
+        "openingHours": null,
+        "municipality": "Ciudad Victoria",
+        "zipCode": "87040",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.1616",
+          "23.722944"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Fraccionamiento Zozaya",
+        "name": "Tamatan, Cd Victori, Tam",
+        "address": "Calzada General Luis Caballero 250 Pte",
+        "openingHours": null,
+        "municipality": "Ciudad Victoria",
+        "zipCode": "87000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.486305",
+          "25.869274"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Residencial Las Palmas",
+        "name": "Lauro Villar,Matamoros, Tam",
+        "address": "Avenida Lauro Villar Km 2",
+        "openingHours": null,
+        "municipality": "Matamoros",
+        "zipCode": "87420",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.50333",
+          "25.865782"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Bancaria",
+        "name": "Magallanes, Matamoros, Tamps",
+        "address": "Calle 6 5",
+        "openingHours": null,
+        "municipality": "Matamoros",
+        "zipCode": "87370",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.50356",
+          "25.891197"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Jardin",
+        "name": "Aduana Matamoros Puente Viejo  Tamps",
+        "address": "Avenida Las Americas Sn",
+        "openingHours": null,
+        "municipality": "Matamoros",
+        "zipCode": "87330",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.50499",
+          "25.851698"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Fraccionamiento Victoria Sector Fiesta",
+        "name": "Plaza Fiesta, Matamoros, Tamps",
+        "address": "Avenida Pedro Cardenas Gutierrez 100",
+        "openingHours": null,
+        "municipality": "Matamoros",
+        "zipCode": "87390",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.505264",
+          "25.879614"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Matamoros Centro",
+        "name": "C.F. Matamoros,Tamps.",
+        "address": "Calle 7 611",
+        "openingHours": null,
+        "municipality": "Matamoros",
+        "zipCode": "87300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.50946",
+          "25.874004"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Zona Industrial",
+        "name": "Rigo Tovar, Matamoros, Tam",
+        "address": "Avenida Rigo Tovar 2015 A",
+        "openingHours": null,
+        "municipality": "Matamoros",
+        "zipCode": "87325",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.51243",
+          "25.88628"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Estero San Pablo",
+        "name": "Aduana Matamoros,Tam.",
+        "address": "Hermenegildo Galeana Sn",
+        "openingHours": null,
+        "municipality": "Matamoros",
+        "zipCode": "87320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.54324",
+          "25.873857"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Fraccionamiento Casa Blanca",
+        "name": "Quinta Real Matamoros, Tamps.",
+        "address": "Avenida Constituyentes Sn",
+        "openingHours": null,
+        "municipality": "Matamoros",
+        "zipCode": "87345",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.50144",
+          "27.488697"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Independencia",
+        "name": "Jesus Carranza Nte, Nuevo Laredo, Tamps",
+        "address": "Jesus Carranza 1227 Loc 3",
+        "openingHours": null,
+        "municipality": "Nuevo Laredo",
+        "zipCode": "88020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.50729",
+          "27.491863"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Independencia",
+        "name": "Nuevo Laredo Tamps",
+        "address": "Vicente Guerrero 919",
+        "openingHours": null,
+        "municipality": "Nuevo Laredo",
+        "zipCode": "88020",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.507965",
+          "27.482204"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Nuevo Laredo Centro",
+        "name": "Laredo Centro,Tamps",
+        "address": "Vicente Guerrero Sn",
+        "openingHours": null,
+        "municipality": "Nuevo Laredo",
+        "zipCode": "88000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.51196",
+          "27.468403"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Jardin",
+        "name": "Jardin Tamps",
+        "address": "Alvaro Obregon 3315",
+        "openingHours": null,
+        "municipality": "Nuevo Laredo",
+        "zipCode": "88260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.514145",
+          "27.459282"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Mexico",
+        "name": "Reforma Sur, Nuevo Laredo, Tamps",
+        "address": "Avenida Reforma 4310-3",
+        "openingHours": null,
+        "municipality": "Nuevo Laredo",
+        "zipCode": "88280",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.51626",
+          "27.490068"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Benito Juarez Fovisste",
+        "name": "Aduana, Tamps.",
+        "address": "Narciso Mendoza 1125",
+        "openingHours": null,
+        "municipality": "Nuevo Laredo",
+        "zipCode": "88274",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.517265",
+          "27.489761"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Sector Aduanal",
+        "name": "Modulo Aduanal Nuevo Laredo,Tamps",
+        "address": "Jose Maria Arteaga Sn",
+        "openingHours": null,
+        "municipality": "Nuevo Laredo",
+        "zipCode": "88274",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-99.517456",
+          "27.468422"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Jardin",
+        "name": "Lopez De Lara, Nuevo Lare, Tam",
+        "address": "Boulevard Cesar Lopez De Lara S/N",
+        "openingHours": null,
+        "municipality": "Nuevo Laredo",
+        "zipCode": "88260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.20832",
+          "26.020208"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Rio Grande Zona Federal",
+        "name": "Aduana Camargo, Reynosa, Tamps",
+        "address": "Puente Internacional Km 6  Int Recin Km 6",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88440",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.224266",
+          "26.019352"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Sector Aduanal",
+        "name": "Aduanal Puente Amanecer, Reynosa, Tamps",
+        "address": "Boulevard Colosio Y Carr Reynosa 0",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.230515",
+          "26.017021"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Bienestar",
+        "name": "Reynosa Aeropuerto, Tamps.",
+        "address": "Avenida Reynosa (Carretera Reynosa Matamoros) Km 83",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88788",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.27324",
+          "26.093721"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "El Prado",
+        "name": "Aduana Reynosa  Tamps",
+        "address": "Boulevard Miguel Aleman 100",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88560",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.27763",
+          "26.09032"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Centro",
+        "name": "Reynosa Tamps",
+        "address": "Juarez 650",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.27857",
+          "26.027992"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Carlos Cantu",
+        "name": "Plaza Juarez, Reynosa, Tamps",
+        "address": "Carretera San Fernando 1715 Cc Lo",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88797",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.27939",
+          "26.083822"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Rodriguez",
+        "name": "Anzalduas,Reynosa Tamps.",
+        "address": "Boulevard Morelos S/N",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88630",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.29311",
+          "26.055702"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Lazaro Cardenas",
+        "name": "Del Rio Plazareynosa,Tamps",
+        "address": "Carretera Reynosa Mat S/N Loc E1",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88720",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.30236",
+          "26.064716"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Rodriguez",
+        "name": "C.F. Blvd Morelos, Reynosa, Tamps",
+        "address": "Morelos 2220",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88630",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.30279",
+          "26.081696"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Ejido Los Cabazos",
+        "name": "Virreyes (Reynosa Tamps)",
+        "address": "Boulevard Miguel Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88650",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.32207",
+          "26.073666"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Las Fuentes",
+        "name": "Las Fuentes, Reynosa, Tamps",
+        "address": "Boulevard Miguel Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88743",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.368355",
+          "26.053635"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Lomas De Jarachina",
+        "name": "Periferico Reynosa, Tamps.",
+        "address": "Carretera Reynosa Monterrey 1000",
+        "openingHours": null,
+        "municipality": "Reynosa",
+        "zipCode": "88730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.09962",
+          "25.987328"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Centro",
+        "name": "Rio Bravo Tamps",
+        "address": "Francisco I Madero  Poniente 812",
+        "openingHours": null,
+        "municipality": "Rio Bravo",
+        "zipCode": "88900",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.20324",
+          "23.769836"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Centro",
+        "name": "Soto La Marina Tamps",
+        "address": "Felipe De La Garza 2 Norte",
+        "openingHours": null,
+        "municipality": "Soto La Marina",
+        "zipCode": "87670",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.84951",
+          "22.218693"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Tamaulipas",
+        "name": "Portes Gil,Tampico, Tam",
+        "address": "Emilio Portes Gil 707",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89060",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.85377",
+          "22.212477"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "0",
+        "name": "Tampico Tamps",
+        "address": "Francisco I Madero 403  Ote",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.85528",
+          "22.212467"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Zona Centro",
+        "name": "Sec Aduana Tampico,Tamps",
+        "address": "Int Recinto Portuario 0",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.85713",
+          "22.216953"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Centro",
+        "name": "Tampico Centro Historico, Tamps.",
+        "address": "Altamira 207 Oriente 207",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.85996",
+          "22.265774"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Los Pinos",
+        "name": "Universidad,Tamps",
+        "address": "Avenida Universidad 406",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89139",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.863686",
+          "22.250338"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Tampico",
+        "name": "Soriana Ejercito,Tampico, Tamps",
+        "address": "Ejercito Mexicano S/N",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89137",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.863785",
+          "22.250502"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Tampico",
+        "name": "Heb Ejercito, Tampico, Tamps",
+        "address": "Avenida Ejercito Mexicano 717",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89137",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.87021",
+          "22.240206"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Aguila",
+        "name": "Hidalgo Tampico Tamps",
+        "address": "Avenida Hidalgo S/N",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.87573",
+          "22.259953"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Lomas Del Naranjal",
+        "name": "C.F. Palmas Tampico, Tamps",
+        "address": "Avenida Hidalgo 4507",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89349",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.88111",
+          "22.30837"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Nuevo Progreso",
+        "name": "Curva Texas,Tampico, Tamps",
+        "address": "Carretera Tampico Mante 8001",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89318",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.882256",
+          "22.305511"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Del Bosque",
+        "name": "Laguna La Puerta,Tamps",
+        "address": "Carretera Tampico Mante 1505",
+        "openingHours": null,
+        "municipality": "Tampico",
+        "zipCode": "89318",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.81364",
+          "25.671442"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Tamaulipas",
+        "neighborhood": "Zona Centro",
+        "name": "Valle Hermoso,Tamps",
+        "address": "Morelos Y Jose Garcia Cardenas 21",
+        "openingHours": null,
+        "municipality": "Valle Hermoso",
+        "zipCode": "87500",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

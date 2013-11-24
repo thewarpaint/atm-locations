@@ -1,0 +1,1097 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.785065",
+          "18.978952"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Acatzingo Pue",
+        "address": "Jardin De Los Insurgentes 103 P.B.",
+        "openingHours": null,
+        "municipality": "Acatzingo",
+        "zipCode": "75150",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.43499",
+          "18.908255"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Atlixcayotl, Atlixco, Pue",
+        "address": "Avenida Independencia 14",
+        "openingHours": null,
+        "municipality": "Atlixco",
+        "zipCode": "74200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.43574",
+          "18.90493"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Francisco I Madero",
+        "name": "Atlixco,Pue",
+        "address": "Independencia 1093",
+        "openingHours": null,
+        "municipality": "Atlixco",
+        "zipCode": "74200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.03241",
+          "19.839367"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Chignahuapan, Pue",
+        "address": "Guerrero 22 No  22",
+        "openingHours": null,
+        "municipality": "Chignahuapan",
+        "zipCode": "73300",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.26872",
+          "19.092468"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Forjadores, Cuautlancingo, Pue",
+        "address": "Forjadores De Puebla 1009",
+        "openingHours": null,
+        "municipality": "Cuautlancingo",
+        "zipCode": "72700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.52189",
+          "20.018576"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Cuetzalan, Pue.",
+        "address": "Alvarado No 110",
+        "openingHours": null,
+        "municipality": "Cuetzalan",
+        "zipCode": "73560",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.0515",
+          "20.173538"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Huauchinango",
+        "name": "Huauchinango Pue",
+        "address": "Portal Zaragoza 3-A",
+        "openingHours": null,
+        "municipality": "Huauchinango",
+        "zipCode": "73160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.40611",
+          "19.16"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Huejotzingo, Pue",
+        "address": "Plaza Principal 209",
+        "openingHours": null,
+        "municipality": "Huejotzingo",
+        "zipCode": "74160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.46594",
+          "18.604689"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Izucar De Matamoros,Pue",
+        "address": "Centenario 5",
+        "openingHours": null,
+        "municipality": "Izucar De Matamoros",
+        "zipCode": "74400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.04489",
+          "18.199625"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Acatlan De Osorio,Pue",
+        "address": "Juarez 6",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "74940",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.14627",
+          "19.04172"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Chapultepec",
+        "name": "Amalucan, Pue",
+        "address": "Independencia 191",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72530",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.1587",
+          "19.055456"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Zona Ind Resureccion",
+        "name": "Zona Industrial Puebla 2000 Pue",
+        "address": "Carretera Libre Puebla-Tehuacan Km 112",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72920",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.17767",
+          "19.042974"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Humboldt",
+        "name": "Humboldt, Puebla, Pue",
+        "address": "Avenida 14 Oriente 2818",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72370",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.17799",
+          "19.065975"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Adolfo Lopez Mateos",
+        "name": "Boulevard Ignacio Zaragoza, Puebla",
+        "address": "Ignacio Zaragoza 266",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72240",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.17845",
+          "19.065035"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Los Pinos",
+        "name": "Plaza Loreto, Puebla, Pue",
+        "address": "Calzada Ignacio Zaragoza 200",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72240",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.1861",
+          "19.032892"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Azcarate",
+        "name": "Finanzas,Pue.",
+        "address": "Calle 11 Oriente  Esquina Avenida 24 Sur 2401",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72540",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.18729",
+          "19.010395"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Ex-Hacienda La Margarita",
+        "name": "Las Margaritas,Puebla, Pue",
+        "address": "San Baltazar Loc-B8/B9 C.Com. 3230",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72560",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.19237",
+          "19.01937"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "El Mirador",
+        "name": "El Mirador, Puebla, Pue",
+        "address": "Calle 24 Sur 4101",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72540",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.19262",
+          "19.057959"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Hidalgo",
+        "name": "China Poblana, Puebla, Pue",
+        "address": "Boulevard Heroes Del 5 De Mayo 3402",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.1974",
+          "19.063223"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Santa Maria",
+        "name": "Defensores, Puebla, Pue",
+        "address": "Diagonal Defensores 470",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.19796",
+          "19.046293"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Plaza Victoria,Puebla, Pue",
+        "address": "5 De Mayo 408",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.199684",
+          "19.04484"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "C.F. Puebla, Pue",
+        "address": "Avenida Reforma 135",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.20122",
+          "18.992355"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Fraccionamiento Rancho San Jose Xilotzingo",
+        "name": "Xilotzingo, Pue.",
+        "address": "Boulevard Capitan Carlos Camacho Esp. 3818",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72576",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.20216",
+          "19.029741"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "San Baltasar Campeche",
+        "name": "C.F. Plaza Dorada, Puebla, Pue",
+        "address": "Boulevard 5 De Mayo 3358",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.20382",
+          "19.072924"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Cleotilde Torres",
+        "name": "Central De Autobuses Puebla,Pue",
+        "address": "Boulevard Norte S/N",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72260",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.20561",
+          "19.035679"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "El Carmen",
+        "name": "El Carmen,Pue",
+        "address": "Avenida Revolucion 25 Poniente 123",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.21221",
+          "19.036253"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Volcanes",
+        "name": "Volcanes,Pue.",
+        "address": "Calle 31 Poniente 908",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72410",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.21353",
+          "19.0262"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "San Baltazar",
+        "name": "Boulevard Valsequillo, San Baltazar, Pue",
+        "address": "Boulevard Heroes 5 De Mayo 502",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72430",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.21693",
+          "19.0653"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Las Hadas",
+        "name": "Plaza San Pedro,Pue",
+        "address": "Boulevard Norte Loc.20-21,50-51 2210",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72070",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.21896",
+          "19.042904"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Volcanes",
+        "name": "Revolucion,Puebla, Pue",
+        "address": "Calle 25 Poniente 2108",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72410",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.22043",
+          "19.060371"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Amor",
+        "name": "Hermanos Serdan, Puebla, Pue",
+        "address": "Avenida Hermanos Serdan 139",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72140",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.222",
+          "19.053692"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "La Paz",
+        "name": "C.F. Colonia La Paz,Pue.",
+        "address": "Avenida Juarez 2918",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.22924",
+          "19.041307"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Benito Juarez",
+        "name": "Las Animas, Pue",
+        "address": "Calle 39 Poniente 2918",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.23501",
+          "19.059473"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "La Paz",
+        "name": "Recta A Cholula,Pue.",
+        "address": "Recta A Cholula 4701",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72160",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.24124",
+          "18.996887"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Coatepec",
+        "name": "San Bartolo Agua Santa,Pue",
+        "address": "Avenida Nacional 10558",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72490",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.24655",
+          "19.038734"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Zavaleta",
+        "name": "Zavaleta, Puebla, Pue",
+        "address": "Zavaleta Esquina 51 Sur S/N",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72170",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.28061",
+          "19.076086"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Cholula De Rivadavia",
+        "name": "Plaza San Diego, Cholula, Pue",
+        "address": "Boulevard Forjadores De Puebla 3401",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "72750",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.33557",
+          "19.003002"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro Chipilo",
+        "name": "Chipilo, Pue",
+        "address": "Avenida 16 De Septiembre 104",
+        "openingHours": null,
+        "municipality": "Puebla",
+        "zipCode": "74325",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.30455",
+          "19.067152"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "San Andres Cholula, Puebla, Pue",
+        "address": "Boulevard 5 De Mayo 1427",
+        "openingHours": null,
+        "municipality": "San Andres Cholula",
+        "zipCode": "72810",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.43435",
+          "19.282417"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Plaza Crystal San Martin, Pue",
+        "address": "Antgua Carretera San Martin-Tlaxcala Km 1 S/N",
+        "openingHours": null,
+        "municipality": "San Martin Texmelucan",
+        "zipCode": "74000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.43563",
+          "19.281828"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "San Martin, Texmelucan, Pue.",
+        "address": "Benito Juarez 101 Esq. Z",
+        "openingHours": null,
+        "municipality": "San Martin Texmelucan",
+        "zipCode": "29730",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.72769",
+          "18.882383"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Tecamachalco,Pue",
+        "address": "3 Oriente 409",
+        "openingHours": null,
+        "municipality": "Tecamachalco",
+        "zipCode": "75482",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.39035",
+          "18.460407"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Mercado 16 De Marzo, Tehuacan, Pue",
+        "address": "Agustin A Cacho 332",
+        "openingHours": null,
+        "municipality": "Tehuacan",
+        "zipCode": "75700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.394585",
+          "18.461466"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Reforma Tehuacan,Pue",
+        "address": "Avenida Reforma Centro Sur 202",
+        "openingHours": null,
+        "municipality": "Tehuacan",
+        "zipCode": "75700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.39461",
+          "18.46341"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Tehuacan Pue",
+        "address": "Avenida Reforma Norte 101",
+        "openingHours": null,
+        "municipality": "Tehuacan",
+        "zipCode": "75700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.013985",
+          "18.956493"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro (Antes Cve Mun Inegi 040)",
+        "name": "Tepeaca, Pue",
+        "address": "Negrete Poniente 109",
+        "openingHours": null,
+        "municipality": "Tepeaca",
+        "zipCode": "75200",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.93218",
+          "18.579535"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Tepexi De Rodriguez",
+        "name": "Tepexi De Rodriguez, Tepeaca, Pue",
+        "address": "Portal Hidalgo 1",
+        "openingHours": null,
+        "municipality": "Tepexi De Rodriguez",
+        "zipCode": "74690",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.359856",
+          "19.81607"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Teziutlan Pue",
+        "address": "Hidalgo Y Riva Palacio S/N",
+        "openingHours": null,
+        "municipality": "Teziutlan",
+        "zipCode": "73800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.36009",
+          "19.81551"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Plaza Crystal Teziutlan, Pue",
+        "address": "Prolongacion Mina 754 Num: 754",
+        "openingHours": null,
+        "municipality": "Teziutlan",
+        "zipCode": "73800",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.95883",
+          "20.270144"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Xicotepec De Juarez Pue",
+        "address": "Ignacio Zaragoza 126",
+        "openingHours": null,
+        "municipality": "Xicotepec",
+        "zipCode": "73080",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.58779",
+          "19.872223"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Zacapoaxtla, Puebla, Pue",
+        "address": "Cinco De Mayo 5",
+        "openingHours": null,
+        "municipality": "Zacapoaxtla",
+        "zipCode": "73680",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.9573",
+          "19.929422"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Puebla",
+        "neighborhood": "Centro",
+        "name": "Zacatlan,Pue",
+        "address": "Avenida 5 De Mayo 11",
+        "openingHours": null,
+        "municipality": "Zacatlan",
+        "zipCode": "73310",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}

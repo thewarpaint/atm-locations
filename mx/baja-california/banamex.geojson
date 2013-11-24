@@ -1,0 +1,1118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.99056",
+          "30.725786"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Vicente Guerrero",
+        "name": "Vicente Guerrero",
+        "address": "Carretera Transpeninsular (Avenida Benito Juarez) Km 174",
+        "openingHours": null,
+        "municipality": "Ensenada",
+        "zipCode": "22920",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.593346",
+          "31.861914"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Hidalgo",
+        "name": "Cortés",
+        "address": "Avenida Cortés s/n",
+        "openingHours": null,
+        "municipality": "Ensenada",
+        "zipCode": "22880",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.59942",
+          "31.826593"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Fraccionamiento Loma Dorada",
+        "name": "Palmeras Ensenada",
+        "address": "Avenida Huerta 136",
+        "openingHours": null,
+        "municipality": "Ensenada",
+        "zipCode": "22897",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.60408",
+          "31.851414"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Fraccionamiento Nueva Ensenada 2a Secc",
+        "name": "Nueva Ensenada",
+        "address": "General Abelardo L. Rodriguez (Alberto Rodriguez) 222",
+        "openingHours": null,
+        "municipality": "Ensenada",
+        "zipCode": "22887",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.608116",
+          "31.869864"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Comercial Misión",
+        "name": "Mision Ensenada",
+        "address": "Avenida Reforma 122",
+        "openingHours": null,
+        "municipality": "Ensenada",
+        "zipCode": "22830",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.6222",
+          "31.866753"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Fraccionamiento Chapultepec 1a Secc",
+        "name": "Juarez",
+        "address": "Calle 5a (Juarez) 520",
+        "openingHours": null,
+        "municipality": "Ensenada",
+        "zipCode": "22870",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.62898",
+          "31.866636"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Ignacio Altamirano",
+        "name": "Ensenada",
+        "address": "Avenida Ryerson 279",
+        "openingHours": null,
+        "municipality": "Ensenada",
+        "zipCode": "22870",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.69768",
+          "31.89522"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "El Sauzal",
+        "name": "El Sauzal",
+        "address": "Carretera Tijuana - Ensenada Km 143",
+        "openingHours": null,
+        "municipality": "Ensenada",
+        "zipCode": "22760",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-114.83749",
+          "31.023785"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Centro",
+        "name": "San Felipe",
+        "address": "Calzada Chetumal 42",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21850",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.38678",
+          "32.611706"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Nuevo Mexicali",
+        "name": "Nuevo Mexicali",
+        "address": "Boulevard Lazaro Cardenas (CC Nuevo Mexicali) Local 6",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21399",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.403595",
+          "32.59281"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Gonzalez Ortega",
+        "name": "Calafia",
+        "address": "Industrial Palacio 2181",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21600",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.41198",
+          "32.653145"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Rivera",
+        "name": "San Pedro",
+        "address": "Calzada Manuel Gómez Morín s/n",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21259",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.41339",
+          "32.624718"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Gral. Lázaro Cárdenas",
+        "name": "Valle Mexicali",
+        "address": "Calzada Lázaro Cárdenas 1372",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21370",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.44037",
+          "32.61691"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Maestros Federales",
+        "name": "Sánchez Taboada",
+        "address": "Calzada Benito Juarez s/n",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21360",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.44802",
+          "32.636543"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Insurgentes Este",
+        "name": "Independencia",
+        "address": "Boulevard Benito Juarez 1551",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21270",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.45206",
+          "32.65183"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Los Pinos",
+        "name": "Justo Sierra",
+        "address": "Calzada Justo Sierra 799",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21230",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.47102",
+          "32.64732"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Centro Cívico",
+        "name": "Centro Cívico",
+        "address": "Boulevard Adolfo López Mateos s/n",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.47914",
+          "32.62256"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Desarrollo Urbano Xochimilco",
+        "name": "Xochimilco",
+        "address": "Calzada Anahuac 273",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21353",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.48883",
+          "32.66421"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Centro",
+        "name": "C.F. Pacífico",
+        "address": "Jose María Morelos s/n",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.48985",
+          "32.660534"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Centro",
+        "name": "Mexicali",
+        "address": "Avenida Lerdo De Tejada 401",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.49304",
+          "32.623962"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Esperanza",
+        "name": "Anáhuac",
+        "address": "Boulevard Lázaro Cárdenas 853",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21340",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-115.50321",
+          "32.623985"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Villa Fontana",
+        "name": "Villafontana",
+        "address": "Boulevard Lázaro Cárdenas 1720",
+        "openingHours": null,
+        "municipality": "Mexicali",
+        "zipCode": "21180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.05695",
+          "32.342136"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Zona Centro",
+        "name": "Rosarito",
+        "address": "Boulevard Benito Juárez s/n",
+        "openingHours": null,
+        "municipality": "Rosarito",
+        "zipCode": "22700",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.62971",
+          "32.57305"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Tecate Centro",
+        "name": "Tecate",
+        "address": "Avenida Juarez 100",
+        "openingHours": null,
+        "municipality": "Tecate",
+        "zipCode": "21400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.86043",
+          "32.513927"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Villafontana",
+        "name": "Cucapah",
+        "address": "Boulevard Cucapah 22741-1",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22205",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.88989",
+          "32.49879"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Matamoros",
+        "name": "Matamoros",
+        "address": "Ruta de Independencia 51034",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.89473",
+          "32.457737"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Fraccionamiento El Florido",
+        "name": "Gigante Florido",
+        "address": "Boulevard Los Insurgentes 9802",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22780",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.91804",
+          "32.49871"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Fraccionamiento El Lago",
+        "name": "Monarca",
+        "address": "Boulevard Gato Bronco 18561",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22570",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.91929",
+          "32.537136"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Ciudad Industrial Otay",
+        "name": "Ciudad Industrial",
+        "address": "Boulevard Industrial s/n",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22500",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.931404",
+          "32.494858"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "El Lago",
+        "name": "Insurgentes",
+        "address": "Boulevard Los Insurgentes 1200",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22550",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.935356",
+          "32.499355"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Fraccionamiento Río Tijuana 3a Etapa",
+        "name": "Macro Plaza Insurgentes",
+        "address": "Insurgentes esquina Paseo del Parque",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22540",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.94672",
+          "32.486618"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "La Joya Este",
+        "name": "Tijuana Siglo XXI",
+        "address": "Boulevard Diaz Ordaz 15742",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22115",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.94869",
+          "32.53272"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Otay",
+        "name": "Otay",
+        "address": "Camino al Aeropuerto 1325",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22390",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.9554",
+          "32.49224"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Jalisco",
+        "name": "Benton",
+        "address": "Boulevard Gustavo Diaz Ordaz 7018",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22630",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.964935",
+          "32.497818"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "La Mesa",
+        "name": "La Mesa",
+        "address": "Boulevard Gustavo Diaz Ordaz 4002",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22610",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.97041",
+          "32.530228"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Internacional Tijuana",
+        "name": "Otay Universidad",
+        "address": "Boulevard Otay Buena Vista 2050",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22390",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.981",
+          "32.50733"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "El Paraíso",
+        "name": "El Paraíso",
+        "address": "Boulevard Gustavo Diaz Ordaz 4400",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22440",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.98793",
+          "32.470394"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Parque Industrial Pacífico",
+        "name": "Pacífico",
+        "address": "Boulevard Pacifico 8461",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22709",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-116.99927",
+          "32.507004"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Lomas Hipódromo",
+        "name": "Hipódromo",
+        "address": "Avenida Hipódromo 19",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22480",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.00593",
+          "32.51675"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Zona Río",
+        "name": "Minarete",
+        "address": "Boulevard Sánchez Taboada 4002",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.00643",
+          "32.512947"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Aviación",
+        "name": "Blvd. Agua Caliente Tijuana",
+        "address": "Boulevard Agua Caliente 4560",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22420",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.01199",
+          "32.524197"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Zona Urbana Río",
+        "name": "Paseo de los Héroes",
+        "address": "Paseo de los Héroes 10289",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22010",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.02071",
+          "32.52002"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "America",
+        "name": "Cacho",
+        "address": "Boulevard Agua Caliente 708",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22400",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.02165",
+          "32.527615"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Zona Río",
+        "name": "C.F. Río",
+        "address": "Paseo de los Héroes 10101",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.02293",
+          "32.52894"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Zona del Río",
+        "name": "CM Tijuana Plaza Río",
+        "address": "Paseo de los Héroes 95 C",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22320",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.033264",
+          "32.486427"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "El Rubí Sección Sur",
+        "name": "Fundadores",
+        "address": "Boulevard de los Fundadores 6637",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22180",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.03585",
+          "32.5255"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Zona Centro",
+        "name": "Revolución",
+        "address": "Avenida Revolución 1324",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22130",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.03702",
+          "32.53542"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Zona Centro",
+        "name": "Centro Tijuana",
+        "address": "Benito Juarez (Calle 2A) 1935",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22660",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.03829",
+          "32.532604"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Zona Centro",
+        "name": "Tijuana",
+        "address": "Avenida Constitución 404",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22000",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.0602",
+          "32.349075"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Villa Flores",
+        "name": "Giramar",
+        "address": "Boulevard Benito Juárez 2005",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22710",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.06496",
+          "32.453167"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Lomas Del Mar",
+        "name": "Santa Fe",
+        "address": "C Oriente 7002",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22239",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.07225",
+          "32.5318"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Fraccionamiento Soler",
+        "name": "Soler",
+        "address": "Avenida de la Alegría 802 Int. 4",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22100",
+        "bank": "Banamex"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.1134",
+          "32.5338"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Baja California",
+        "neighborhood": "Playas De Tijuana",
+        "name": "Playas De Tijuana",
+        "address": "Avenida Ensenada 130",
+        "openingHours": null,
+        "municipality": "Tijuana",
+        "zipCode": "22200",
+        "bank": "Banamex"
+      }
+    }
+  ]
+}
