@@ -1,0 +1,1517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.302473",
+          "21.866671"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Américas",
+        "name": "Suc. 460 Américas",
+        "address": "Av. de la Convención de 1914 Sur #706",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20230",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.315695",
+          "21.913924"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Bosques Del Prado",
+        "name": "Inst Edu Edo De Ags",
+        "address": "Blvd. Zacatecas Norte No. 849",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20100",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.312554",
+          "21.91445"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Bosques del Prado",
+        "name": "Suc. Bosques",
+        "address": "Av. Universidad y Sierra de Las Palomas",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.315288",
+          "21.912013"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Bosques Del Prado Sur",
+        "name": "Universidad Autonoma",
+        "address": "Carretera Panamericana Km. 519,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20127",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.297073",
+          "21.915436"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "C. C. Agropecuario",
+        "name": "Suc. Boulevard Sede",
+        "address": "Av. Aguascalientes Norte esq. Av. Independencia",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20138",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.223835",
+          "21.757985"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Carretera Aguascalientes",
+        "name": "Tar Aguascalientes",
+        "address": "Venustiana Carranza 8",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20311",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.280923",
+          "21.833177"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Cd Industrial",
+        "name": "Ind Del Interior 2",
+        "address": "Av. Universidad s/n, Fracc. Bosques Del Prado,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.280988",
+          "21.833138"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Cd Industrial",
+        "name": "Ind Del Interior 1",
+        "address": "Av. Aguascalientes No.1698,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.305417",
+          "21.876319"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Suc. Expoplaza",
+        "address": "Av. Aguascalientes #1698 Local 1",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20000",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.282758",
+          "21.808197"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Industria del Interior",
+        "address": "José Barba Alonso C-4E 209",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20340",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.295799",
+          "21.879879"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Munpio. Aguascalientes",
+        "address": "Carretera Lagos De Moreno-Aguascalientes K.M. 7.5 Anden 1",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20115",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.167219",
+          "22.224267"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Municipio De Tepezala",
+        "address": "Av.Convencion",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20600",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.296898",
+          "21.881651"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Suc. Aguascalientes Oficina Centro",
+        "address": "Av. 5 de Mayo #112",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.089513",
+          "22.238513"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Municipio De Asientos",
+        "address": "Av. Aguascalientes Sur Num. 402",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.280918",
+          "21.878256"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Supremo Tribunal Ags",
+        "address": "Adolfo Lopez Mateos 1001",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20115",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.276492",
+          "22.149093"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Mun Pabellon Arteaga",
+        "address": "Av. Mexico 203",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20660",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.293626",
+          "21.879121"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Suc Ags. Principal",
+        "address": "Rivero Guti\u00e9rrrez N\u00b0 118",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20000",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.292325",
+          "21.915002"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro Comercial Agropecuario",
+        "name": "Oxxo Orozco",
+        "address": "Montes Himalaya 912 La Concepcion Montes Himalaya Y Cordillera De Los Alpes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.315609",
+          "21.903682"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro Comercial Las Americas",
+        "name": "Cinepolis Aguascalient",
+        "address": "Plaza Juarez 3 Centro",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.280977",
+          "21.839232"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Ciudad Industrial",
+        "name": "P Embotelladora Ags",
+        "address": "Av. Mexico No. 202, Entre Canada Y Estados Unidos ,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.290338",
+          "21.923917"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Trojes de Alonso",
+        "name": "Suc. Altaria",
+        "address": "Blvd. Zacatecas Nte. #849 C. C. Altaria Loc. 1050",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20116",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.333355",
+          "21.949633"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Corral De Barrancos",
+        "name": "Oxxo Corral De Barranc",
+        "address": "Blvd A Zacatecas 782 Centro Comercial Agropecuario Blvd. A Zacatecas Y Av. Aguascalientes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.272901",
+          "21.885412"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Del Trabajo",
+        "name": "Secretaria De Finanzas",
+        "address": "Heroes De Nacozari 2402,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20180",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.410731",
+          "22.173258"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "El Cenizo",
+        "name": "J M Romo",
+        "address": "Blvd. A Zacatecas Norte #849, Col. Trojes De Alonso,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20502",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.281693",
+          "21.91474"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "El Cobano",
+        "name": "Oxxo Reforma",
+        "address": "Av. Las Americas 1601 Santa Elena Republica Del Peru Y Republica De Nicaragua",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.292966",
+          "21.877146"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "El Encino",
+        "name": "J. M. Romo",
+        "address": "Julio Diaz Torre 202",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.292285",
+          "21.873995"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "El Encino",
+        "name": "Idustrias Jo Bar",
+        "address": "Carr. Valladolid.Jesus Maria Km 4.5 No. 1020",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20240",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.173667",
+          "22.224475"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "El Llano",
+        "name": "Oxxo Oasis",
+        "address": "Prol. Av. Las Americas Num. 1701",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.252409",
+          "21.890379"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Fracc. Haciendas de Aguascalientes",
+        "name": "Haciendas de Aguascalientes",
+        "address": "Av. Siglo XXI 4916",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20133",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.298972",
+          "21.865633"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Fracc Las Americas",
+        "name": "Los Senderos Ags",
+        "address": "Av. Siglo Xxi Col.Fraccionamiento H Acienda De Aguascalientes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20230",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.311661",
+          "21.915766"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Fracc. Bosques Del Prado",
+        "name": "Soriana Aguascalientes",
+        "address": "Dr. Jesus Diaz De Leon 405,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20120",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.250429",
+          "21.887042"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Fracc. Haciendas De Aguascalientes",
+        "name": "Suc. Haciendas de Aguascalientes",
+        "address": "Hacienda de Ojocaliente 132",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20133",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.304602",
+          "21.862773"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Fraccionamiento El Dorado",
+        "name": "Price Shoes Ags",
+        "address": "Blvd. Carlos Canseco Gonzalez806 Reservas Territoriales",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.287843",
+          "21.898565"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Gremial",
+        "name": "Industrias Cavalier",
+        "address": "Avenida Universidad 940, Esq Av Aguascalientes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.280118",
+          "21.835906"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Industrial Aguascalientes",
+        "name": "Mexilac",
+        "address": "Julio Diaz Torre 205",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.287855",
+          "21.858859"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Jardines de Aguascalientes",
+        "name": "Suc. 3949 Aguascalientes",
+        "address": "Av. Aguascalientes 703 Sur",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20235",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.293562",
+          "21.923907"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Jardines De La Concepcion",
+        "name": "Sams Club Concepcion",
+        "address": "Blvd. Siglo 21 # 5202 Local 5, Fracc. Haciendas De Aguascalientes,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.298237",
+          "21.923265"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "La Concepcion",
+        "name": "Oxxo Galerias",
+        "address": "Carretera Aguascalientes-San Luisel Llano No Aplica",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.287951",
+          "21.916144"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Las Trojes",
+        "name": "Costco Aguascalientes",
+        "address": "Circuito Aguscalientes Nte. Num. 142, Parque Ind. Del Valle,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20127",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.294594",
+          "21.868648"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Lindavista",
+        "name": "Suc Boulevard",
+        "address": "José María Chavez 1010",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.282951",
+          "21.808715"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Los Arellano",
+        "name": "Nissan Aguascalientes",
+        "address": "Av. De La Convencion Sur 708 , Entre Av. Las Americas Y Republica De Uruguay Col.Americas",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.281964",
+          "21.81013"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Los Arellanos",
+        "name": "Nissan Mexicana",
+        "address": "Carretera Lagos de Moreno - Aguascalientes km 7.5 Anden 1",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.294168",
+          "21.862375"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Los Arellanos",
+        "name": "Suc Nissan",
+        "address": "Av. Lopez Mateos No.302 Ote.",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.348912",
+          "21.944737"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Maravillas",
+        "name": "Mahle Componentes",
+        "address": "Circuito Aguascalientes Ote No. 127 Col. Parque Ind Valle De Aguascalientes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20900",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.256311",
+          "21.851775"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Morelos 2A Seccion",
+        "name": "Bodega Aurrera Mariano",
+        "address": "Carretera Federal Lagos De Moreno-Ags Km. Num. 75",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20298",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.315014",
+          "21.859077"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Nueva Espa\u00f1a",
+        "name": "Walmart Av De Los Maes",
+        "address": "Av. Mariano Hidalgonum. 1701",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20205",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.253125",
+          "21.871635"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Ind Sn Fco 2Da Seccion",
+        "name": "Calsonickansei Fco 2",
+        "address": "Circuito Aguascalientes Ote No. 127 Col. Parque Ind Valle De Aguascalientes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20170",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.254487",
+          "21.872491"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Ind Sn Fco 2Da Seccion",
+        "name": "Calsonickansei Fco 1",
+        "address": "Av. Aguascalientes 703 Sur , Entre San Miguel Y Av. De Los Lagos Col. Jardines De Aguascalientes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20170",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.274218",
+          "22.036003"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Ind. Sn Fco De Los Romo",
+        "name": "Diseko Soluciones",
+        "address": "Av Convencion 1914 Sur No.408, Int.s/n,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20304",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.281905",
+          "21.809995"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Indst. Siglo Xxi",
+        "name": "Nissan Aguascalientes",
+        "address": "Ing. Tomas Medina Ugarte No. 515",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.282286",
+          "21.80997"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Indst. Siglo Xxi",
+        "name": "Nissan Aguascalientes",
+        "address": "Blvd. Siglo 21 # 5202 Local 5, Fracc. Haciendas De Aguascalientes,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.282178",
+          "21.81003"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Indst. Siglo Xxi",
+        "name": "Nissan Aguascalientes",
+        "address": "Av. 5 De Mayo No. 112",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20290",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.292156",
+          "21.961514"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Industrial El Vergel",
+        "name": "Xerox",
+        "address": "Adolfo Lopez Mateos # 1001",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.267866",
+          "22.036082"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Industrial San Francisco",
+        "name": "Des Com Abarrotero",
+        "address": "Centro Comercial Expoplaza Local 51,52 Y 53",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20300",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.284517",
+          "21.803057"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Industrial Siglo Xxi",
+        "name": "Planta Lavamex",
+        "address": "Adolfo Lopez Mateos # 2448",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20340",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.254294",
+          "21.872153"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Industrial Valle De Ags.",
+        "name": "Calsonickansei Ags 1",
+        "address": "Circuito Aguascalientes Ote No. 127 Col. Parque Ind Valle De Aguascalientes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20170",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.254122",
+          "21.872093"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Parque Industrial Valle De Ags.",
+        "name": "Calsonickansei Ags 2",
+        "address": "Circuito Aguascalientes Ote No. 127 Col. Parque Ind Valle De Aguascalientes",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20170",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.292317",
+          "21.84932"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Pilar Blanco",
+        "name": "Aurrera Villasuncion",
+        "address": "Av. Universidad Y Sierra De Las Palomas",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20280",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.282211",
+          "21.855669"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Piramides",
+        "name": "Farmacias B. Inegi",
+        "address": "Los Pocitos Diagonal Jes\u00fas Ma. Km. 13",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20270",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.340382",
+          "21.934049"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Pocitos",
+        "name": "Itesm Aguascalientes",
+        "address": "Av. Universidad No. 940 Esq. Av. Convencion, Fracc. Bosques,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.318007",
+          "21.866482"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "La España",
+        "name": "Industria del Interior",
+        "address": "Av. Aguascalientes Poniente 1601",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20210",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.326488",
+          "22.168966"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Rincon De Romos",
+        "name": "Prod Farmaceuticos",
+        "address": "Av. De La Convenci\u00f3n Sur 708",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20420",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.310744",
+          "21.896285"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "San Cayetano",
+        "name": "Suc. Plaza San Marcos",
+        "address": "C. C. Plaza San Marcos",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20010",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.280617",
+          "21.878353"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "San Luis",
+        "name": "Suc. Quijote",
+        "address": "Carretera Aguascalientes - Zacatecas Km. 8.5 s/n",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.303588",
+          "21.864568"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Santa Elena",
+        "name": "Oxxo Santa Elena",
+        "address": "Blvd. Miguel De La Madrid 907 Corral De Barrancos Av. Siglo Xxi Y Camino A Maravillas",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.29074",
+          "21.923499"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Trojes De Alonso",
+        "name": "Cinepolis Altaria",
+        "address": "Blvd. Aguscalientes Norte Num. 802,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.293002",
+          "21.855206"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Villa Asuncion",
+        "name": "Chedraui Aguascaliente",
+        "address": "Jose Maria Barba Alonso 209, Ciudad Industrial,",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "20280",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.31739",
+          "21.966549"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Vista Hermosa",
+        "name": "Tecnomec Agricola",
+        "address": "Plaza Juarez No.1, Int.0",
+        "openingHours": null,
+        "municipality": "Aguascalientes",
+        "zipCode": "84200",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.719148",
+          "21.846701"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Suc Calvillo",
+        "address": "Prolongacion Rayon (Entre Andador J. Pani Y Dr. Pedro De Alba),",
+        "openingHours": null,
+        "municipality": "Calvillo",
+        "zipCode": "20800",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.277227",
+          "22.147716"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Suc. Pabellón",
+        "address": "Av. Plutarco Elías Calles no. 43",
+        "openingHours": null,
+        "municipality": "Pabellón de Arteaga",
+        "zipCode": null,
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.321092",
+          "22.229111"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Suc. Rincón De Romos",
+        "address": "Morelos 121",
+        "openingHours": null,
+        "municipality": "Rincon De Romos",
+        "zipCode": "20400",
+        "bank": "BBVA Bancomer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-102.089433",
+          "22.238747"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "phone": null,
+        "state": "Aguascalientes",
+        "neighborhood": "Centro",
+        "name": "Municipio De Asientos",
+        "address": "Av. De La Convenci\u00f3n Sur No. 708",
+        "openingHours": null,
+        "municipality": "Villa Juarez",
+        "zipCode": "20700",
+        "bank": "BBVA Bancomer"
+      }
+    }
+  ]
+}
